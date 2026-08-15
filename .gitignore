@@ -1,1 +1,21 @@
-.venv
+# Virtual environments
+venv/
+.venv/
+severse/
+
+# Environment variables / secrets
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.idea/
