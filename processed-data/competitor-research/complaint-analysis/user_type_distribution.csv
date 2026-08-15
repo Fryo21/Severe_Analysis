@@ -1,0 +1,13 @@
+competitor,user_type,frequency
+Bark,Customer,95
+Bark,Service Provider / Business,227
+Bark,Unknown,361
+Checkatrade,Customer,141
+Checkatrade,Service Provider / Business,174
+Checkatrade,Unknown,287
+Yell,Customer,11
+Yell,Service Provider / Business,148
+Yell,Unknown,133
+Yelp,Customer,13
+Yelp,Service Provider / Business,114
+Yelp,Unknown,163

@@ -1,0 +1,5 @@
+competitor,file,rows,columns,rating_column,date_column,text_column,id_column,oldest_date,newest_date,missing_review_text,duplicate_review_ids,rating_counts
+Bark,bark-reviews_dataset_trustpilot-reviews-scraper_-2026-08-14_21-27-10-941.csv,1000,400,rating,publishedDate,text,reviewId,2018-02-14,2026-08-14,0,0,"{1: 244, 2: 230, 3: 220, 4: 173, 5: 133}"
+Checkatrade,checkatrade_reviews_dataset_trustpilot-reviews-scraper_ 2026-08-14_21-36-34-763.csv,1012,368,rating,publishedDate,text,reviewId,2019-11-05,2026-08-14,0,0,"{1: 202, 2: 200, 3: 201, 4: 200, 5: 209}"
+Yell,yell_reviews_dataset_trustpilot-reviews-scraperl_2026-08-14_21-32-14-618.csv,1000,347,rating,publishedDate,text,reviewId,2016-10-18,2026-08-14,0,0,"{1: 202, 2: 200, 3: 200, 4: 200, 5: 198}"
+Yelp,yelp_reviews_dataset_trustpilot-reviews-scraper_2026-08-14_21-34-04-187.csv,796,202,rating,publishedDate,text,reviewId,2012-05-19,2026-08-14,0,0,"{1: 315, 2: 131, 3: 80, 4: 64, 5: 206}"

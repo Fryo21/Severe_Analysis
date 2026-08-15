@@ -1,0 +1,67 @@
+competitor,complaint,frequency
+Bark,Other / Manual Review,440
+Bark,Pricing or cost,129
+Bark,Refund problems,44
+Bark,Unresponsive leads or customers,40
+Bark,Poor customer support,32
+Bark,Verification or trust,19
+Bark,Dispute or complaint resolution,14
+Bark,Too many providers contacting customer,13
+Bark,Poor lead quality,11
+Bark,Fake or invalid leads,10
+Bark,Poor provider quality,10
+Bark,Billing or unexpected charges,9
+Bark,Cancellation difficulty,8
+Bark,Provider did not show up,8
+Bark,Sales pressure,8
+Bark,Poor matching,5
+Checkatrade,Other / Manual Review,322
+Checkatrade,Pricing or cost,125
+Checkatrade,Dispute or complaint resolution,61
+Checkatrade,Poor customer support,54
+Checkatrade,Poor provider quality,40
+Checkatrade,Cancellation difficulty,36
+Checkatrade,Verification or trust,31
+Checkatrade,Billing or unexpected charges,30
+Checkatrade,Unresponsive leads or customers,21
+Checkatrade,Provider did not show up,15
+Checkatrade,Refund problems,14
+Checkatrade,Too many providers contacting customer,11
+Checkatrade,Sales pressure,10
+Checkatrade,Poor lead quality,6
+Checkatrade,Review trust,6
+Checkatrade,Poor matching,4
+Checkatrade,Account problems,2
+Checkatrade,Fake or invalid leads,1
+Yell,Other / Manual Review,127
+Yell,Pricing or cost,71
+Yell,Cancellation difficulty,56
+Yell,Poor customer support,44
+Yell,Dispute or complaint resolution,35
+Yell,Billing or unexpected charges,21
+Yell,Sales pressure,17
+Yell,Refund problems,14
+Yell,Poor provider quality,12
+Yell,Too many providers contacting customer,5
+Yell,Poor lead quality,4
+Yell,Poor matching,3
+Yell,Review trust,3
+Yell,Unresponsive leads or customers,3
+Yell,Verification or trust,2
+Yell,Account problems,1
+Yelp,Other / Manual Review,155
+Yelp,Pricing or cost,58
+Yelp,Poor customer support,46
+Yelp,Cancellation difficulty,33
+Yelp,Dispute or complaint resolution,23
+Yelp,Refund problems,20
+Yelp,Sales pressure,15
+Yelp,Poor provider quality,13
+Yelp,Billing or unexpected charges,12
+Yelp,Review trust,10
+Yelp,Unresponsive leads or customers,7
+Yelp,Verification or trust,7
+Yelp,Too many providers contacting customer,6
+Yelp,Fake or invalid leads,2
+Yelp,Poor matching,2
+Yelp,Provider did not show up,2

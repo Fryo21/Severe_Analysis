@@ -1,0 +1,319 @@
+complaint,competitor,user_type,severity,frequency
+Other / Manual Review,Bark,Unknown,Low,98
+Other / Manual Review,Bark,Unknown,High,92
+Other / Manual Review,Checkatrade,Unknown,Low,87
+Other / Manual Review,Yelp,Unknown,High,82
+Other / Manual Review,Bark,Unknown,Medium,74
+Other / Manual Review,Bark,Service Provider / Business,High,54
+Other / Manual Review,Checkatrade,Unknown,Medium,52
+Other / Manual Review,Yelp,Service Provider / Business,High,45
+Other / Manual Review,Yell,Unknown,High,43
+Other / Manual Review,Checkatrade,Unknown,High,43
+Other / Manual Review,Checkatrade,Customer,Medium,36
+Pricing or cost,Yell,Service Provider / Business,High,35
+Pricing or cost,Yelp,Service Provider / Business,High,35
+Cancellation difficulty,Yell,Service Provider / Business,High,32
+Pricing or cost,Checkatrade,Service Provider / Business,High,30
+Other / Manual Review,Bark,Service Provider / Business,Medium,30
+Other / Manual Review,Yell,Service Provider / Business,High,30
+Pricing or cost,Bark,Service Provider / Business,High,30
+Other / Manual Review,Checkatrade,Customer,Low,28
+Other / Manual Review,Bark,Service Provider / Business,Low,27
+Pricing or cost,Bark,Service Provider / Business,Medium,25
+Other / Manual Review,Bark,Customer,Medium,25
+Other / Manual Review,Bark,Customer,Low,24
+Poor customer support,Yelp,Service Provider / Business,High,24
+Other / Manual Review,Checkatrade,Service Provider / Business,High,24
+Other / Manual Review,Checkatrade,Service Provider / Business,Medium,22
+Poor customer support,Checkatrade,Service Provider / Business,High,22
+Cancellation difficulty,Yelp,Service Provider / Business,High,21
+Dispute or complaint resolution,Yell,Service Provider / Business,High,21
+Poor customer support,Yell,Service Provider / Business,High,21
+Other / Manual Review,Checkatrade,Service Provider / Business,Low,20
+Refund problems,Bark,Service Provider / Business,High,20
+Dispute or complaint resolution,Checkatrade,Service Provider / Business,High,20
+Pricing or cost,Checkatrade,Unknown,Low,18
+Dispute or complaint resolution,Yelp,Service Provider / Business,High,17
+Cancellation difficulty,Yell,Unknown,High,17
+Pricing or cost,Yelp,Unknown,High,17
+Pricing or cost,Bark,Unknown,Medium,17
+Pricing or cost,Yell,Unknown,High,17
+Pricing or cost,Bark,Service Provider / Business,Low,16
+Other / Manual Review,Yell,Unknown,Medium,16
+Other / Manual Review,Bark,Customer,High,16
+Pricing or cost,Checkatrade,Unknown,Medium,16
+Refund problems,Bark,Service Provider / Business,Medium,16
+Poor customer support,Yelp,Unknown,High,15
+Poor customer support,Yell,Unknown,High,15
+Other / Manual Review,Yell,Unknown,Low,15
+Cancellation difficulty,Checkatrade,Service Provider / Business,High,15
+Pricing or cost,Checkatrade,Service Provider / Business,Medium,15
+Pricing or cost,Bark,Unknown,High,14
+Pricing or cost,Checkatrade,Unknown,High,14
+Pricing or cost,Bark,Unknown,Low,14
+Dispute or complaint resolution,Checkatrade,Unknown,High,13
+Poor provider quality,Checkatrade,Unknown,High,13
+Pricing or cost,Checkatrade,Customer,High,12
+Other / Manual Review,Yelp,Unknown,Medium,12
+Poor customer support,Bark,Service Provider / Business,High,11
+Refund problems,Yell,Service Provider / Business,High,11
+Unresponsive leads or customers,Bark,Service Provider / Business,High,11
+Billing or unexpected charges,Yelp,Service Provider / Business,High,11
+Dispute or complaint resolution,Checkatrade,Customer,High,10
+Unresponsive leads or customers,Bark,Service Provider / Business,Medium,10
+Refund problems,Yelp,Service Provider / Business,High,10
+Billing or unexpected charges,Yell,Service Provider / Business,High,10
+Verification or trust,Checkatrade,Service Provider / Business,High,10
+Other / Manual Review,Yell,Service Provider / Business,Medium,10
+Poor provider quality,Checkatrade,Service Provider / Business,High,10
+Other / Manual Review,Checkatrade,Customer,High,10
+Sales pressure,Yelp,Service Provider / Business,High,10
+Billing or unexpected charges,Checkatrade,Service Provider / Business,High,9
+Cancellation difficulty,Yelp,Unknown,High,9
+Poor provider quality,Checkatrade,Customer,High,9
+Poor provider quality,Yelp,Service Provider / Business,High,9
+Pricing or cost,Checkatrade,Customer,Low,8
+Poor provider quality,Yell,Service Provider / Business,High,8
+Poor customer support,Checkatrade,Unknown,High,8
+Refund problems,Yelp,Unknown,High,8
+Poor customer support,Checkatrade,Service Provider / Business,Medium,8
+Poor lead quality,Bark,Service Provider / Business,Medium,8
+Other / Manual Review,Yelp,Unknown,Low,8
+Other / Manual Review,Yell,Service Provider / Business,Low,7
+Dispute or complaint resolution,Yell,Unknown,High,7
+Sales pressure,Yell,Service Provider / Business,High,7
+Review trust,Yelp,Service Provider / Business,High,7
+Pricing or cost,Bark,Customer,High,7
+Poor customer support,Checkatrade,Unknown,Medium,7
+Pricing or cost,Checkatrade,Customer,Medium,7
+Verification or trust,Bark,Service Provider / Business,Medium,6
+Unresponsive leads or customers,Checkatrade,Service Provider / Business,High,6
+Cancellation difficulty,Checkatrade,Unknown,High,6
+Pricing or cost,Yell,Service Provider / Business,Low,6
+Verification or trust,Checkatrade,Unknown,High,6
+Poor customer support,Checkatrade,Customer,High,6
+Pricing or cost,Checkatrade,Service Provider / Business,Low,5
+Unresponsive leads or customers,Bark,Unknown,Low,5
+Refund problems,Checkatrade,Customer,High,5
+Cancellation difficulty,Yell,Service Provider / Business,Medium,5
+Unresponsive leads or customers,Bark,Unknown,High,5
+Dispute or complaint resolution,Bark,Unknown,High,5
+Cancellation difficulty,Checkatrade,Service Provider / Business,Medium,5
+Cancellation difficulty,Checkatrade,Customer,High,5
+Too many providers contacting customer,Yell,Service Provider / Business,High,5
+Too many providers contacting customer,Yelp,Service Provider / Business,High,5
+Dispute or complaint resolution,Bark,Service Provider / Business,High,5
+Poor lead quality,Checkatrade,Service Provider / Business,High,5
+Pricing or cost,Yell,Service Provider / Business,Medium,5
+Poor customer support,Bark,Unknown,High,5
+Dispute or complaint resolution,Checkatrade,Service Provider / Business,Medium,5
+Fake or invalid leads,Bark,Service Provider / Business,High,5
+Refund problems,Checkatrade,Service Provider / Business,High,5
+Dispute or complaint resolution,Checkatrade,Unknown,Medium,5
+Billing or unexpected charges,Checkatrade,Unknown,High,5
+Billing or unexpected charges,Yell,Unknown,High,5
+Verification or trust,Bark,Service Provider / Business,High,5
+Billing or unexpected charges,Checkatrade,Service Provider / Business,Medium,4
+Unresponsive leads or customers,Yelp,Service Provider / Business,High,4
+Sales pressure,Checkatrade,Service Provider / Business,High,4
+Unresponsive leads or customers,Checkatrade,Customer,Low,4
+Cancellation difficulty,Checkatrade,Unknown,Medium,4
+Too many providers contacting customer,Checkatrade,Unknown,Low,4
+Sales pressure,Yell,Unknown,Medium,4
+Verification or trust,Yelp,Service Provider / Business,High,4
+Verification or trust,Checkatrade,Customer,High,4
+Poor provider quality,Bark,Service Provider / Business,High,4
+Other / Manual Review,Yelp,Customer,High,4
+Billing or unexpected charges,Checkatrade,Customer,High,4
+Poor lead quality,Yell,Service Provider / Business,High,4
+Poor customer support,Yelp,Unknown,Medium,4
+Refund problems,Bark,Unknown,High,4
+Dispute or complaint resolution,Checkatrade,Unknown,Low,4
+Provider did not show up,Bark,Unknown,High,4
+Other / Manual Review,Yell,Customer,High,4
+Poor customer support,Bark,Service Provider / Business,Medium,4
+Unresponsive leads or customers,Checkatrade,Unknown,Low,3
+Verification or trust,Yelp,Unknown,High,3
+Verification or trust,Checkatrade,Service Provider / Business,Medium,3
+Too many providers contacting customer,Bark,Unknown,High,3
+Sales pressure,Yelp,Unknown,High,3
+Too many providers contacting customer,Bark,Unknown,Medium,3
+Too many providers contacting customer,Bark,Unknown,Low,3
+Too many providers contacting customer,Checkatrade,Unknown,High,3
+Too many providers contacting customer,Checkatrade,Unknown,Medium,3
+Unresponsive leads or customers,Bark,Customer,High,3
+Unresponsive leads or customers,Checkatrade,Service Provider / Business,Medium,3
+Billing or unexpected charges,Bark,Customer,High,3
+Verification or trust,Checkatrade,Service Provider / Business,Low,3
+Sales pressure,Checkatrade,Unknown,Low,3
+Dispute or complaint resolution,Yelp,Unknown,High,3
+Review trust,Checkatrade,Service Provider / Business,Low,3
+Sales pressure,Yell,Unknown,High,3
+Fake or invalid leads,Bark,Service Provider / Business,Medium,3
+Refund problems,Checkatrade,Unknown,High,3
+Provider did not show up,Checkatrade,Customer,Low,3
+Poor customer support,Bark,Customer,High,3
+Poor customer support,Bark,Unknown,Medium,3
+Poor customer support,Bark,Service Provider / Business,Low,3
+Pricing or cost,Yell,Unknown,Medium,3
+Poor matching,Yell,Service Provider / Business,High,3
+Pricing or cost,Yell,Customer,High,3
+Pricing or cost,Yelp,Customer,High,3
+Poor matching,Checkatrade,Service Provider / Business,High,3
+Poor provider quality,Checkatrade,Service Provider / Business,Medium,3
+Pricing or cost,Bark,Customer,Medium,3
+Pricing or cost,Bark,Customer,Low,3
+Unresponsive leads or customers,Yelp,Unknown,High,3
+Billing or unexpected charges,Checkatrade,Unknown,Low,3
+Billing or unexpected charges,Yell,Service Provider / Business,Medium,3
+Billing or unexpected charges,Checkatrade,Unknown,Medium,3
+Billing or unexpected charges,Bark,Unknown,Medium,2
+Billing or unexpected charges,Yell,Unknown,Medium,2
+Verification or trust,Bark,Unknown,Low,2
+Verification or trust,Bark,Unknown,Medium,2
+Verification or trust,Bark,Service Provider / Business,Low,2
+Unresponsive leads or customers,Yell,Service Provider / Business,High,2
+Verification or trust,Checkatrade,Customer,Low,2
+Poor provider quality,Bark,Unknown,Medium,2
+Poor provider quality,Bark,Customer,High,2
+Billing or unexpected charges,Bark,Service Provider / Business,Medium,2
+Poor customer support,Yell,Unknown,Low,2
+Poor customer support,Yell,Service Provider / Business,Medium,2
+Poor customer support,Yelp,Customer,High,2
+Poor customer support,Yell,Unknown,Medium,2
+Poor matching,Yelp,Service Provider / Business,High,2
+Pricing or cost,Yell,Unknown,Low,2
+Poor customer support,Checkatrade,Service Provider / Business,Low,2
+Poor customer support,Yell,Customer,High,2
+Poor matching,Bark,Unknown,Low,2
+Poor provider quality,Yelp,Unknown,High,2
+Poor provider quality,Yell,Unknown,High,2
+Poor provider quality,Checkatrade,Unknown,Medium,2
+Dispute or complaint resolution,Bark,Service Provider / Business,Medium,2
+Cancellation difficulty,Bark,Unknown,Low,2
+Cancellation difficulty,Bark,Unknown,High,2
+Dispute or complaint resolution,Checkatrade,Service Provider / Business,Low,2
+Unresponsive leads or customers,Checkatrade,Customer,Medium,2
+Unresponsive leads or customers,Bark,Customer,Medium,2
+Unresponsive leads or customers,Bark,Service Provider / Business,Low,2
+Cancellation difficulty,Yell,Unknown,Medium,2
+Dispute or complaint resolution,Yell,Service Provider / Business,Medium,2
+Dispute or complaint resolution,Yell,Unknown,Low,2
+Dispute or complaint resolution,Yelp,Customer,High,2
+Dispute or complaint resolution,Yell,Service Provider / Business,Low,2
+Provider did not show up,Checkatrade,Service Provider / Business,Medium,2
+Provider did not show up,Checkatrade,Unknown,Low,2
+Provider did not show up,Checkatrade,Customer,High,2
+Provider did not show up,Checkatrade,Customer,Medium,2
+Other / Manual Review,Yelp,Customer,Medium,2
+Other / Manual Review,Yelp,Service Provider / Business,Medium,2
+Poor customer support,Bark,Customer,Medium,2
+Provider did not show up,Checkatrade,Unknown,Medium,2
+Refund problems,Bark,Service Provider / Business,Low,2
+Unresponsive leads or customers,Bark,Unknown,Medium,2
+Sales pressure,Bark,Unknown,Medium,2
+Review trust,Yell,Service Provider / Business,High,2
+Review trust,Yelp,Unknown,High,2
+Sales pressure,Bark,Customer,High,2
+Sales pressure,Bark,Customer,Low,2
+Billing or unexpected charges,Yell,Customer,High,1
+Billing or unexpected charges,Bark,Unknown,High,1
+Billing or unexpected charges,Checkatrade,Customer,Low,1
+Billing or unexpected charges,Checkatrade,Service Provider / Business,Low,1
+Verification or trust,Bark,Unknown,High,1
+Poor provider quality,Checkatrade,Service Provider / Business,Low,1
+Poor provider quality,Checkatrade,Customer,Low,1
+Poor provider quality,Bark,Unknown,High,1
+Poor provider quality,Bark,Service Provider / Business,Medium,1
+Verification or trust,Checkatrade,Customer,Medium,1
+Unresponsive leads or customers,Yell,Customer,High,1
+Verification or trust,Bark,Customer,High,1
+Poor customer support,Yelp,Unknown,Low,1
+Poor provider quality,Yelp,Unknown,Medium,1
+Provider did not show up,Checkatrade,Unknown,High,1
+Provider did not show up,Bark,Unknown,Medium,1
+Provider did not show up,Checkatrade,Service Provider / Business,Low,1
+Poor customer support,Bark,Unknown,Low,1
+Other / Manual Review,Yell,Customer,Low,1
+Poor matching,Checkatrade,Service Provider / Business,Medium,1
+Poor customer support,Checkatrade,Unknown,Low,1
+Provider did not show up,Bark,Service Provider / Business,Medium,1
+Provider did not show up,Bark,Customer,High,1
+Pricing or cost,Yelp,Unknown,Medium,1
+Pricing or cost,Yelp,Unknown,Low,1
+Pricing or cost,Yelp,Service Provider / Business,Low,1
+Poor lead quality,Bark,Service Provider / Business,Low,1
+Poor lead quality,Bark,Service Provider / Business,High,1
+Poor lead quality,Bark,Unknown,High,1
+Poor matching,Bark,Unknown,Medium,1
+Poor matching,Bark,Service Provider / Business,Medium,1
+Poor matching,Bark,Service Provider / Business,Low,1
+Poor lead quality,Checkatrade,Service Provider / Business,Medium,1
+Poor provider quality,Yell,Service Provider / Business,Low,1
+Poor provider quality,Yell,Customer,High,1
+Poor provider quality,Yelp,Customer,High,1
+Poor provider quality,Checkatrade,Unknown,Low,1
+Review trust,Checkatrade,Service Provider / Business,High,1
+Review trust,Checkatrade,Customer,High,1
+Refund problems,Yelp,Unknown,Medium,1
+Refund problems,Yelp,Customer,High,1
+Refund problems,Yell,Unknown,Medium,1
+Fake or invalid leads,Yelp,Unknown,High,1
+Fake or invalid leads,Yelp,Service Provider / Business,High,1
+Fake or invalid leads,Checkatrade,Service Provider / Business,High,1
+Fake or invalid leads,Bark,Unknown,Medium,1
+Refund problems,Yell,Unknown,High,1
+Refund problems,Yell,Service Provider / Business,Low,1
+Refund problems,Checkatrade,Customer,Low,1
+Refund problems,Bark,Unknown,Medium,1
+Refund problems,Bark,Customer,High,1
+Provider did not show up,Yelp,Unknown,Medium,1
+Provider did not show up,Yelp,Unknown,High,1
+Provider did not show up,Bark,Unknown,Low,1
+Other / Manual Review,Yell,Customer,Medium,1
+Sales pressure,Checkatrade,Service Provider / Business,Medium,1
+Sales pressure,Checkatrade,Customer,Medium,1
+Sales pressure,Yell,Customer,High,1
+Sales pressure,Yell,Service Provider / Business,Low,1
+Sales pressure,Yell,Service Provider / Business,Medium,1
+Sales pressure,Checkatrade,Unknown,High,1
+Sales pressure,Bark,Unknown,Low,1
+Sales pressure,Bark,Service Provider / Business,High,1
+Review trust,Yell,Service Provider / Business,Medium,1
+Review trust,Checkatrade,Unknown,High,1
+Dispute or complaint resolution,Yelp,Customer,Medium,1
+Fake or invalid leads,Bark,Service Provider / Business,Low,1
+Review trust,Yelp,Service Provider / Business,Medium,1
+Dispute or complaint resolution,Yell,Unknown,Medium,1
+Too many providers contacting customer,Yelp,Unknown,High,1
+Too many providers contacting customer,Checkatrade,Customer,Low,1
+Too many providers contacting customer,Bark,Service Provider / Business,Low,1
+Too many providers contacting customer,Bark,Service Provider / Business,High,1
+Too many providers contacting customer,Bark,Customer,Low,1
+Too many providers contacting customer,Bark,Customer,Medium,1
+Sales pressure,Yelp,Unknown,Medium,1
+Sales pressure,Yelp,Customer,High,1
+Dispute or complaint resolution,Checkatrade,Customer,Medium,1
+Dispute or complaint resolution,Checkatrade,Customer,Low,1
+Dispute or complaint resolution,Bark,Unknown,Low,1
+Billing or unexpected charges,Yelp,Unknown,High,1
+Dispute or complaint resolution,Bark,Service Provider / Business,Low,1
+Cancellation difficulty,Yelp,Customer,High,1
+Cancellation difficulty,Yelp,Unknown,Medium,1
+Cancellation difficulty,Yelp,Service Provider / Business,Medium,1
+Cancellation difficulty,Bark,Unknown,Medium,1
+Cancellation difficulty,Bark,Service Provider / Business,Medium,1
+Cancellation difficulty,Bark,Customer,High,1
+Cancellation difficulty,Bark,Customer,Medium,1
+Cancellation difficulty,Checkatrade,Customer,Medium,1
+Unresponsive leads or customers,Checkatrade,Customer,High,1
+Unresponsive leads or customers,Checkatrade,Unknown,High,1
+Unresponsive leads or customers,Checkatrade,Unknown,Medium,1
+Billing or unexpected charges,Bark,Customer,Medium,1
+Account problems,Yell,Unknown,High,1
+Verification or trust,Checkatrade,Unknown,Low,1
+Verification or trust,Checkatrade,Unknown,Medium,1
+Verification or trust,Yell,Service Provider / Business,High,1
+Verification or trust,Yell,Unknown,High,1
+Account problems,Checkatrade,Unknown,Medium,1
+Account problems,Checkatrade,Service Provider / Business,High,1
