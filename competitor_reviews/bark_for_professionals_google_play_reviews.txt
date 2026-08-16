@@ -7,6 +7,21 @@ APP: Bark for Professionals
 STORE: Google Play
 COUNTRY: GB
 RATING: 5/5
+DATE: 2026-08-14 18:04:33
+VERSION: 8.101.0
+AUTHOR: Malven Chisakuwana
+
+REVIEW:
+awesome ♥️
+
+DEVELOPER REPLY:
+Hi there, Thank you so much for taking the time to leave such a sweet review! We are absolutely thrilled to hear that you had an awesome experience with Bark. Knowing that our customers are happy truly makes our day! Whenever you need help with future projects or services, we would be delighted to assist you again. The Bark Team,
+
+================================================================================
+APP: Bark for Professionals
+STORE: Google Play
+COUNTRY: GB
+RATING: 5/5
 DATE: 2026-08-11 16:10:16
 VERSION: 8.100.0
 AUTHOR: Hooman
@@ -23950,19 +23965,4 @@ Scamer
 
 DEVELOPER REPLY:
 Hi there, We're sorry to hear you feel this way, but we refute your claim. Please contact us at team@bark.com for support. Kind regards, Bark Team
-
-================================================================================
-APP: Bark for Professionals
-STORE: Google Play
-COUNTRY: GB
-RATING: 1/5
-DATE: 2022-03-15 03:47:51
-VERSION: 
-AUTHOR: Venson Cursey
-
-REVIEW:
-Not one Real lead or customer on Bark. Bark WILL NOT give a refund !!!! ONLY will issue you more credits to phone numbers that don't work. When you call and ask question about the system the employees HANG up in your face. DON'T WASTE YOUR MONEY WITH THIS BRITISH COMPANY !!! THEY ARE NOT IN CALIFORNIA...
-
-DEVELOPER REPLY:
-Hi Venson, We're sorry to hear of these issues. We do not claim to provide monetary refunds - we provide credits returns for issues with leads, or if you are not hired using your first pack. We will only end calls if a caller has become abusive. Please email us at team@bark.com to discuss this. Bark Team
 

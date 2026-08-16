@@ -1,7 +1,7 @@
 SERVERSE COMPETITOR NEGATIVE REVIEWS
 1 TO 3 STAR REVIEWS
 ================================================================================
-Total negative reviews: 2492
+Total negative reviews: 2532
 
 ================================================================================
 APP: Yell Business
@@ -5619,6 +5619,539 @@ TITLE: Cant rest password on app
 
 REVIEW:
 tried resetting the password five times and it won’t let it reset on the app, but on the website it does so I wouldn’t recommend getting the app or rather do it on the website because you just can’t reset the password on the app to login with my details
+
+================================================================================
+APP: Checkatrade for Trades
+STORE: Apple App Store
+COUNTRY: GB
+RATING: 1/5
+DATE: 2023-09-07T14:00:28-07:00
+VERSION: 2.12.0
+AUTHOR: Tariq619
+TITLE: Log in issues
+
+REVIEW:
+The app doesn’t allow me log in but when sending reset password says will send an email and it never comes??
+
+================================================================================
+APP: Checkatrade for Trades
+STORE: Apple App Store
+COUNTRY: GB
+RATING: 3/5
+DATE: 2023-09-05T04:26:27-07:00
+VERSION: 2.12.0
+AUTHOR: jackm091000
+TITLE: Unable to create account
+
+REVIEW:
+I just downloaded the app and there is no option to create account on the app
+
+================================================================================
+APP: Checkatrade for Trades
+STORE: Apple App Store
+COUNTRY: GB
+RATING: 1/5
+DATE: 2023-08-30T00:33:04-07:00
+VERSION: 2.12.0
+AUTHOR: bageuceva
+TITLE: Don’t subscribe they’re thieves
+
+REVIEW:
+Hi I’ve first subscribed 2 years ago and barely had a job during the first year! Now second year I tought I got rid of them and they still charged me as is an auto renewal contract! Beside I’ve told the many times to not renew it I had to do it 30 days before the end of it ! Now I have to mail them every month to pause my account ! Wich I’m doing from last year ! This time in the email of pause the account for following month I’ve stated my intention not to renew next year .. surprise surprise they charged me full month spending ! They are proper thieves! It’s a shame small businesses waste funds in frauding hopes as this one’s! Calling them thieves is not enough !
+
+================================================================================
+APP: Checkatrade for Trades
+STORE: Apple App Store
+COUNTRY: GB
+RATING: 1/5
+DATE: 2023-08-02T05:06:17-07:00
+VERSION: 2.11.0
+AUTHOR: thebradski007
+TITLE: Mr.
+
+REVIEW:
+Used to be a good company but since being taken over they doubled their prices and just became money grabbers!! Some trades I’ve seen on here I would not trust to do work in my shed let alone house!!
+
+================================================================================
+APP: Checkatrade for Trades
+STORE: Apple App Store
+COUNTRY: GB
+RATING: 1/5
+DATE: 2023-07-28T01:58:02-07:00
+VERSION: 2.11.0
+AUTHOR: C J @Brighton
+TITLE: Bricklayer
+
+REVIEW:
+The sub headings don’t cover enough of the tasks that a bricklayer carries out. Like removal of chimney stacks and breasts, garden walls, retaining walls, brick planters, structural alterations, patios, brick paving, manholes. There’s probably more if I thought about it.
+
+================================================================================
+APP: Checkatrade for Trades
+STORE: Apple App Store
+COUNTRY: GB
+RATING: 1/5
+DATE: 2023-06-22T20:19:00-07:00
+VERSION: 2.11.0
+AUTHOR: Deaf Ruth
+TITLE: Idea is great but……
+
+REVIEW:
+Both my brother and I who live at different address, have had no contact from anyone, when using this site / system. Slightly annoying.
+
+================================================================================
+APP: Checkatrade for Trades
+STORE: Apple App Store
+COUNTRY: GB
+RATING: 1/5
+DATE: 2023-05-04T16:41:29-07:00
+VERSION: 2.10.1
+AUTHOR: johny099
+TITLE: Scam
+
+REVIEW:
+Don’t ever go on the check a trade guys you all don’t want to waist your money,don’t sign for check a trade you will regret it
+
+================================================================================
+APP: Checkatrade for Trades
+STORE: Apple App Store
+COUNTRY: GB
+RATING: 1/5
+DATE: 2023-03-16T08:27:01-07:00
+VERSION: 2.9.2
+AUTHOR: Blueline Maintenance Ltd
+TITLE: Building Company
+
+REVIEW:
+This app is an absolute Circus, you have to log in and out of it 3 times for it to work! Complete shambles. I spent up to 15 minutes trying to log into a website that I’m already paying nearly £300 a month to use?? So so frustrating .very poor show from Checkatrade!
+
+================================================================================
+APP: Checkatrade for Trades
+STORE: Apple App Store
+COUNTRY: GB
+RATING: 1/5
+DATE: 2023-02-11T14:44:31-07:00
+VERSION: 2.9.2
+AUTHOR: taj£@&
+TITLE: TSG Heating Services Limited
+
+REVIEW:
+Waste of money please be careful
+
+================================================================================
+APP: Checkatrade for Trades
+STORE: Apple App Store
+COUNTRY: GB
+RATING: 1/5
+DATE: 2022-11-22T19:38:18-07:00
+VERSION: 2.9.2
+AUTHOR: International Business Student
+TITLE: I would not recommend!
+
+REVIEW:
+Pro member £250 ship comes with a plot of companies that are willing to advertise your activities. The platform they use it is based on recessions and probably they won’t provide enough to pay your bills. I have to pay a £30 bill for the next half of year for a sticker and a notebook that did not provide me a £.
+
+================================================================================
+APP: Checkatrade for Trades
+STORE: Apple App Store
+COUNTRY: GB
+RATING: 1/5
+DATE: 2022-11-07T01:16:28-07:00
+VERSION: 2.9.2
+AUTHOR: Darreng0506
+TITLE: Ruined it Not functional
+
+REVIEW:
+New app version is shocking to use and now the web team are obliterating the web version. Taking commonly used functions away from the app and web page. Will be pausing my subscription until it’s sorted as this is making the admin of contacting new leads rather tedious. Being able to click on the post code which used to open google maps no longer working, unable to copy and post job details from the website to add to contact details on my phone. Actually going to cancel my membership as this doesn’t make the job easier.
+
+================================================================================
+APP: Checkatrade for Trades
+STORE: Apple App Store
+COUNTRY: GB
+RATING: 1/5
+DATE: 2022-11-05T14:41:26-07:00
+VERSION: 2.9.2
+AUTHOR: Beal4
+TITLE: New app
+
+REVIEW:
+The new app is shocking compared to the old one. The job comes through and the address is no longer a link to automatically show you where the hob is. The WhatsApp message email phone option has gone you have to copy and paste to however you want to contact the client. Please revert back to the old version. So good didn’t need to be altered.
+
+================================================================================
+APP: Checkatrade for Trades
+STORE: Apple App Store
+COUNTRY: GB
+RATING: 1/5
+DATE: 2022-11-03T05:20:57-07:00
+VERSION: 2.9.2
+AUTHOR: Furyvaider
+TITLE: New app is not as good
+
+REVIEW:
+The apps just updated its self on my phone and it used to offer a button direct to WhatsApp , sms etc now it doesn’t not ideal
+
+================================================================================
+APP: Checkatrade for Trades
+STORE: Apple App Store
+COUNTRY: GB
+RATING: 1/5
+DATE: 2022-11-02T02:29:16-07:00
+VERSION: 2.9.2
+AUTHOR: gbpriddle
+TITLE: New update not great
+
+REVIEW:
+Responding to enquiries used to be an easy click of the WhatsApp button, but that has now gone. You now can’t even copy the number to paste it into the messages or WhatsApp, leaving you no option but to press to call the number or manually transfer the number over. The new layout is good, but please bring back the multiple buttons which made it much easier to get in touch with customers.
+
+================================================================================
+APP: Checkatrade for Trades
+STORE: Apple App Store
+COUNTRY: GB
+RATING: 1/5
+DATE: 2022-10-20T18:24:46-07:00
+VERSION: 2.9.2
+AUTHOR: ms_wilson
+TITLE: Can’t login
+
+REVIEW:
+The app just will not accept my website login credentials.
+
+================================================================================
+APP: Checkatrade for Trades
+STORE: Apple App Store
+COUNTRY: GB
+RATING: 1/5
+DATE: 2022-09-21T05:34:53-07:00
+VERSION: 2.8.0
+AUTHOR: natnpl
+TITLE: Can’t be trusted
+
+REVIEW:
+I’m an Electrician I used to be registered with checkatrade decided not to renew as instead of carrying out DBS check at the time it was due they simply asked me some questions such as have I been convicted of any crime or been to jail in the last 3 years I answered there questions honestly and they told me they wouldn’t need to do a DBS check I wonder how many dishonest people give the answers that are need to maintain there membership
+
+================================================================================
+APP: Checkatrade for Trades
+STORE: Apple App Store
+COUNTRY: GB
+RATING: 1/5
+DATE: 2022-08-14T08:06:57-07:00
+VERSION: 2.8.0
+AUTHOR: unfinished footsteps
+TITLE: Useless
+
+REVIEW:
+I can log in on safari, but when I use the exact same details to log into the app, it says it’s wrong!
+
+================================================================================
+APP: Checkatrade for Trades
+STORE: Apple App Store
+COUNTRY: GB
+RATING: 1/5
+DATE: 2022-07-19T06:50:40-07:00
+VERSION: 2.8.0
+AUTHOR: nanak7474
+TITLE: Checkatrade is scam
+
+REVIEW:
+I have been paying Checkatrade from last year I had 3 jobs in total. I complained multiple times every customer advisor said I can make it work for you but as always it never worked. When told them to stop my subscription they you are in a contract I said I am receiving any benefit of it at all why should I pay they threatened me saying they will take me to the court, and they said if you can’t pay whole amount but you can pay us £10 every month instead so we don’t take any actions against you. So terrible experience I will not recommend anyone to go on Checkatrade
+
+================================================================================
+APP: Checkatrade for Trades
+STORE: Apple App Store
+COUNTRY: GB
+RATING: 1/5
+DATE: 2022-04-21T09:28:08-07:00
+VERSION: 2.6.0
+AUTHOR: Snarfalous
+TITLE: The app is awful!
+
+REVIEW:
+Who ever built this app needs a slap! You literally have to login every single time you want to use? No Face ID, no remembering you’ve put your password 3000 times. Crap
+
+================================================================================
+APP: Checkatrade for Trades
+STORE: Apple App Store
+COUNTRY: GB
+RATING: 2/5
+DATE: 2022-01-18T02:18:55-07:00
+VERSION: 2.4.0
+AUTHOR: renskywalker
+TITLE: Still very buggy
+
+REVIEW:
+I would honestly fire the development crew and re hire a new team. My university graduate cold create a less buggy app. Signs me out every time i switch between reviews of photos. Photo manipulation is windows 97 level. I just don’t understand why they don’t have a bigger budget for this platform.!
+
+================================================================================
+APP: Checkatrade for Trades
+STORE: Apple App Store
+COUNTRY: GB
+RATING: 1/5
+DATE: 2021-12-29T12:13:18-07:00
+VERSION: 2.4.0
+AUTHOR: levi11221122
+TITLE: Wast of time for me
+
+REVIEW:
+Checkatrade was around £1100 for the year I have been on it for 5 mounts and haven’t had 1 qoute very disappointed
+
+================================================================================
+APP: Checkatrade for Trades
+STORE: Apple App Store
+COUNTRY: GB
+RATING: 1/5
+DATE: 2021-12-20T06:11:00-07:00
+VERSION: 2.4.0
+AUTHOR: White Willow Landscaping
+TITLE: Avoid
+
+REVIEW:
+Paid for Pro Memberships for a few months, 2 leads. Told a load of promises and lies. Don’t waste your time and hard earned money
+
+================================================================================
+APP: Checkatrade for Trades
+STORE: Apple App Store
+COUNTRY: GB
+RATING: 1/5
+DATE: 2021-11-18T15:33:02-07:00
+VERSION: 2.4.0
+AUTHOR: eddyj&w
+TITLE: Terrible app
+
+REVIEW:
+App constantly wants me log when i am already logged in!! This needs fixing. Also can’t seem to view my profile from a customers point of view. Not good enough considering the monthly subscription!!!
+
+================================================================================
+APP: Checkatrade for Trades
+STORE: Apple App Store
+COUNTRY: GB
+RATING: 1/5
+DATE: 2021-10-29T13:20:07-07:00
+VERSION: 2.3.0
+AUTHOR: Petka1975
+TITLE: Doesn’t work since last update
+
+REVIEW:
+After last update it redirects me to white screen. Deleted and downloaded again. Still no luck. Has been like that for weeks
+
+================================================================================
+APP: Checkatrade for Trades
+STORE: Apple App Store
+COUNTRY: GB
+RATING: 1/5
+DATE: 2021-03-17T11:56:49-07:00
+VERSION: 1.1.32
+AUTHOR: Snicx
+TITLE: Not as easy as you advertised!!!
+
+REVIEW:
+The app is absolutely annoying and in order to upload the pictures you have to do it one by one this is very frustrating especially with available technology these days!!! Can this be sorted?
+
+================================================================================
+APP: Checkatrade for Trades
+STORE: Apple App Store
+COUNTRY: GB
+RATING: 1/5
+DATE: 2021-02-07T01:21:57-07:00
+VERSION: 1.1.32
+AUTHOR: Wayne the gooner
+TITLE: Rubbish
+
+REVIEW:
+Not working properly it keeps showing that I’ve got a message when I haven’t Checkatrade you charge a lot of money for your service so please fix ASAP
+
+================================================================================
+APP: Checkatrade for Trades
+STORE: Apple App Store
+COUNTRY: GB
+RATING: 2/5
+DATE: 2021-01-15T06:06:44-07:00
+VERSION: 1.1.32
+AUTHOR: Adltmmyxxcc
+TITLE: Good idea
+
+REVIEW:
+Good idea but uploading multiple jobs with 10/20 pictures literally takes hours! Used to be able to load multiple pics but now only one at a time which is annoying. Needs to be streamlined
+
+================================================================================
+APP: Checkatrade for Trades
+STORE: Apple App Store
+COUNTRY: GB
+RATING: 1/5
+DATE: 2020-11-23T14:29:46-07:00
+VERSION: 1.0.19
+AUTHOR: Home Cinema Alliance
+TITLE: Real time feedback?
+
+REVIEW:
+I thought this app was supposed to offer more insight and up to date information about your account with Checkatrade. However the figures never seam to change compared to the website account. Overall left Checkatrade in 2014 and decided to rejoin in 2020. Unfortunately after 2 months I think I’m leaving again as they really haven’t progressed as a company in 6 years ☹️
+
+================================================================================
+APP: Checkatrade for Trades
+STORE: Apple App Store
+COUNTRY: GB
+RATING: 1/5
+DATE: 2020-09-30T07:39:50-07:00
+VERSION: 1.0.18
+AUTHOR: Reeve1118818
+TITLE: Facebook sharing of reviews to business page does not work
+
+REVIEW:
+When attempted to share review on Facebook business page this does not work.
+
+================================================================================
+APP: Checkatrade for Trades
+STORE: Apple App Store
+COUNTRY: GB
+RATING: 3/5
+DATE: 2020-09-25T13:41:00-07:00
+VERSION: 1.0.18
+AUTHOR: Bellyboy1980
+TITLE: Notifications?
+
+REVIEW:
+App is ok but I wish it would send me push notifications on my Home Screen when a potential customer emails me. I currently have to open the app and check if someone has left a message which can be a bit tedious.
+
+================================================================================
+APP: Checkatrade for Trades
+STORE: Apple App Store
+COUNTRY: GB
+RATING: 1/5
+DATE: 2020-09-05T03:37:04-07:00
+VERSION: 1.0.18
+AUTHOR: Best Reviews 1998
+TITLE: App and website is riddled with bugs.
+
+REVIEW:
+I’m new to check a trade and I’m not to impressed with how such a large company handles an app which runs like a unresponsive steam train. Whenever I try to update my profile text it just doesn’t change anything even after clicking the finish button it’s still blank and it’s making my company and myself look blank and the map is the main issue for me, my company covers mutiple locations but can only be found in kent which is so disappointing, I’ll be removing myself from this app at end of weekend when I can actually get in contact with there team as they don’t even work weekends which is disappointing even more so on such a promising app, let down us least to say at the moment.
+
+================================================================================
+APP: Checkatrade for Trades
+STORE: Apple App Store
+COUNTRY: GB
+RATING: 1/5
+DATE: 2020-09-01T14:33:52-07:00
+VERSION: 1.0.18
+AUTHOR: memyselfaltaf
+TITLE: Poor quality
+
+REVIEW:
+Got to be one of the worst apps I have ever downloaded. Flaky unstable and difficult to use .. could have been so much better!
+
+================================================================================
+APP: Checkatrade for Trades
+STORE: Apple App Store
+COUNTRY: GB
+RATING: 1/5
+DATE: 2020-08-22T09:21:16-07:00
+VERSION: 1.0.16
+AUTHOR: Ianbaker78
+TITLE: Not very good
+
+REVIEW:
+Open app and it doesn’t show me homepage just members area
+
+================================================================================
+APP: Checkatrade for Trades
+STORE: Apple App Store
+COUNTRY: GB
+RATING: 3/5
+DATE: 2020-08-04T00:53:14-07:00
+VERSION: 1.0.16
+AUTHOR: Corkmad
+TITLE: Customer review if trade
+
+REVIEW:
+I cannot write a review on the trade person as cannot access the app. Is there only an app for trade people?
+
+================================================================================
+APP: Checkatrade for Trades
+STORE: Apple App Store
+COUNTRY: GB
+RATING: 1/5
+DATE: 2020-08-02T05:27:05-07:00
+VERSION: 1.0.16
+AUTHOR: aimen-1993
+TITLE: Rubbish App
+
+REVIEW:
+Honestly I’m not happy at all with this app as most of The Times shows that I’m off line !!! And not showing the messages received!! Need improvement, most of the time saying I’m outside my area !!! I will just stop my membership with Checkatrade because of this .
+
+================================================================================
+APP: Checkatrade for Trades
+STORE: Apple App Store
+COUNTRY: GB
+RATING: 2/5
+DATE: 2020-07-30T01:29:51-07:00
+VERSION: 1.0.16
+AUTHOR: Realist Jay
+TITLE: Useful but frustrating
+
+REVIEW:
+App needs looking into. My vetting proceed has been successfully completed, the app tells me to “log out and log back in” to get full use but the log out option has disappeared🥴. In addition certain feature in the app don’t work at all!
+
+================================================================================
+APP: Checkatrade for Trades
+STORE: Apple App Store
+COUNTRY: GB
+RATING: 1/5
+DATE: 2020-07-26T02:04:42-07:00
+VERSION: 1.0.16
+AUTHOR: stevie1punch
+TITLE: Rubbish app.
+
+REVIEW:
+Very limited, hard to use. Keeps saying I’m offline when I’m not. Come on Checkatrade. We pay you so much money in fees every year. This is seriously poor. And why did you get rid of the other app where you could search for a trade? Sort it out.
+
+================================================================================
+APP: Checkatrade for Trades
+STORE: Apple App Store
+COUNTRY: GB
+RATING: 1/5
+DATE: 2020-07-02T07:29:51-07:00
+VERSION: 1.0.12
+AUTHOR: Dara-B
+TITLE: Very slow
+
+REVIEW:
+Not the best app, actually one of the worst. Considering how much they charge for membership. Painfully slow, not responsive. A pain to upload photos one at a time, then another 10 min to turn it right way up and add description. Website is not a-lot better either!!
+
+================================================================================
+APP: Checkatrade for Trades
+STORE: Apple App Store
+COUNTRY: GB
+RATING: 1/5
+DATE: 2020-06-02T14:55:56-07:00
+VERSION: 1.0.12
+AUTHOR: UpsetKy
+TITLE: Notifications not working
+
+REVIEW:
+I’ve deleted the app and re added it almost 5 times and I’ve missed out on 3 jobs as the notifications don’t work. You have to go in to the app then in the the messages section to see a new message Don’t even get an email enquire anymore
+
+================================================================================
+APP: Checkatrade for Trades
+STORE: Apple App Store
+COUNTRY: GB
+RATING: 3/5
+DATE: 2020-05-06T15:18:36-07:00
+VERSION: 1.0.9
+AUTHOR: Tiny the sailor
+TITLE: Useful app but needs some tweaking
+
+REVIEW:
+This is a good start but needs to be reorganised a bit. Also it seems to constantly glitch between being online and off line . The emergency job feature is good when it works. I tried to use the member area to upload my PLI documents but it didn’t work so had to use the website. When uploading photos it seems to suggest that multiple photos can be uploaded in one go but it actually only accepts one at a time which makes it quite a lengthy process.
+
+================================================================================
+APP: Checkatrade for Trades
+STORE: Apple App Store
+COUNTRY: GB
+RATING: 3/5
+DATE: 2020-02-26T01:08:44-07:00
+VERSION: 1.0.6
+AUTHOR: no happy with kapten
+TITLE: Few Feature Updates
+
+REVIEW:
+Overall, it is a good looking app with some of the basic features. However, it is felt that a few additional features could make the app more user friendly. Such as: • Share - A feature that allows users to share their profile page with potential clients cross platform (email, text, social media etc.). • Review Request - A feature that allows users to send a link to clients to request for feedback as it is found that receive feedback digitally can be very affective (send link via email, text social media or even put a button on tradespersons company websites). Just a few ideas for improvements.
 
 ================================================================================
 APP: Bark for Professionals
@@ -19824,21 +20357,6 @@ Scamer
 
 DEVELOPER REPLY:
 Hi there, We're sorry to hear you feel this way, but we refute your claim. Please contact us at team@bark.com for support. Kind regards, Bark Team
-
-================================================================================
-APP: Bark for Professionals
-STORE: Google Play
-COUNTRY: GB
-RATING: 1/5
-DATE: 2022-03-15 03:47:51
-VERSION: 
-AUTHOR: Venson Cursey
-
-REVIEW:
-Not one Real lead or customer on Bark. Bark WILL NOT give a refund !!!! ONLY will issue you more credits to phone numbers that don't work. When you call and ask question about the system the employees HANG up in your face. DON'T WASTE YOUR MONEY WITH THIS BRITISH COMPANY !!! THEY ARE NOT IN CALIFORNIA...
-
-DEVELOPER REPLY:
-Hi Venson, We're sorry to hear of these issues. We do not claim to provide monetary refunds - we provide credits returns for issues with leads, or if you are not hired using your first pack. We will only end calls if a caller has become abusive. Please email us at team@bark.com to discuss this. Bark Team
 
 ================================================================================
 APP: Bark for Professionals
