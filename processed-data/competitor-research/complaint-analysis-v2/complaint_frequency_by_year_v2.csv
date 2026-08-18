@@ -1,0 +1,131 @@
+competitor,year,complaint,frequency
+Bark,2025,Billing / unexpected charges,1
+Bark,2025,Fake or invalid leads,2
+Bark,2025,Lead cost / poor ROI,1
+Bark,2025,Low provider response / availability,1
+Bark,2025,Misleading claims / transparency,2
+Bark,2025,Poor lead quality,3
+Bark,2025,Poor matching / location,2
+Bark,2025,Pricing / quote transparency,2
+Bark,2025,Provider no-show / ghosting,1
+Bark,2025,Refund / credit problems,6
+Bark,2025,Sales pressure / upselling,1
+Bark,2025,Spam / unwanted contact / privacy,1
+Bark,2025,Too many providers contacting customer,2
+Bark,2025,Unresponsive leads or customers,1
+Bark,2026,AI / automation experience,9
+Bark,2026,Account / access problems,2
+Bark,2026,Cancellation / account deletion,5
+Bark,2026,Complaint / dispute / protection failure,3
+Bark,2026,Fake or invalid leads,10
+Bark,2026,Lead cost / poor ROI,16
+Bark,2026,Low provider response / availability,7
+Bark,2026,Misleading claims / transparency,12
+Bark,2026,Platform usability / technical problems,3
+Bark,2026,Poor customer support,9
+Bark,2026,Poor lead quality,12
+Bark,2026,Poor matching / location,17
+Bark,2026,Poor provider quality / workmanship,4
+Bark,2026,Pricing / quote transparency,12
+Bark,2026,Provider competition / oversaturation,4
+Bark,2026,Provider no-show / ghosting,9
+Bark,2026,Provider verification / trust / safety,8
+Bark,2026,Refund / credit problems,35
+Bark,2026,Review trust / moderation,1
+Bark,2026,Sales pressure / upselling,10
+Bark,2026,Spam / unwanted contact / privacy,30
+Bark,2026,Too many providers contacting customer,12
+Bark,2026,Unresponsive leads or customers,16
+Checkatrade,2025,Account / access problems,1
+Checkatrade,2025,Low provider response / availability,2
+Checkatrade,2025,Misleading claims / transparency,1
+Checkatrade,2025,Poor customer support,1
+Checkatrade,2025,Poor matching / location,5
+Checkatrade,2025,Pricing / quote transparency,2
+Checkatrade,2025,Provider no-show / ghosting,6
+Checkatrade,2025,Provider verification / trust / safety,1
+Checkatrade,2025,Refund / credit problems,2
+Checkatrade,2025,Review trust / moderation,2
+Checkatrade,2025,Sales pressure / upselling,2
+Checkatrade,2025,Spam / unwanted contact / privacy,1
+Checkatrade,2025,Too many providers contacting customer,1
+Checkatrade,2025,Unresponsive leads or customers,1
+Checkatrade,2026,Account / access problems,4
+Checkatrade,2026,Billing / unexpected charges,8
+Checkatrade,2026,Cancellation / account deletion,1
+Checkatrade,2026,Complaint / dispute / protection failure,3
+Checkatrade,2026,Fake or invalid leads,1
+Checkatrade,2026,Lead cost / poor ROI,4
+Checkatrade,2026,Low provider response / availability,2
+Checkatrade,2026,Misleading claims / transparency,7
+Checkatrade,2026,Platform usability / technical problems,3
+Checkatrade,2026,Poor customer support,6
+Checkatrade,2026,Poor lead quality,9
+Checkatrade,2026,Poor matching / location,4
+Checkatrade,2026,Poor provider quality / workmanship,13
+Checkatrade,2026,Pricing / quote transparency,7
+Checkatrade,2026,Provider no-show / ghosting,14
+Checkatrade,2026,Provider verification / trust / safety,7
+Checkatrade,2026,Refund / credit problems,12
+Checkatrade,2026,Review trust / moderation,4
+Checkatrade,2026,Sales pressure / upselling,7
+Checkatrade,2026,Spam / unwanted contact / privacy,7
+Checkatrade,2026,Too many providers contacting customer,6
+Checkatrade,2026,Unresponsive leads or customers,3
+Yell,2024,Billing / unexpected charges,1
+Yell,2024,Low provider response / availability,1
+Yell,2024,Refund / credit problems,2
+Yell,2024,Review trust / moderation,1
+Yell,2024,Sales pressure / upselling,1
+Yell,2024,Spam / unwanted contact / privacy,1
+Yell,2024,Too many providers contacting customer,1
+Yell,2025,Billing / unexpected charges,1
+Yell,2025,Lead cost / poor ROI,4
+Yell,2025,Misleading claims / transparency,3
+Yell,2025,Poor customer support,2
+Yell,2025,Poor matching / location,1
+Yell,2025,Poor provider quality / workmanship,2
+Yell,2025,Refund / credit problems,2
+Yell,2025,Sales pressure / upselling,1
+Yell,2025,Spam / unwanted contact / privacy,1
+Yell,2026,Account / access problems,2
+Yell,2026,Billing / unexpected charges,5
+Yell,2026,Cancellation / account deletion,2
+Yell,2026,Complaint / dispute / protection failure,1
+Yell,2026,Lead cost / poor ROI,4
+Yell,2026,Low provider response / availability,1
+Yell,2026,Misleading claims / transparency,13
+Yell,2026,Poor customer support,1
+Yell,2026,Poor lead quality,2
+Yell,2026,Poor matching / location,3
+Yell,2026,Provider verification / trust / safety,1
+Yell,2026,Refund / credit problems,10
+Yell,2026,Review trust / moderation,2
+Yell,2026,Sales pressure / upselling,13
+Yell,2026,Spam / unwanted contact / privacy,11
+Yell,2026,Too many providers contacting customer,1
+Yelp,2024,Poor matching / location,1
+Yelp,2024,Poor provider quality / workmanship,1
+Yelp,2024,Refund / credit problems,1
+Yelp,2024,Spam / unwanted contact / privacy,1
+Yelp,2025,Poor provider quality / workmanship,1
+Yelp,2025,Provider no-show / ghosting,1
+Yelp,2025,Review trust / moderation,1
+Yelp,2026,Billing / unexpected charges,1
+Yelp,2026,Cancellation / account deletion,3
+Yelp,2026,Complaint / dispute / protection failure,2
+Yelp,2026,Fake or invalid leads,2
+Yelp,2026,Lead cost / poor ROI,4
+Yelp,2026,Misleading claims / transparency,15
+Yelp,2026,Poor customer support,4
+Yelp,2026,Poor lead quality,2
+Yelp,2026,Poor matching / location,4
+Yelp,2026,Poor provider quality / workmanship,1
+Yelp,2026,Pricing / quote transparency,1
+Yelp,2026,Provider no-show / ghosting,1
+Yelp,2026,Refund / credit problems,18
+Yelp,2026,Review trust / moderation,8
+Yelp,2026,Sales pressure / upselling,11
+Yelp,2026,Spam / unwanted contact / privacy,10
+Yelp,2026,Too many providers contacting customer,7
+Yelp,2026,Unresponsive leads or customers,1

@@ -1,0 +1,62 @@
+competitor,weakness_area,frequency,total_negative_reviews,percent_of_negative_sample
+Bark,Complaints / disputes,43,203,21.2
+Bark,Lead quality,39,203,19.2
+Bark,Privacy / contact control,31,203,15.3
+Bark,Quality of matching,19,203,9.4
+Bark,Provider ROI / pricing,17,203,8.4
+Bark,Pricing,15,203,7.4
+Bark,Messaging / contact,14,203,6.9
+Bark,Provider quality,14,203,6.9
+Bark,Trust / transparency,14,203,6.9
+Bark,Platform usability,12,203,5.9
+Bark,Sales pressure,11,203,5.4
+Bark,Customer support,9,203,4.4
+Bark,Finding a provider,8,203,3.9
+Bark,Provider verification,8,203,3.9
+Bark,Account management,7,203,3.4
+Bark,Provider competition,4,203,2.0
+Bark,Review trust,1,203,0.5
+Checkatrade,Provider quality,33,132,25.0
+Checkatrade,Complaints / disputes,17,132,12.9
+Checkatrade,Pricing,17,132,12.9
+Checkatrade,Lead quality,14,132,10.6
+Checkatrade,Quality of matching,9,132,6.8
+Checkatrade,Sales pressure,9,132,6.8
+Checkatrade,Privacy / contact control,8,132,6.1
+Checkatrade,Provider verification,8,132,6.1
+Checkatrade,Trust / transparency,8,132,6.1
+Checkatrade,Customer support,7,132,5.3
+Checkatrade,Messaging / contact,7,132,5.3
+Checkatrade,Account management,6,132,4.5
+Checkatrade,Review trust,6,132,4.5
+Checkatrade,Finding a provider,4,132,3.0
+Checkatrade,Provider ROI / pricing,4,132,3.0
+Checkatrade,Platform usability,3,132,2.3
+Yell,Trust / transparency,16,71,22.5
+Yell,Complaints / disputes,15,71,21.1
+Yell,Sales pressure,15,71,21.1
+Yell,Privacy / contact control,13,71,18.3
+Yell,Provider ROI / pricing,8,71,11.3
+Yell,Pricing,7,71,9.9
+Yell,Quality of matching,4,71,5.6
+Yell,Account management,3,71,4.2
+Yell,Customer support,3,71,4.2
+Yell,Review trust,3,71,4.2
+Yell,Finding a provider,2,71,2.8
+Yell,Lead quality,2,71,2.8
+Yell,Messaging / contact,2,71,2.8
+Yell,Provider quality,2,71,2.8
+Yell,Provider verification,1,71,1.4
+Yelp,Complaints / disputes,21,77,27.3
+Yelp,Trust / transparency,15,77,19.5
+Yelp,Privacy / contact control,11,77,14.3
+Yelp,Sales pressure,11,77,14.3
+Yelp,Review trust,9,77,11.7
+Yelp,Messaging / contact,7,77,9.1
+Yelp,Lead quality,5,77,6.5
+Yelp,Provider quality,5,77,6.5
+Yelp,Quality of matching,5,77,6.5
+Yelp,Customer support,4,77,5.2
+Yelp,Provider ROI / pricing,4,77,5.2
+Yelp,Account management,3,77,3.9
+Yelp,Pricing,2,77,2.6

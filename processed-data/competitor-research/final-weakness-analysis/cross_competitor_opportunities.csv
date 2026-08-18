@@ -1,0 +1,26 @@
+user_type,theme,competitors_with_evidence,macro_average_prevalence_percent,average_severity_score,cross_competitor_evidence_score
+Customer,Review trust / moderation,2,38.4,2.0,76.8
+Customer,Provider quality / no-show,2,30.5,2.18,66.5
+Customer,Provider verification / safety,2,12.8,2.41,30.8
+Customer,Finding a provider / low response,3,16.8,1.39,23.3
+Customer,Platform usability / technical issues,3,13.7,1.17,16.0
+Customer,Poor matching / location,3,8.7,1.33,11.6
+Customer,Pricing / quote transparency,2,5.8,2.0,11.5
+Customer,Customer support,3,5.1,2.0,10.3
+Customer,Privacy / unwanted contact,3,5.1,1.44,7.3
+Customer,Misleading claims / transparency,2,3.5,2.0,7.0
+Customer,Dispute resolution / protection,2,2.4,2.5,5.9
+Customer,Too many provider contacts / spam,2,4.0,1.42,5.7
+Service Provider / Business,Unresponsive leads,1,29.3,2.0,58.6
+Service Provider / Business,Poor ROI / expensive leads,4,27.3,2.07,56.6
+Service Provider / Business,Billing / refunds,4,17.6,2.09,36.8
+Service Provider / Business,Misleading claims / transparency,4,15.5,2.02,31.2
+Service Provider / Business,Account access / cancellation,4,13.9,2.1,29.2
+Service Provider / Business,Poor lead quality,4,13.0,2.08,27.2
+Service Provider / Business,Review trust / moderation,3,12.5,2.0,25.1
+Service Provider / Business,Sales pressure / contract terms,4,10.4,2.06,21.5
+Service Provider / Business,Fake / invalid leads,3,8.9,2.0,17.8
+Service Provider / Business,Customer support,4,8.7,2.03,17.6
+Service Provider / Business,Privacy / unwanted contact,3,7.4,1.78,13.3
+Service Provider / Business,Platform usability / technical issues,4,7.0,1.49,10.5
+Service Provider / Business,Too much provider competition,1,2.4,1.0,2.4

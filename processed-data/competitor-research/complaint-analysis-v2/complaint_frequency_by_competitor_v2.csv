@@ -1,0 +1,82 @@
+competitor,complaint,frequency,total_negative_reviews,percent_of_negative_sample
+Bark,Refund / credit problems,41,682,6.0
+Bark,Spam / unwanted contact / privacy,31,682,4.5
+Bark,Poor matching / location,19,682,2.8
+Bark,Lead cost / poor ROI,17,682,2.5
+Bark,Unresponsive leads or customers,17,682,2.5
+Bark,Poor lead quality,15,682,2.2
+Bark,Misleading claims / transparency,14,682,2.1
+Bark,Pricing / quote transparency,14,682,2.1
+Bark,Too many providers contacting customer,14,682,2.1
+Bark,Fake or invalid leads,12,682,1.8
+Bark,Sales pressure / upselling,11,682,1.6
+Bark,Provider no-show / ghosting,10,682,1.5
+Bark,AI / automation experience,9,682,1.3
+Bark,Poor customer support,9,682,1.3
+Bark,Low provider response / availability,8,682,1.2
+Bark,Provider verification / trust / safety,8,682,1.2
+Bark,Cancellation / account deletion,5,682,0.7
+Bark,Poor provider quality / workmanship,4,682,0.6
+Bark,Provider competition / oversaturation,4,682,0.6
+Bark,Complaint / dispute / protection failure,3,682,0.4
+Bark,Platform usability / technical problems,3,682,0.4
+Bark,Account / access problems,2,682,0.3
+Bark,Billing / unexpected charges,1,682,0.1
+Bark,Review trust / moderation,1,682,0.1
+Checkatrade,Provider no-show / ghosting,20,602,3.3
+Checkatrade,Refund / credit problems,14,602,2.3
+Checkatrade,Poor provider quality / workmanship,13,602,2.2
+Checkatrade,Poor lead quality,9,602,1.5
+Checkatrade,Poor matching / location,9,602,1.5
+Checkatrade,Pricing / quote transparency,9,602,1.5
+Checkatrade,Sales pressure / upselling,9,602,1.5
+Checkatrade,Billing / unexpected charges,8,602,1.3
+Checkatrade,Misleading claims / transparency,8,602,1.3
+Checkatrade,Provider verification / trust / safety,8,602,1.3
+Checkatrade,Spam / unwanted contact / privacy,8,602,1.3
+Checkatrade,Poor customer support,7,602,1.2
+Checkatrade,Too many providers contacting customer,7,602,1.2
+Checkatrade,Review trust / moderation,6,602,1.0
+Checkatrade,Account / access problems,5,602,0.8
+Checkatrade,Lead cost / poor ROI,4,602,0.7
+Checkatrade,Low provider response / availability,4,602,0.7
+Checkatrade,Unresponsive leads or customers,4,602,0.7
+Checkatrade,Complaint / dispute / protection failure,3,602,0.5
+Checkatrade,Platform usability / technical problems,3,602,0.5
+Checkatrade,Cancellation / account deletion,1,602,0.2
+Checkatrade,Fake or invalid leads,1,602,0.2
+Yell,Misleading claims / transparency,16,292,5.5
+Yell,Sales pressure / upselling,15,292,5.1
+Yell,Refund / credit problems,14,292,4.8
+Yell,Spam / unwanted contact / privacy,13,292,4.5
+Yell,Lead cost / poor ROI,8,292,2.7
+Yell,Billing / unexpected charges,7,292,2.4
+Yell,Poor matching / location,4,292,1.4
+Yell,Poor customer support,3,292,1.0
+Yell,Review trust / moderation,3,292,1.0
+Yell,Account / access problems,2,292,0.7
+Yell,Cancellation / account deletion,2,292,0.7
+Yell,Low provider response / availability,2,292,0.7
+Yell,Poor lead quality,2,292,0.7
+Yell,Poor provider quality / workmanship,2,292,0.7
+Yell,Too many providers contacting customer,2,292,0.7
+Yell,Complaint / dispute / protection failure,1,292,0.3
+Yell,Provider verification / trust / safety,1,292,0.3
+Yelp,Refund / credit problems,19,290,6.6
+Yelp,Misleading claims / transparency,15,290,5.2
+Yelp,Sales pressure / upselling,11,290,3.8
+Yelp,Spam / unwanted contact / privacy,11,290,3.8
+Yelp,Review trust / moderation,9,290,3.1
+Yelp,Too many providers contacting customer,7,290,2.4
+Yelp,Poor matching / location,5,290,1.7
+Yelp,Lead cost / poor ROI,4,290,1.4
+Yelp,Poor customer support,4,290,1.4
+Yelp,Cancellation / account deletion,3,290,1.0
+Yelp,Poor provider quality / workmanship,3,290,1.0
+Yelp,Complaint / dispute / protection failure,2,290,0.7
+Yelp,Fake or invalid leads,2,290,0.7
+Yelp,Poor lead quality,2,290,0.7
+Yelp,Provider no-show / ghosting,2,290,0.7
+Yelp,Billing / unexpected charges,1,290,0.3
+Yelp,Pricing / quote transparency,1,290,0.3
+Yelp,Unresponsive leads or customers,1,290,0.3

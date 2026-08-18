@@ -1,0 +1,81 @@
+competitor,user_type,theme,High,Low,Medium,average_severity_score
+Bark,Customer,Customer support,0.0,0.0,2.0,2.0
+Bark,Customer,Dispute resolution / protection,1.0,0.0,0.0,3.0
+Bark,Customer,Finding a provider / low response,0.0,4.0,5.0,1.56
+Bark,Customer,Misleading claims / transparency,0.0,0.0,1.0,2.0
+Bark,Customer,Platform usability / technical issues,0.0,9.0,0.0,1.0
+Bark,Customer,Poor matching / location,0.0,4.0,2.0,1.33
+Bark,Customer,Pricing / quote transparency,0.0,0.0,3.0,2.0
+Bark,Customer,Privacy / unwanted contact,0.0,1.0,0.0,1.0
+Bark,Customer,Provider quality / no-show,3.0,0.0,9.0,2.25
+Bark,Customer,Provider verification / safety,3.0,0.0,5.0,2.38
+Bark,Customer,Too many provider contacts / spam,0.0,1.0,1.0,1.5
+Bark,Service Provider / Business,Account access / cancellation,0.0,0.0,2.0,2.0
+Bark,Service Provider / Business,Billing / refunds,0.0,0.0,5.0,2.0
+Bark,Service Provider / Business,Customer support,0.0,0.0,2.0,2.0
+Bark,Service Provider / Business,Fake / invalid leads,0.0,0.0,7.0,2.0
+Bark,Service Provider / Business,Misleading claims / transparency,0.0,0.0,2.0,2.0
+Bark,Service Provider / Business,Platform usability / technical issues,0.0,1.0,3.0,1.75
+Bark,Service Provider / Business,Poor ROI / expensive leads,1.0,0.0,8.0,2.11
+Bark,Service Provider / Business,Poor lead quality,1.0,0.0,10.0,2.09
+Bark,Service Provider / Business,Privacy / unwanted contact,0.0,2.0,3.0,1.6
+Bark,Service Provider / Business,Sales pressure / contract terms,0.0,0.0,1.0,2.0
+Bark,Service Provider / Business,Too much provider competition,0.0,1.0,0.0,1.0
+Bark,Service Provider / Business,Unresponsive leads,0.0,0.0,12.0,2.0
+Bark,Unknown,Finding a provider / low response,0.0,1.0,0.0,1.0
+Bark,Unknown,Platform usability / technical issues,0.0,1.0,1.0,1.5
+Bark,Unknown,Privacy / unwanted contact,0.0,1.0,0.0,1.0
+Checkatrade,Customer,Customer support,0.0,0.0,1.0,2.0
+Checkatrade,Customer,Dispute resolution / protection,0.0,0.0,2.0,2.0
+Checkatrade,Customer,Finding a provider / low response,0.0,8.0,12.0,1.6
+Checkatrade,Customer,Platform usability / technical issues,0.0,5.0,1.0,1.17
+Checkatrade,Customer,Poor matching / location,0.0,1.0,2.0,1.67
+Checkatrade,Customer,Pricing / quote transparency,0.0,0.0,4.0,2.0
+Checkatrade,Customer,Privacy / unwanted contact,0.0,4.0,2.0,1.33
+Checkatrade,Customer,Provider quality / no-show,3.0,0.0,24.0,2.11
+Checkatrade,Customer,Provider verification / safety,3.0,0.0,4.0,2.43
+Checkatrade,Customer,Review trust / moderation,0.0,0.0,5.0,2.0
+Checkatrade,Customer,Too many provider contacts / spam,0.0,2.0,1.0,1.33
+Checkatrade,Service Provider / Business,Account access / cancellation,1.0,0.0,4.0,2.2
+Checkatrade,Service Provider / Business,Billing / refunds,0.0,0.0,5.0,2.0
+Checkatrade,Service Provider / Business,Customer support,0.0,0.0,4.0,2.0
+Checkatrade,Service Provider / Business,Fake / invalid leads,0.0,0.0,2.0,2.0
+Checkatrade,Service Provider / Business,Misleading claims / transparency,0.0,0.0,3.0,2.0
+Checkatrade,Service Provider / Business,Platform usability / technical issues,0.0,1.0,0.0,1.0
+Checkatrade,Service Provider / Business,Poor ROI / expensive leads,0.0,0.0,6.0,2.0
+Checkatrade,Service Provider / Business,Poor lead quality,0.0,0.0,5.0,2.0
+Checkatrade,Service Provider / Business,Review trust / moderation,0.0,0.0,1.0,2.0
+Checkatrade,Service Provider / Business,Sales pressure / contract terms,1.0,0.0,3.0,2.25
+Yell,Customer,Privacy / unwanted contact,0.0,1.0,0.0,1.0
+Yell,Customer,Provider verification / safety,1.0,0.0,1.0,2.5
+Yell,Customer,Review trust / moderation,0.0,0.0,1.0,2.0
+Yell,Service Provider / Business,Account access / cancellation,1.0,0.0,14.0,2.07
+Yell,Service Provider / Business,Billing / refunds,4.0,0.0,11.0,2.27
+Yell,Service Provider / Business,Customer support,1.0,0.0,7.0,2.12
+Yell,Service Provider / Business,Misleading claims / transparency,2.0,0.0,26.0,2.07
+Yell,Service Provider / Business,Platform usability / technical issues,1.0,4.0,5.0,1.7
+Yell,Service Provider / Business,Poor ROI / expensive leads,3.0,0.0,37.0,2.08
+Yell,Service Provider / Business,Poor lead quality,1.0,0.0,3.0,2.25
+Yell,Service Provider / Business,Privacy / unwanted contact,0.0,1.0,3.0,1.75
+Yell,Service Provider / Business,Review trust / moderation,0.0,0.0,1.0,2.0
+Yell,Service Provider / Business,Sales pressure / contract terms,0.0,0.0,15.0,2.0
+Yell,Unknown,Privacy / unwanted contact,0.0,1.0,0.0,1.0
+Yelp,Customer,Customer support,0.0,0.0,2.0,2.0
+Yelp,Customer,Finding a provider / low response,0.0,1.0,0.0,1.0
+Yelp,Customer,Misleading claims / transparency,0.0,0.0,1.0,2.0
+Yelp,Customer,Platform usability / technical issues,0.0,2.0,1.0,1.33
+Yelp,Customer,Poor matching / location,0.0,2.0,0.0,1.0
+Yelp,Customer,Privacy / unwanted contact,0.0,0.0,1.0,2.0
+Yelp,Customer,Review trust / moderation,0.0,0.0,14.0,2.0
+Yelp,Service Provider / Business,Account access / cancellation,1.0,0.0,7.0,2.12
+Yelp,Service Provider / Business,Billing / refunds,1.0,0.0,11.0,2.08
+Yelp,Service Provider / Business,Customer support,0.0,0.0,3.0,2.0
+Yelp,Service Provider / Business,Fake / invalid leads,0.0,0.0,1.0,2.0
+Yelp,Service Provider / Business,Misleading claims / transparency,0.0,0.0,8.0,2.0
+Yelp,Service Provider / Business,Platform usability / technical issues,0.0,1.0,1.0,1.5
+Yelp,Service Provider / Business,Poor ROI / expensive leads,1.0,0.0,10.0,2.09
+Yelp,Service Provider / Business,Poor lead quality,0.0,0.0,1.0,2.0
+Yelp,Service Provider / Business,Privacy / unwanted contact,0.0,0.0,3.0,2.0
+Yelp,Service Provider / Business,Review trust / moderation,0.0,0.0,17.0,2.0
+Yelp,Service Provider / Business,Sales pressure / contract terms,0.0,0.0,4.0,2.0
+Yelp,Unknown,Platform usability / technical issues,0.0,1.0,0.0,1.0

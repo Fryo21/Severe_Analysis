@@ -1,0 +1,62 @@
+competitor,theme,reviews_mentioning_theme,relevant_reviews,percent_of_relevant_sample
+Bark,Platform usability / technical issues,15,95,15.8
+Bark,Provider quality / no-show,12,95,12.6
+Bark,Unresponsive leads,12,95,12.6
+Bark,Poor lead quality,11,95,11.6
+Bark,Finding a provider / low response,10,95,10.5
+Bark,Poor ROI / expensive leads,9,95,9.5
+Bark,Provider verification / safety,8,95,8.4
+Bark,Fake / invalid leads,7,95,7.4
+Bark,Privacy / unwanted contact,7,95,7.4
+Bark,Poor matching / location,6,95,6.3
+Bark,Billing / refunds,5,95,5.3
+Bark,Customer support,4,95,4.2
+Bark,Misleading claims / transparency,3,95,3.2
+Bark,Pricing / quote transparency,3,95,3.2
+Bark,Account access / cancellation,2,95,2.1
+Bark,Too many provider contacts / spam,2,95,2.1
+Bark,Dispute resolution / protection,1,95,1.1
+Bark,Sales pressure / contract terms,1,95,1.1
+Bark,Too much provider competition,1,95,1.1
+Checkatrade,Provider quality / no-show,27,99,27.3
+Checkatrade,Finding a provider / low response,20,99,20.2
+Checkatrade,Platform usability / technical issues,7,99,7.1
+Checkatrade,Provider verification / safety,7,99,7.1
+Checkatrade,Poor ROI / expensive leads,6,99,6.1
+Checkatrade,Privacy / unwanted contact,6,99,6.1
+Checkatrade,Review trust / moderation,6,99,6.1
+Checkatrade,Account access / cancellation,5,99,5.1
+Checkatrade,Billing / refunds,5,99,5.1
+Checkatrade,Customer support,5,99,5.1
+Checkatrade,Poor lead quality,5,99,5.1
+Checkatrade,Pricing / quote transparency,4,99,4.0
+Checkatrade,Sales pressure / contract terms,4,99,4.0
+Checkatrade,Misleading claims / transparency,3,99,3.0
+Checkatrade,Poor matching / location,3,99,3.0
+Checkatrade,Too many provider contacts / spam,3,99,3.0
+Checkatrade,Dispute resolution / protection,2,99,2.0
+Checkatrade,Fake / invalid leads,2,99,2.0
+Yell,Poor ROI / expensive leads,40,98,40.8
+Yell,Misleading claims / transparency,28,98,28.6
+Yell,Account access / cancellation,15,98,15.3
+Yell,Billing / refunds,15,98,15.3
+Yell,Sales pressure / contract terms,15,98,15.3
+Yell,Platform usability / technical issues,10,98,10.2
+Yell,Customer support,8,98,8.2
+Yell,Privacy / unwanted contact,6,98,6.1
+Yell,Poor lead quality,4,98,4.1
+Yell,Provider verification / safety,2,98,2.0
+Yell,Review trust / moderation,2,98,2.0
+Yelp,Review trust / moderation,31,73,42.5
+Yelp,Billing / refunds,12,73,16.4
+Yelp,Poor ROI / expensive leads,11,73,15.1
+Yelp,Misleading claims / transparency,9,73,12.3
+Yelp,Account access / cancellation,8,73,11.0
+Yelp,Platform usability / technical issues,6,73,8.2
+Yelp,Customer support,5,73,6.8
+Yelp,Privacy / unwanted contact,4,73,5.5
+Yelp,Sales pressure / contract terms,4,73,5.5
+Yelp,Poor matching / location,2,73,2.7
+Yelp,Fake / invalid leads,1,73,1.4
+Yelp,Finding a provider / low response,1,73,1.4
+Yelp,Poor lead quality,1,73,1.4

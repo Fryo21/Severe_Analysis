@@ -1,0 +1,9 @@
+competitor,manual_user_type,side_sample_size,sample_warning
+Bark,Customer,50,
+Bark,Service Provider / Business,41,
+Checkatrade,Customer,73,
+Checkatrade,Service Provider / Business,26,
+Yell,Customer,4,LOW SAMPLE - interpret cautiously
+Yell,Service Provider / Business,93,
+Yelp,Customer,20,
+Yelp,Service Provider / Business,52,

@@ -1,0 +1,36 @@
+FINAL WEAKNESS ANALYSIS - METHODOLOGY NOTE
+
+Source:
+400-review balanced competitor sample:
+100 Bark, 100 Checkatrade, 100 Yell, 100 Yelp.
+
+Annotations:
+Uses the V3 AI-assisted reviewed labels:
+- manual_relevance
+- manual_user_type
+- primary_complaint_theme
+- secondary_complaint_theme
+- manual_severity
+
+Important interpretation rule:
+Percentages are the share of RELEVANT REVIEWS IN THE ANALYSED SAMPLE
+mentioning a weakness.
+
+They are NOT estimates of the percentage of all users of a platform
+who experience that problem.
+
+For customer/provider comparisons, the denominator is the number of
+relevant reviews from that marketplace side for that competitor.
+
+Very small side-specific samples are flagged and should not be used
+for strong comparative conclusions.
+
+Evidence priority score:
+percent of side-specific sample mentioning a weakness
+MULTIPLIED BY
+average severity score (Low=1, Medium=2, High=3).
+
+This is an evidence-priority score, NOT yet a complete product
+opportunity score. A full product opportunity score would additionally
+consider the quality of competitors' existing solutions and our
+ability to solve the problem.

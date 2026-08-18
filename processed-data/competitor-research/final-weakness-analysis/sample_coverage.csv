@@ -1,0 +1,5 @@
+competitor,sampled_reviews,relevant_reviews,excluded_reviews
+Bark,100,95,5
+Checkatrade,100,99,1
+Yell,100,98,2
+Yelp,100,73,27
