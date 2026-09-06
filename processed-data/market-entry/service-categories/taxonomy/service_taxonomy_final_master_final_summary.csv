@@ -1,0 +1,8 @@
+metric,value
+input_rows,3753
+existing_mapped_rows,1578
+newly_mapped_rows,1782
+remaining_unclassified_rows,206
+excluded_rows,187
+service_families,123
+sub_services,1934

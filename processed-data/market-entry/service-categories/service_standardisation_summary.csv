@@ -1,0 +1,7 @@
+metric,value
+combined_input_rows,5635
+noise_rows_removed,42
+clean_platform_service_rows,3753
+unique_clean_raw_labels,3557
+canonical_services,1925
+service_families,11

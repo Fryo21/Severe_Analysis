@@ -1,0 +1,1951 @@
+service_family,sub_service,platform_count,platforms,raw_label_count,row_count
+Cleaning Services,General Cleaning,5,Airtasker | Bark | Checkatrade | Rated People | Yell,97,119
+Removals & Moving,General Removals,5,Airtasker | Bark | Booksy | Checkatrade | Rated People,78,80
+Painting & Decorating,General Painting & Decorating,5,Airtasker | Bark | Checkatrade | Rated People | Yell,70,71
+Roofing Services,General Roofing,5,Airtasker | Bark | Checkatrade | Rated People | Yell,68,75
+Building & Construction,General Building,5,Airtasker | Bark | Checkatrade | Rated People | Yell,28,31
+Plumbing Services,General Plumbing,5,Airtasker | Bark | Checkatrade | Rated People | Yell,18,22
+Gardening & Landscaping,General Gardening,5,Airtasker | Bark | Checkatrade | Rated People | Yell,7,9
+Cleaning Services,Domestic Cleaning,5,Airtasker | Bark | Checkatrade | Rated People | Yell,5,6
+Electrical Services,General Electrical Services,5,Airtasker | Bark | Checkatrade | Rated People | Yell,5,10
+Hair & Barber Services,Hairdressing,5,Airtasker | Booksy | Fresha | Treatwell | Yell,5,9
+Fencing & Gates,General Fencing,4,Airtasker | Checkatrade | Rated People | Yell,23,25
+Carpentry & Joinery,General Carpentry & Joinery,4,Airtasker | Checkatrade | Rated People | Yell,18,18
+Pool & Hot Tub Services,Swimming Pool Services,4,Airtasker | Bark | Checkatrade | Rated People,10,11
+Gardening & Landscaping,Landscaping,4,Airtasker | Bark | Checkatrade | Rated People,7,10
+"Architecture, Surveying & Planning",Architectural Services,4,Airtasker | Bark | Checkatrade | Yell,5,6
+"Handyman, Assembly & Mounting",General Handyman,4,Airtasker | Checkatrade | Rated People | Yell,5,6
+Nail Services,General Nail Services,4,Airtasker | Booksy | Fresha | Treatwell,3,4
+Flooring,General Flooring,3,Airtasker | Checkatrade | Rated People,25,32
+Roofing Services,Roof Repair,3,Airtasker | Bark | Checkatrade,23,24
+Blinds & Shutters,General Blinds & Shutters,3,Airtasker | Checkatrade | Rated People,19,19
+Chimney Services,General Chimney Services,3,Airtasker | Checkatrade | Rated People,16,16
+Heating & Boiler Services,General Heating Services,3,Airtasker | Checkatrade | Rated People,16,17
+Roofing Services,Roof Installation,3,Airtasker | Checkatrade | Rated People,16,16
+Therapy & Counselling,Therapy,3,Airtasker | Bark | Fresha,15,15
+Insulation Services,General Insulation,3,Airtasker | Checkatrade | Rated People,14,16
+Plastering & Rendering,Rendering,3,Airtasker | Checkatrade | Rated People,14,14
+Heating & Boiler Services,Boiler Servicing,3,Airtasker | Checkatrade | Rated People,13,13
+Tiling,General Tiling,3,Airtasker | Checkatrade | Rated People,12,15
+Heating & Boiler Services,Boiler Installation,3,Airtasker | Checkatrade | Rated People,10,10
+Carpentry & Joinery,Staircase Services,3,Airtasker | Checkatrade | Rated People,9,10
+Driveways & Paving,Paving,3,Airtasker | Checkatrade | Rated People,9,9
+Events & Creative,Catering,3,Airtasker | Bark | Checkatrade,9,10
+Heating & Boiler Services,Boiler Repair,3,Airtasker | Checkatrade | Rated People,8,9
+Roofing Services,Fascia & Soffit Services,3,Airtasker | Checkatrade | Rated People,8,8
+Conservatory Services,General Conservatory Services,3,Airtasker | Checkatrade | Rated People,7,8
+Vehicle Services,MOT Testing,3,Airtasker | Checkatrade | Yell,7,7
+Windows & Glazing,Double Glazing,3,Airtasker | Checkatrade | Rated People,6,7
+Gardening & Landscaping,Lawn Mowing,3,Airtasker | Checkatrade | Rated People,5,5
+Locksmith Services,General Locksmith,3,Airtasker | Checkatrade | Rated People,5,7
+Stone & Masonry Services,Stonemasonry,3,Airtasker | Checkatrade | Rated People,5,5
+Tattoo & Piercing,Piercing Services,3,Airtasker | Booksy | Fresha,5,5
+Vehicle Services,Tyre Services,3,Airtasker | Checkatrade | Yell,5,5
+"Water Treatment, Tanks & Pumps",Water Tank Services,3,Airtasker | Checkatrade | Rated People,5,5
+Air Conditioning & Ventilation,General Air Conditioning,3,Bark | Checkatrade | Rated People,4,4
+Building & Construction,Bricklaying,3,Airtasker | Checkatrade | Rated People,4,6
+Building & Construction,Demolition,3,Airtasker | Checkatrade | Rated People,4,6
+Building & Construction,Loft Conversion,3,Airtasker | Checkatrade | Rated People,4,6
+Conservatory Services,Conservatory Installation,3,Airtasker | Checkatrade | Rated People,4,4
+Gardening & Landscaping,Tree Surgery,3,Airtasker | Checkatrade | Rated People,4,5
+IT Support & Device Services,General IT Support,3,Airtasker | Bark | Checkatrade,4,4
+Pet Services,Pet Grooming,3,Airtasker | Fresha | Yell,4,5
+Vehicle Services,Car Valeting,3,Airtasker | Checkatrade | Yell,4,4
+Accounting & Finance Services,Accounting,3,Airtasker | Bark | Yell,3,4
+Building & Construction,Garage Conversion,3,Airtasker | Checkatrade | Rated People,3,4
+Building & Construction,Home Extensions,3,Airtasker | Checkatrade | Rated People,3,3
+Concrete & Aggregate Services,Concrete Driveways,3,Airtasker | Checkatrade | Rated People,3,4
+Doors & Door Services,Garage Door Installation,3,Airtasker | Checkatrade | Rated People,3,4
+"Doors, Windows & Glazing",Windows & Doors,3,Airtasker | Checkatrade | Rated People,3,3
+Electrical Services,Electrical Inspection & EICR,3,Airtasker | Checkatrade | Rated People,3,3
+Massage Services,General Massage,3,Booksy | Fresha | Yell,3,3
+Smart Home & Automation,Home Cinema Installation,3,Airtasker | Bark | Checkatrade,3,3
+Vehicle Services,Car Body Repair,3,Airtasker | Checkatrade | Yell,3,3
+Cleaning Services,Commercial Cleaning,3,Airtasker | Bark | Checkatrade,2,3
+"Furniture, Carpentry & Woodwork",Bespoke Furniture,3,Airtasker | Checkatrade | Rated People,2,4
+Insulation Services,Cavity Wall Insulation,3,Airtasker | Checkatrade | Rated People,2,4
+Removals & Moving,House Removals,3,Airtasker | Checkatrade | Rated People,2,3
+Renewable Energy Services,Solar Panel Installation,3,Airtasker | Checkatrade | Rated People,2,4
+Waste Services,Skip Hire,3,Airtasker | Checkatrade | Yell,2,4
+Cladding & Exterior Finishes,Cladding,3,Airtasker | Checkatrade | Rated People,1,3
+Fire & Safety Systems,Fire Alarm Installation,3,Airtasker | Checkatrade | Rated People,1,3
+Flooring & Tiling Services,Screeding,3,Airtasker | Checkatrade | Rated People,1,3
+Gardening & Landscaping,Garden Clearance,3,Airtasker | Checkatrade | Rated People,1,3
+Hair & Barber Services,Barber Services,3,Airtasker | Booksy | Fresha,1,3
+"Locksmith, Keys & Safes",Locksmith Services,3,Checkatrade | Rated People | Yell,1,3
+Tree & Grounds Services,Tree Felling,3,Airtasker | Checkatrade | Rated People,1,3
+Waste Services,House Clearance,3,Airtasker | Checkatrade | Rated People,1,3
+Tutoring & Lessons,General Tutoring & Lessons,2,Airtasker | Bark,110,110
+Vehicle Services,Vehicle Servicing,2,Airtasker | Checkatrade,29,29
+Doors & Door Services,Door Installation,2,Airtasker | Checkatrade,21,21
+"Food, Baking & Personal Chef Services",Takeaway Food Services,2,Airtasker | Yell,18,18
+Photography,General Photography,2,Airtasker | Bark,17,17
+Doors & Door Services,Door Repair,2,Airtasker | Checkatrade,15,15
+Windows & Glazing,Window Repair,2,Airtasker | Checkatrade,15,16
+Ceiling & Interior Finishes,General Ceiling Services,2,Airtasker | Checkatrade,13,13
+Waste Services,General Clearance,2,Airtasker | Checkatrade,13,13
+Windows & Glazing,Window Installation,2,Airtasker | Checkatrade,11,11
+Plastering & Rendering,Plastering,2,Airtasker | Checkatrade,9,10
+Roofing Services,Roof Replacement,2,Airtasker | Checkatrade,9,9
+Carpentry & Joinery,Cabinet Making & Installation,2,Airtasker | Checkatrade,8,8
+Conservatory Services,Conservatory Roofing,2,Airtasker | Checkatrade,8,9
+Furniture Services,Furniture Assembly,2,Airtasker | Rated People,8,8
+Furniture Services,Furniture Repair,2,Airtasker | Checkatrade,8,8
+IT Support & Device Services,WiFi & Broadband Support,2,Airtasker | Checkatrade,7,7
+Pool & Hot Tub Services,Hot Tub Services,2,Airtasker | Checkatrade,7,7
+Plumbing Services,Leak Detection,2,Airtasker | Checkatrade,6,6
+Plumbing Services,Pipe Repair,2,Airtasker | Checkatrade,6,6
+"TV, Aerial & Audio Visual Services",TV Repair,2,Airtasker | Checkatrade,6,6
+Vehicle Services,Bicycle Repair,2,Airtasker | Checkatrade,6,6
+Windows & Glazing,Glazing & Glass Repair,2,Airtasker | Checkatrade,6,6
+Ceiling & Interior Finishes,Dry Lining,2,Checkatrade | Rated People,5,5
+Flooring,Wood Flooring,2,Checkatrade | Rated People,5,5
+Hair Removal,Waxing,2,Airtasker | Fresha,5,5
+Pest Control Services,General Pest Control,2,Airtasker | Rated People,5,6
+Renewable Energy Services,Heat Pump Services,2,Checkatrade | Rated People,5,5
+Smart Home & Automation,Home Automation,2,Airtasker | Checkatrade,5,5
+Tattoo & Piercing,Tattoo Services,2,Airtasker | Booksy,5,5
+Ceiling & Interior Finishes,Suspended Ceilings,2,Checkatrade | Rated People,4,4
+Chimney Services,Chimney Repair,2,Airtasker | Checkatrade,4,4
+"Laundry, Housekeeping & Organisation",Laundry Services,2,Airtasker | Checkatrade,4,4
+"Painting, Decorating & Wall Finishes",Coving,2,Checkatrade | Rated People,4,4
+Vehicle Services,Alloy Wheel Repair,2,Airtasker | Checkatrade,4,4
+Appliance Repair,Fridge Repair,2,Airtasker | Checkatrade,3,3
+Appliance Repair,General Appliance Repair,2,Airtasker | Rated People,3,3
+"Architecture, Surveying & Planning",Surveying,2,Airtasker | Checkatrade,3,3
+Blinds & Shutters,Blind Installation,2,Airtasker | Rated People,3,3
+Chimney Services,Chimney Sweeping,2,Airtasker | Checkatrade,3,4
+"Curtains, Awnings & Window Dressings",Awnings & Canopies,2,Airtasker | Rated People,3,3
+"Damp, Waterproofing & Restoration",Fire Damage Restoration,2,Airtasker | Checkatrade,3,3
+Doors & Door Services,Garage Door Repair,2,Airtasker | Checkatrade,3,3
+Flooring,Carpet Installation,2,Airtasker | Checkatrade,3,3
+"Groundworks, Excavation & Plant Hire",Groundworks,2,Checkatrade | Rated People,3,3
+IT Support & Device Services,Network Support,2,Airtasker | Checkatrade,3,3
+Insulation Services,Roof Insulation,2,Checkatrade | Rated People,3,3
+Insulation Services,Wall Insulation,2,Checkatrade | Rated People,3,3
+Painting & Decorating,Wallpapering,2,Airtasker | Checkatrade,3,3
+Renewable Energy Services,Air Source Heat Pump Installation,2,Airtasker | Checkatrade,3,3
+Renewable Energy Services,Solar Energy Services,2,Airtasker | Checkatrade,3,4
+Renewable Energy Services,Solar Panel Repair,2,Checkatrade | Rated People,3,3
+Vehicle Services,General Vehicle Repair,2,Airtasker | Checkatrade,3,4
+Vehicle Services,Scratch Repair,2,Airtasker | Checkatrade,3,3
+"Water Treatment, Tanks & Pumps",Water Pump Services,2,Airtasker | Checkatrade,3,3
+"Writing, Translation & Language Services",Translation,2,Airtasker | Bark,3,3
+Air Conditioning & Ventilation,Air Conditioning Servicing,2,Airtasker | Checkatrade,2,2
+"Architecture, Surveying & Planning",Party Wall Surveying,2,Airtasker | Checkatrade,2,2
+"Architecture, Surveying & Planning",Structural Engineering,2,Bark | Checkatrade,2,3
+Bathroom Services,Bathroom Installation,2,Bark | Rated People,2,2
+Beauty & Skincare,Eyebrow Services,2,Airtasker | Fresha,2,2
+Beauty & Wellness,Aesthetic Treatments,2,Booksy | Fresha,2,2
+Beauty & Wellness,Tanning,2,Airtasker | Fresha,2,2
+Blinds & Shutters,Shutter Installation,2,Airtasker | Rated People,2,2
+Building & Construction,Basement Conversion,2,Airtasker | Checkatrade,2,2
+Building & Construction,Brickwork Repair,2,Airtasker | Checkatrade,2,3
+Building & Construction,Foundation Work,2,Checkatrade | Rated People,2,2
+Carpentry & Joinery,Door Fitting,2,Airtasker | Checkatrade,2,2
+Cladding & Exterior Finishes,uPVC Spraying,2,Airtasker | Checkatrade,2,2
+Cleaning Services,Pressure Washing,2,Airtasker | Checkatrade,2,2
+Cleaning Services,Wheelie Bin Cleaning,2,Checkatrade | Rated People,2,2
+Concrete & Aggregate Services,Concrete Work,2,Airtasker | Checkatrade,2,3
+Conservatory Services,Conservatory Repair,2,Airtasker | Checkatrade,2,3
+"Curtains, Awnings & Window Dressings",Curtain Fitting,2,Airtasker | Checkatrade,2,2
+"Curtains, Awnings & Window Dressings",Curtain Track & Pole Installation,2,Airtasker | Checkatrade,2,2
+Delivery Services,Courier Services,2,Airtasker | Checkatrade,2,3
+"Doors, Windows & Glazing",Window Fitting,2,Airtasker | Checkatrade,2,3
+Electrical Services,Emergency Electrical,2,Checkatrade | Rated People,2,2
+Electrical Services,Rewiring,2,Airtasker | Checkatrade,2,2
+Events & Creative,DJ Services,2,Airtasker | Bark,2,3
+Fencing & Gates,Fence Repair,2,Airtasker | Checkatrade,2,2
+Fencing & Gates,Gate Repair,2,Airtasker | Checkatrade,2,2
+Fire & Safety Systems,General Fire Safety,2,Bark | Checkatrade,2,2
+Fitness & Sports Coaching,Personal Training,2,Airtasker | Bark,2,2
+Flooring & Tiling Services,Carpet Fitting,2,Checkatrade | Rated People,2,2
+"Furniture, Carpentry & Woodwork",Skirting Boards,2,Airtasker | Checkatrade,2,2
+Gardening & Landscaping,Garden Maintenance,2,Checkatrade | Rated People,2,3
+Gardening & Landscaping,Lawn Care,2,Airtasker | Checkatrade,2,3
+Gardening & Landscaping,Pergola Installation,2,Airtasker | Checkatrade,2,2
+Hair & Barber Services,Hair Braiding,2,Airtasker | Booksy,2,2
+Health & Fitness,Physiotherapy,2,Airtasker | Fresha,2,2
+"Health, Therapy & Wellness",Private Doctor,2,Airtasker | Bark,2,2
+"Heating, Boiler & Gas Services",Underfloor Heating Installation,2,Airtasker | Checkatrade,2,3
+IT Support & Device Services,Computer Repair,2,Airtasker | Checkatrade,2,2
+Interior Design & Fit-Out,Interior Design,2,Airtasker | Checkatrade,2,3
+Kitchen Services,Bespoke Kitchens,2,Checkatrade | Rated People,2,2
+"Laundry, Housekeeping & Organisation",Ironing,2,Airtasker | Checkatrade,2,2
+Locksmith Services,Emergency Locksmith,2,Airtasker | Checkatrade,2,2
+"Loft, Attic & Storage Services",Attic Ladder Installation,2,Airtasker | Checkatrade,2,2
+"Loft, Attic & Storage Services",Loft Ladder Installation,2,Airtasker | Checkatrade,2,2
+Marketing & Creative Services,Graphic Design,2,Airtasker | Checkatrade,2,2
+Metalwork & Fabrication,Metal Gates,2,Checkatrade | Rated People,2,2
+Metalwork & Fabrication,Metalwork,2,Airtasker | Checkatrade,2,2
+"Painting, Decorating & Wall Finishes",Drywall Repair,2,Airtasker | Checkatrade,2,2
+"Painting, Decorating & Wall Finishes",Plastering,2,Airtasker | Checkatrade,2,3
+Plastering & Rendering,Plaster Repair,2,Airtasker | Checkatrade,2,2
+Plumbing Services,Plumbing Repair,2,Checkatrade | Rated People,2,2
+Plumbing Services,Shower Repair,2,Airtasker | Checkatrade,2,2
+Plumbing Services,Toilet Installation,2,Airtasker | Checkatrade,2,2
+Pool & Hot Tub Services,Hot Tub Installation,2,Checkatrade | Rated People,2,2
+Professional Services,Social Media Marketing,2,Airtasker | Bark,2,2
+Professional Services,Web Design,2,Airtasker | Bark,2,2
+"Property, Landlord & Estate Services",Property Maintenance,2,Airtasker | Checkatrade,2,2
+"Removals, Delivery & Courier Services",Man & Van,2,Airtasker | Checkatrade,2,2
+Roofing Services,Aluminium Guttering,2,Airtasker | Checkatrade,2,2
+Scaffolding Services,Scaffolding,2,Checkatrade | Rated People,2,2
+Security & Alarm Services,Fire Risk Assessment,2,Airtasker | Checkatrade,2,2
+Security Systems,Access Control Systems,2,Checkatrade | Rated People,2,2
+"Smart Home, Network & Cabling",Data & Network Cabling,2,Airtasker | Checkatrade,2,2
+"Smart Home, Network & Cabling",Home Network Setup,2,Airtasker | Rated People,2,2
+Stone & Masonry Services,Stone Cladding,2,Airtasker | Rated People,2,2
+"TV, Aerial & Audio Visual Services",Satellite Installation,2,Checkatrade | Rated People,2,2
+Telecoms & Telephone Services,Telephone Engineering,2,Airtasker | Checkatrade,2,2
+Vehicle Graphics & Signage,Sign Writing,2,Airtasker | Checkatrade,2,2
+Vehicle Graphics & Signage,Vehicle Wrapping,2,Airtasker | Checkatrade,2,2
+Vehicle Services,Accident Repair,2,Airtasker | Checkatrade,2,2
+Vehicle Services,Cambelt Replacement,2,Airtasker | Checkatrade,2,2
+Vehicle Services,Car Detailing,2,Airtasker | Checkatrade,2,3
+Vehicle Services,Dent Repair,2,Airtasker | Checkatrade,2,2
+Vehicle Services,Gearbox Repair,2,Airtasker | Checkatrade,2,2
+Vehicle Services,Mobile Mechanic,2,Airtasker | Checkatrade,2,3
+Vehicle Services,Tyre Fitting,2,Airtasker | Checkatrade,2,4
+Vehicle Services,Windscreen Repair,2,Airtasker | Checkatrade,2,2
+"Writing, Translation & Language Services",Copywriting,2,Airtasker | Bark,2,2
+Appliance Repair,Dishwasher Repair,2,Airtasker | Checkatrade,1,2
+"Architecture, Surveying & Planning",Quantity Surveying,2,Airtasker | Checkatrade,1,2
+Bathroom Services,Bath Resurfacing,2,Checkatrade | Rated People,1,2
+Business & Administrative Services,Project Management,2,Airtasker | Checkatrade,1,2
+Cladding & Exterior Finishes,Bathroom Cladding,2,Airtasker | Checkatrade,1,2
+Concrete & Aggregate Services,Concrete Repair,2,Airtasker | Checkatrade,1,2
+Concrete & Aggregate Services,Polished Concrete,2,Checkatrade | Rated People,1,2
+"Damp, Waterproofing & Restoration",Dry Rot Treatment,2,Airtasker | Checkatrade,1,2
+Decking Services,General Decking,2,Airtasker | Checkatrade,1,2
+Driveways & Paving,Driveway Repair,2,Airtasker | Checkatrade,1,2
+Events & Wedding Services,Entertainment,2,Airtasker | Bark,1,2
+Fitness & Sports Coaching,Fitness,2,Airtasker | Fresha,1,2
+Flooring & Tiling Services,Floor Sanding,2,Airtasker | Checkatrade,1,2
+"Furniture, Carpentry & Woodwork",Upholstery Repair,2,Airtasker | Checkatrade,1,2
+Gardening & Landscaping,Garden Design,2,Checkatrade | Rated People,1,2
+Gardening & Landscaping,Lawn Aeration,2,Airtasker | Checkatrade,1,2
+Gardening & Landscaping,Lawn Treatment,2,Airtasker | Checkatrade,1,2
+Gardening & Landscaping,Stump Grinding,2,Checkatrade | Rated People,1,2
+Gardening & Landscaping,Water Feature Services,2,Airtasker | Checkatrade,1,2
+Hair & Barber Services,General Barbering,2,Airtasker | Yell,1,2
+"Handyman, Assembly & Mounting",TV Wall Mounting,2,Airtasker | Checkatrade,1,2
+Heating & Boiler Services,Radiator Repair,2,Airtasker | Checkatrade,1,2
+"Heating, Boiler & Gas Services",Radiator Covers,2,Checkatrade | Rated People,1,2
+Insulation Services,Loft Insulation,2,Airtasker | Checkatrade,1,2
+Kitchen Services,Kitchen Designers,2,Airtasker | Checkatrade,1,2
+"Laundry, Housekeeping & Organisation",Decluttering,2,Airtasker | Checkatrade,1,2
+"Locksmith, Keys & Safes",Car Key Replacement,2,Airtasker | Checkatrade,1,2
+"Locksmith, Keys & Safes",Key Cutting,2,Airtasker | Checkatrade,1,2
+Metalwork & Fabrication,Mobile Welding,2,Airtasker | Checkatrade,1,2
+Other Services / Unclassified,Storage,2,Checkatrade | Rated People,1,2
+Other Services / Unclassified,Wallpapering,2,Airtasker | Checkatrade,1,2
+Pest Control Services,Wasp Control,2,Airtasker | Checkatrade,1,2
+Pet & Animal Services,Dog Boarding,2,Airtasker | Yell,1,2
+Pet Services,Dog Walking,2,Airtasker | Bark,1,2
+Pet Services,Pet Training,2,Airtasker | Bark,1,2
+Roofing Services,Gutter Repair,2,Airtasker | Checkatrade,1,2
+Roofing Services,Leadwork,2,Checkatrade | Rated People,1,2
+Security & Alarm Services,CCTV Installation,2,Airtasker | Rated People,1,2
+"TV, Aerial & Audio Visual Services",Aerial Installation,2,Checkatrade | Rated People,1,2
+Tree & Grounds Services,Crown Reduction,2,Checkatrade | Rated People,1,2
+Tree & Grounds Services,Crown Thinning,2,Checkatrade | Rated People,1,2
+Tree & Grounds Services,Mulching,2,Airtasker | Checkatrade,1,2
+Tree & Grounds Services,Tree Pruning,2,Airtasker | Checkatrade,1,2
+Tree & Grounds Services,Tree Surgeons,2,Airtasker | Rated People,1,2
+Vehicle Services,Mechanic,2,Airtasker | Checkatrade,1,2
+Waste Services,Office Clearance,2,Airtasker | Checkatrade,1,2
+Delivery Services,General Delivery,1,Airtasker,57,57
+Therapy & Counselling,Counselling,1,Airtasker,10,10
+Delivery Services,Food Delivery,1,Airtasker,9,9
+Delivery Services,Gift Delivery,1,Airtasker,8,8
+Chimney Services,Chimney Installation,1,Checkatrade,6,6
+Conservatory Services,Conservatory Roof Repair,1,Checkatrade,6,6
+"Furniture, Carpentry & Woodwork",Furniture Restoration,1,Checkatrade,5,5
+Waste Services,Waste Collection,1,Airtasker,5,5
+Ceiling & Interior Finishes,Ceiling Repair,1,Checkatrade,4,4
+Delivery Services,Cake Delivery,1,Airtasker,4,4
+Delivery Services,Grocery Delivery,1,Airtasker,4,4
+Events & Wedding Services,Hospitality Staffing,1,Airtasker,4,4
+"Food, Baking & Personal Chef Services",Meal Preparation,1,Airtasker,4,4
+"Handyman, Assembly & Mounting",Wall Hanging & Mounting,1,Airtasker,4,4
+Professional Services,Marketing Services,1,Airtasker,4,4
+Specialist Repair Services,Sharpening Services,1,Airtasker,4,4
+Vehicle Services,Tyre Repair,1,Airtasker,4,4
+Asbestos & Hazardous Material Services,Asbestos Services,1,Checkatrade,3,3
+Beauty & Skincare,Eyelash Services,1,Airtasker,3,3
+Carpentry & Joinery,Fitted Wardrobes,1,Checkatrade,3,3
+Delivery Services,Flower Delivery,1,Airtasker,3,3
+Events & Wedding Services,Wedding Music,1,Airtasker,3,3
+"Handyman, Assembly & Mounting",Trampoline Assembly,1,Airtasker,3,3
+Heating & Boiler Services,Boiler Replacement,1,Checkatrade,3,3
+Pet Services,Pet Sitting,1,Airtasker,3,3
+Photography,Wedding Photography,1,Airtasker,3,3
+Plumbing Services,Drain Repair,1,Checkatrade,3,3
+Plumbing Services,Drain Unblocking,1,Checkatrade,3,3
+Plumbing Services,Emergency Plumbing,1,Checkatrade,3,3
+Accessibility & Mobility Services,Stairlift Services,1,Checkatrade,2,2
+Air Conditioning & Ventilation,Air Conditioning Repair,1,Checkatrade,2,2
+Appliance Repair,Oven Repair,1,Airtasker,2,2
+Beauty & Personal Care,Beautician Services,1,Airtasker,2,2
+Blinds & Shutters,Blind Repair,1,Airtasker,2,2
+Building & Construction,Barn Conversion,1,Checkatrade,2,2
+"Doors, Windows & Glazing",Garage Door Services,1,Checkatrade,2,2
+Electrical Services,Fuse Box & Consumer Unit Services,1,Checkatrade,2,2
+Electrical Services,Lighting Installation,1,Airtasker,2,2
+Electronics Repair Services,Screen Repair,1,Airtasker,2,2
+Events & Creative,Videography,1,Airtasker,2,2
+"Fabric, Clothing & Specialist Repair",Zipper Repair,1,Airtasker,2,2
+Flooring & Tiling Services,Tile Repair,1,Checkatrade,2,2
+"Food, Baking & Personal Chef Services",Chef Services,1,Airtasker,2,2
+"Food, Baking & Personal Chef Services",Custom Cakes,1,Airtasker,2,2
+"Furniture, Carpentry & Woodwork",Wood Turning,1,Checkatrade,2,2
+"Handyman, Assembly & Mounting",Play Equipment Assembly,1,Airtasker,2,2
+Health & Fitness,Yoga,1,Airtasker,2,2
+IT Support & Device Services,Apple / Mac Support,1,Airtasker,2,2
+IT Support & Device Services,IT Consultancy,1,Checkatrade,2,2
+IT Support & Device Services,MacBook Repair,1,Airtasker,2,2
+IT Support & Device Services,iPhone Support & Repair,1,Airtasker,2,2
+"Locksmith, Keys & Safes",Safe Services,1,Checkatrade,2,2
+"Loft, Attic & Storage Services",Attic Hatch,1,Checkatrade,2,2
+Plumbing Services,Leak Repair,1,Checkatrade,2,2
+Plumbing Services,Toilet Repair,1,Checkatrade,2,2
+Renewable Energy & Insulation,Wind Turbine Services,1,Checkatrade,2,2
+Renewable Energy Services,Air Source Heat Pump Repair,1,Checkatrade,2,2
+Renewable Energy Services,Ground Source Heat Pump Installation,1,Checkatrade,2,2
+Renewable Energy Services,Ground Source Heat Pump Repair,1,Checkatrade,2,2
+Roofing Services,Flat Roofing,1,Checkatrade,2,2
+Software & Development Services,App Development,1,Airtasker,2,2
+Vehicle Services,Car Diagnostics,1,Airtasker,2,2
+Vehicle Services,Car Inspection,1,Airtasker,2,2
+"Water Treatment, Tanks & Pumps",Household Water Treatment,1,Checkatrade,2,2
+Accessibility & Mobility Services,Access Ramp Installation,1,Checkatrade,1,1
+Accessibility & Mobility Services,Accessibility Installation,1,Rated People,1,1
+Accessibility & Mobility Services,Accessible Kitchens,1,Checkatrade,1,1
+Accessibility & Mobility Services,Adjustable Beds,1,Checkatrade,1,1
+Accessibility & Mobility Services,Disabled Access / Mobility Service,1,Rated People,1,1
+Accessibility & Mobility Services,Disabled Bathrooms / Showers,1,Checkatrade,1,1
+Accessibility & Mobility Services,Emergency Mobility Service,1,Checkatrade,1,1
+Accessibility & Mobility Services,Mobility,1,Checkatrade,1,1
+Accessibility & Mobility Services,Mobility Adaptions,1,Checkatrade,1,1
+Accessibility & Mobility Services,Mobility Aids,1,Checkatrade,1,1
+Accessibility & Mobility Services,Mobility Scooter Repair,1,Checkatrade,1,1
+Accessibility & Mobility Services,Mobility Scooter Service,1,Airtasker,1,1
+Accessibility & Mobility Services,Mobility Scooters,1,Checkatrade,1,1
+Accessibility & Mobility Services,Wheelchairs Manual / Electric,1,Checkatrade,1,1
+Accounting & Finance Services,Bookkeeping,1,Bark,1,1
+Accounting & Finance Services,Budgeting Help,1,Airtasker,1,1
+Accounting & Finance Services,Financial Advice,1,Yell,1,1
+Accounting & Finance Services,Financial Advisor,1,Airtasker,1,1
+Accounting & Finance Services,Financial Modelling,1,Airtasker,1,1
+Accounting & Finance Services,Financial Planning,1,Airtasker,1,1
+Accounting & Finance Services,Financial Reporting,1,Airtasker,1,1
+Accounting & Finance Services,Mortgage Advisor,1,Airtasker,1,1
+Accounting & Finance Services,Mortgage Services,1,Yell,1,1
+Accounting & Finance Services,Pension Advice,1,Airtasker,1,1
+Accounting & Finance Services,Tax Advisory,1,Airtasker,1,1
+Agricultural & Rural Services,Agricultural Building,1,Checkatrade,1,1
+Agricultural & Rural Services,Agricultural Contractor,1,Checkatrade,1,1
+Agricultural & Rural Services,Agricultural Irrigation,1,Checkatrade,1,1
+Agricultural & Rural Services,Agricultural Merchant,1,Checkatrade,1,1
+Agricultural & Rural Services,Drip Irrigation Systems,1,Airtasker,1,1
+Agricultural & Rural Services,Farm Gate,1,Checkatrade,1,1
+Agricultural & Rural Services,Irrigation Repair,1,Airtasker,1,1
+Agricultural & Rural Services,Irrigation Systems,1,Checkatrade,1,1
+Agricultural & Rural Services,Soil Irrigation / Drainage,1,Rated People,1,1
+Agricultural & Rural Services,borehole,1,Checkatrade,1,1
+Air Conditioning & Ventilation,Air Conditioning Installation,1,Checkatrade,1,1
+Air Conditioning & Ventilation,Aircon Installation,1,Airtasker,1,1
+Air Conditioning & Ventilation,Aircon Repair,1,Airtasker,1,1
+Air Conditioning & Ventilation,Car Aircon Regas,1,Airtasker,1,1
+Air Conditioning & Ventilation,Car Aircon Repair,1,Airtasker,1,1
+Air Conditioning & Ventilation,Ventilation Services,1,Airtasker,1,1
+Appliance & Equipment Services,Appliance Installation,1,Airtasker,1,1
+Appliance & Equipment Services,Appliance Retailer,1,Checkatrade,1,1
+Appliance & Equipment Services,Appliance Services / Repair,1,Checkatrade,1,1
+Appliance & Equipment Services,BBQ Repair,1,Airtasker,1,1
+Appliance & Equipment Services,Chainsaw Service & Repair,1,Airtasker,1,1
+Appliance & Equipment Services,Coffee Machine Repair,1,Airtasker,1,1
+Appliance & Equipment Services,Cooker Hood Installation & Repair,1,Airtasker,1,1
+Appliance & Equipment Services,Cooktop Installation,1,Airtasker,1,1
+Appliance & Equipment Services,Dishwasher Not Draining,1,Airtasker,1,1
+Appliance & Equipment Services,Drone Repair,1,Airtasker,1,1
+Appliance & Equipment Services,Dryer Installation,1,Airtasker,1,1
+Appliance & Equipment Services,Dryer Repair,1,Airtasker,1,1
+Appliance & Equipment Services,Electric Oven / Cooker Repair,1,Checkatrade,1,1
+Appliance & Equipment Services,Emergency Appliance Services / Repair Service,1,Checkatrade,1,1
+Appliance & Equipment Services,Freezer Installation,1,Airtasker,1,1
+Appliance & Equipment Services,Freezer Repair,1,Airtasker,1,1
+Appliance & Equipment Services,GHD Repair,1,Airtasker,1,1
+Appliance & Equipment Services,Generator Repair,1,Airtasker,1,1
+Appliance & Equipment Services,Hob Installation,1,Airtasker,1,1
+Appliance & Equipment Services,Ice Machine Repair & Installation,1,Airtasker,1,1
+Appliance & Equipment Services,Microwave Repair,1,Airtasker,1,1
+Appliance & Equipment Services,Oven Fan Repair,1,Airtasker,1,1
+Appliance & Equipment Services,Portable Appliance Testing - PAT Testing,1,Checkatrade,1,1
+Appliance & Equipment Services,Range Cooker,1,Checkatrade,1,1
+Appliance & Equipment Services,Range Cooker Servicing & Repair,1,Checkatrade,1,1
+Appliance & Equipment Services,Rayburn Servicing & Repair,1,Checkatrade,1,1
+Appliance & Equipment Services,Refrigeration Services,1,Checkatrade,1,1
+Appliance & Equipment Services,Toaster Repair,1,Airtasker,1,1
+Appliance & Equipment Services,Tool Repair,1,Airtasker,1,1
+Appliance & Equipment Services,Treadmill Repair,1,Airtasker,1,1
+Appliance & Equipment Services,Tumble Dryer Repair,1,Checkatrade,1,1
+Appliance & Equipment Services,Vacuum Service & Repair,1,Checkatrade,1,1
+Appliance & Equipment Services,Washing Machine Repairs & Installation,1,Airtasker,1,1
+Appliance & Equipment Services,Washing machine repairs,1,Yell,1,1
+Appliance & Equipment Services,dishwasher draining,1,Checkatrade,1,1
+Appliance Repair,Washing Machine Repair,1,Checkatrade,1,1
+"Architecture, Surveying & Planning",Architectural Drawings,1,Checkatrade,1,1
+"Architecture, Surveying & Planning",Architectural Technician,1,Checkatrade,1,1
+"Architecture, Surveying & Planning",Building Surveying,1,Airtasker,1,1
+"Architecture, Surveying & Planning",Chartered Surveyor,1,Checkatrade,1,1
+"Architecture, Surveying & Planning",Damp Surveyor,1,Airtasker,1,1
+"Architecture, Surveying & Planning",Drone Surveying,1,Checkatrade,1,1
+"Architecture, Surveying & Planning",Hire a Damp Surveyor,1,Checkatrade,1,1
+"Architecture, Surveying & Planning",House Surveyor,1,Airtasker,1,1
+"Architecture, Surveying & Planning",Land Surveyor,1,Airtasker,1,1
+"Architecture, Surveying & Planning",Planning Consultant,1,Airtasker,1,1
+Asbestos & Hazardous Material Services,Asbestos Testing,1,Checkatrade,1,1
+Bathroom Services,Bath resurfacing,1,Airtasker,1,1
+Bathroom Services,Bathroom Design,1,Rated People,1,1
+Bathroom Services,Bathroom Designer,1,Checkatrade,1,1
+Bathroom Services,Bathroom Designers,1,Airtasker,1,1
+Bathroom Services,Bathroom Fitter,1,Checkatrade,1,1
+Bathroom Services,Bathroom Fitters,1,Checkatrade,1,1
+Bathroom Services,Bathroom Mastic Sealant,1,Checkatrade,1,1
+Bathroom Services,Bathroom Repair,1,Rated People,1,1
+Bathroom Services,Bathroom Showroom,1,Checkatrade,1,1
+Bathroom Services,Bathroom Supplier,1,Checkatrade,1,1
+Bathroom Services,Bathroom Supply & Fit,1,Checkatrade,1,1
+Bathroom Services,Bathroom fitter,1,Rated People,1,1
+Bathroom Services,Bathroom fitters,1,Rated People,1,1
+Bathroom Services,Emergency Bathroom Service,1,Checkatrade,1,1
+Bathroom Services,General Bathroom Services,1,Checkatrade,1,1
+Bathroom Services,New Bathroom Cost,1,Checkatrade,1,1
+Bathroom Services,Wet Room Installation,1,Rated People,1,1
+Bathroom Services,Wet Room Services,1,Checkatrade,1,1
+Bathroom Services,bath crack,1,Checkatrade,1,1
+Bathroom Services,bath replacement,1,Checkatrade,1,1
+Bathroom Services,bathroom supplies,1,Checkatrade,1,1
+Bathroom Services,bathtub fitting,1,Checkatrade,1,1
+Bathroom Services,bathtub repair,1,Checkatrade,1,1
+Beauty & Personal Care,Beauty Salon Services,1,Yell,1,1
+Beauty & Personal Care,Body Exfoliation,1,Treatwell,1,1
+Beauty & Personal Care,Brows & Lashes,1,Booksy,1,1
+Beauty & Personal Care,General Salon Services,1,Fresha,1,1
+Beauty & Personal Care,Jelly Pedicure,1,Treatwell,1,1
+Beauty & Personal Care,Lived-In Blonde Colouring,1,Treatwell,1,1
+Beauty & Personal Care,Make-Up Services,1,Booksy,1,1
+Beauty & Personal Care,Makeup Artist,1,Airtasker,1,1
+Beauty & Personal Care,Nail Art,1,Treatwell,1,1
+Beauty & Personal Care,Spa Services,1,Fresha,1,1
+Beauty & Skincare,Facials,1,Treatwell,1,1
+Beauty & Skincare,Skincare Treatments,1,Booksy,1,1
+Building & Construction,Bathroom Renovation,1,Airtasker,1,1
+Building & Construction,Boat Building / Repairs,1,Checkatrade,1,1
+Building & Construction,Building & Construction,1,Airtasker,1,1
+Building & Construction,Building Consultant,1,Airtasker,1,1
+Building & Construction,Building Designers,1,Airtasker,1,1
+Building & Construction,Building Merchants,1,Checkatrade,1,1
+Building & Construction,Building Project Managers,1,Checkatrade,1,1
+Building & Construction,Building Restoration,1,Airtasker,1,1
+Building & Construction,Building Surveyors,1,Checkatrade,1,1
+Building & Construction,Building surveyors,1,Yell,1,1
+Building & Construction,Cellar & Basement Conversion,1,Rated People,1,1
+Building & Construction,Cellar Conversion,1,Checkatrade,1,1
+Building & Construction,Complete Bathroom Refurbishment,1,Rated People,1,1
+Building & Construction,Complete Kitchen Refurbishment,1,Rated People,1,1
+Building & Construction,Dormer Installation,1,Checkatrade,1,1
+Building & Construction,Fire and Flood Renovation,1,Checkatrade,1,1
+Building & Construction,Garden Office / Studio Construction,1,Rated People,1,1
+Building & Construction,Gravestone Renovation,1,Checkatrade,1,1
+Building & Construction,House Renovation,1,Airtasker,1,1
+Building & Construction,IT Planning and Construction,1,Checkatrade,1,1
+Building & Construction,Kitchen Renovation,1,Airtasker,1,1
+Building & Construction,Masonry,1,Checkatrade,1,1
+Building & Construction,Mobile Wheel Refurbishment,1,Airtasker,1,1
+Building & Construction,New Build Construction,1,Checkatrade,1,1
+Building & Construction,Orangery Services,1,Checkatrade,1,1
+Building & Construction,Period / Listed Building Works,1,Rated People,1,1
+Building & Construction,Pointing / Repointing,1,Rated People,1,1
+Building & Construction,Pond Construction,1,Checkatrade,1,1
+Building & Construction,Porch Installation,1,Checkatrade,1,1
+Building & Construction,Property Extensions,1,Bark,1,1
+Building & Construction,Property Refurbishment,1,Checkatrade,1,1
+Building & Construction,Property Renovation,1,Checkatrade,1,1
+Building & Construction,Property Restoration,1,Checkatrade,1,1
+Building & Construction,Renovation Specialist,1,Checkatrade,1,1
+Building & Construction,Repair and Listed Building Specialist,1,Checkatrade,1,1
+Building & Construction,Repointing,1,Checkatrade,1,1
+Building & Construction,Retaining Walls,1,Airtasker,1,1
+Building & Construction,Rsj Beam,1,Checkatrade,1,1
+Building & Construction,Structural Design,1,Checkatrade,1,1
+Building & Construction,Structural Designer,1,Checkatrade,1,1
+Building & Construction,Structural Engineering,1,Checkatrade,1,1
+Building & Construction,Structural Steel Work,1,Checkatrade,1,1
+Building & Construction,Subsidence Repair,1,Checkatrade,1,1
+Building & Construction,Subsidence Survey,1,Checkatrade,1,1
+Building & Construction,Sustainable Construction,1,Checkatrade,1,1
+Building & Construction,Underpinning,1,Checkatrade,1,1
+Building & Construction,Wall Tie Replacement,1,Checkatrade,1,1
+Building & Construction,Wall Tie Replacements,1,Checkatrade,1,1
+Building & Construction,Wall Tie Specialist,1,Checkatrade,1,1
+Building & Construction,Wall Tie Survey,1,Checkatrade,1,1
+Building & Construction,Wheel Refurbishment,1,Airtasker,1,1
+Building & Construction,Whole Internal Refurbishment,1,Rated People,1,1
+Building & Construction,Workshop Design / Construction,1,Checkatrade,1,1
+Building & Construction,bathroom renovation,1,Checkatrade,1,1
+Building & Construction,home renovation,1,Checkatrade,1,1
+Building & Construction,house renovation,1,Checkatrade,1,1
+Building & Construction,kitchen renovation,1,Checkatrade,1,1
+Building & Construction,rsj installation,1,Checkatrade,1,1
+Building & Construction,subsidence specialist,1,Checkatrade,1,1
+Business & Administrative Services,Admin,1,Airtasker,1,1
+Business & Administrative Services,Business Advisory,1,Airtasker,1,1
+Business & Administrative Services,Business Coach,1,Airtasker,1,1
+Business & Administrative Services,Business Consultant,1,Airtasker,1,1
+Business & Administrative Services,Business Consulting,1,Bark,1,1
+Business & Administrative Services,Career Coaching,1,Airtasker,1,1
+Business & Administrative Services,Data Entry,1,Airtasker,1,1
+Business & Administrative Services,Document Filing,1,Airtasker,1,1
+Business & Administrative Services,Drafting,1,Airtasker,1,1
+Business & Administrative Services,Drafting Services,1,Airtasker,1,1
+Business & Administrative Services,Errand Running,1,Airtasker,1,1
+Business & Administrative Services,HR Services,1,Airtasker,1,1
+Business & Administrative Services,IT Project Management,1,Checkatrade,1,1
+Business & Administrative Services,Insurance Claim Assistance,1,Checkatrade,1,1
+Business & Administrative Services,Market Research,1,Airtasker,1,1
+Business & Administrative Services,Mystery Shopping,1,Airtasker,1,1
+Business & Administrative Services,Personal Assistant,1,Airtasker,1,1
+Business & Administrative Services,Personal Concierge,1,Airtasker,1,1
+Business & Administrative Services,Personal Shopper,1,Airtasker,1,1
+Business & Administrative Services,Queueing Service,1,Airtasker,1,1
+Business & Administrative Services,Receptionist,1,Airtasker,1,1
+Business & Administrative Services,Research Assistant,1,Airtasker,1,1
+Business & Administrative Services,Sales Assistance,1,Airtasker,1,1
+Business & Administrative Services,Typing Services,1,Airtasker,1,1
+Business & Administrative Services,Virtual Assistant,1,Airtasker,1,1
+Business & Administrative Services,eBay Selling Assistance,1,Airtasker,1,1
+Childcare & Care Services,After School Care,1,Airtasker,1,1
+Childcare & Care Services,Aged Care,1,Airtasker,1,1
+Childcare & Care Services,Babysitting,1,Airtasker,1,1
+Childcare & Care Services,Childcare & Safety,1,Airtasker,1,1
+Childcare & Care Services,Childminding,1,Airtasker,1,1
+Childcare & Care Services,Day Nursery,1,Yell,1,1
+Childcare & Care Services,Home & Domiciliary Care,1,Bark,1,1
+Childcare & Care Services,Home Care,1,Airtasker,1,1
+Childcare & Care Services,Maternity Nurse,1,Airtasker,1,1
+Childcare & Care Services,Nanny Services,1,Airtasker,1,1
+Chimney & Fireplace Services,Fireplace,1,Rated People,1,1
+Chimney & Fireplace Services,Fireplace Installation,1,Airtasker,1,1
+Chimney & Fireplace Services,Fireplace Surround,1,Checkatrade,1,1
+Chimney & Fireplace Services,Stoves / Fireplace Showroom,1,Checkatrade,1,1
+Chimney & Fireplace Services,media wall with fireplace installation,1,Checkatrade,1,1
+Cladding & Exterior Finishes,Bathroom Cladding Fitters,1,Checkatrade,1,1
+Cladding & Exterior Finishes,Cladding Installers,1,Checkatrade,1,1
+Cladding & Exterior Finishes,Cladding Repairs,1,Airtasker,1,1
+Cladding & Exterior Finishes,Cladding Replacement,1,Airtasker,1,1
+Cladding & Exterior Finishes,Interior Wall Cladding,1,Airtasker,1,1
+Cladding & Exterior Finishes,Shed Cladding,1,Airtasker,1,1
+Cladding & Exterior Finishes,Shiplap Cladding,1,Airtasker,1,1
+Cladding & Exterior Finishes,Weather Coating,1,Checkatrade,1,1
+Cladding & Exterior Finishes,uPVC Cladding,1,Checkatrade,1,1
+Cleaning Services,Mopping,1,Airtasker,1,1
+Cleaning Services,Soft Washing,1,Checkatrade,1,1
+Cleaning Services,Vacuuming,1,Airtasker,1,1
+Coaching & Personal Development,Coaching,1,Airtasker,1,1
+Coaching & Personal Development,Executive Coaching,1,Airtasker,1,1
+Coaching & Personal Development,Life Coaching,1,Airtasker,1,1
+Coaching & Personal Development,Motivational Speaking,1,Airtasker,1,1
+Coaching & Personal Development,Relationship Coaching,1,Airtasker,1,1
+Coaching & Personal Development,Table Tennis Coaching,1,Airtasker,1,1
+Commercial & Business Property Services,Commercial Agents,1,Checkatrade,1,1
+Commercial & Business Property Services,Estate Agency,1,Yell,1,1
+Commercial & Business Property Services,Hotel Services,1,Yell,1,1
+Commercial & Business Property Services,Portable offices,1,Checkatrade,1,1
+Commercial & Business Property Services,Warehouse Racking,1,Checkatrade,1,1
+Concrete & Aggregate Services,Aggregate Supply,1,Checkatrade,1,1
+Concrete & Aggregate Services,Brick / Concrete Structural Repairs,1,Checkatrade,1,1
+Concrete & Aggregate Services,Concrete / Finlock Gutter Replacement,1,Checkatrade,1,1
+Concrete & Aggregate Services,Concrete / Finlock Guttering,1,Checkatrade,1,1
+Concrete & Aggregate Services,Concrete Cutting,1,Airtasker,1,1
+Concrete & Aggregate Services,Concrete Floor Polishing,1,Airtasker,1,1
+Concrete & Aggregate Services,Concrete Garages,1,Checkatrade,1,1
+Concrete & Aggregate Services,Concrete Resurfacing,1,Airtasker,1,1
+Concrete & Aggregate Services,Patterned Imprinted Concrete,1,Checkatrade,1,1
+"Curtains, Awnings & Window Dressings",Curtain Supply & Fitting,1,Checkatrade,1,1
+"Curtains, Awnings & Window Dressings",Made to Measure Curtain,1,Checkatrade,1,1
+"Damp, Waterproofing & Restoration",Antique Restoration,1,Checkatrade,1,1
+"Damp, Waterproofing & Restoration",Brick Restoration,1,Checkatrade,1,1
+"Damp, Waterproofing & Restoration",Car Restoration,1,Airtasker,1,1
+"Damp, Waterproofing & Restoration",Classic Car Restoration,1,Checkatrade,1,1
+"Damp, Waterproofing & Restoration",Condensation Control,1,Checkatrade,1,1
+"Damp, Waterproofing & Restoration",Damp Investigation,1,Checkatrade,1,1
+"Damp, Waterproofing & Restoration",Damp Proofer,1,Checkatrade,1,1
+"Damp, Waterproofing & Restoration",Damp Survey,1,Checkatrade,1,1
+"Damp, Waterproofing & Restoration",Damp Walls Treatment,1,Checkatrade,1,1
+"Damp, Waterproofing & Restoration",Flood Damage Restoration,1,Checkatrade,1,1
+"Damp, Waterproofing & Restoration",Flood Restoration,1,Checkatrade,1,1
+"Damp, Waterproofing & Restoration",Glass Restoration,1,Checkatrade,1,1
+"Damp, Waterproofing & Restoration",Leather Car Seat Restoration,1,Airtasker,1,1
+"Damp, Waterproofing & Restoration",Liquid Waterproof System,1,Checkatrade,1,1
+"Damp, Waterproofing & Restoration",Mould / Damp Control,1,Rated People,1,1
+"Damp, Waterproofing & Restoration",Mould Control,1,Checkatrade,1,1
+"Damp, Waterproofing & Restoration",Odour Control,1,Airtasker,1,1
+"Damp, Waterproofing & Restoration",Penetrating Damp Treatment,1,Checkatrade,1,1
+"Damp, Waterproofing & Restoration",Period Restoration,1,Rated People,1,1
+"Damp, Waterproofing & Restoration",Restoration,1,Checkatrade,1,1
+"Damp, Waterproofing & Restoration",Rising Damp,1,Checkatrade,1,1
+"Damp, Waterproofing & Restoration",Stained Glass Restoration,1,Checkatrade,1,1
+"Damp, Waterproofing & Restoration",Timber Preservation,1,Rated People,1,1
+"Damp, Waterproofing & Restoration",Timber Resin Repair,1,Checkatrade,1,1
+"Damp, Waterproofing & Restoration",Timber Restoration,1,Checkatrade,1,1
+"Damp, Waterproofing & Restoration",Timber Treatment,1,Checkatrade,1,1
+"Damp, Waterproofing & Restoration",Wall Crack Repair,1,Checkatrade,1,1
+"Damp, Waterproofing & Restoration",Water Damage,1,Airtasker,1,1
+"Damp, Waterproofing & Restoration",Waterproof Plasterer,1,Checkatrade,1,1
+"Damp, Waterproofing & Restoration",Woodworm Treatment,1,Checkatrade,1,1
+"Damp, Waterproofing & Restoration",table restoration,1,Checkatrade,1,1
+"Damp, Waterproofing & Restoration",water damage,1,Checkatrade,1,1
+Decking Services,Composite Decking,1,Checkatrade,1,1
+Decking Services,Deck Repair,1,Airtasker,1,1
+Decking Services,Deck Sealing,1,Airtasker,1,1
+Decking Services,Deck Staining,1,Airtasker,1,1
+Decking Services,Wooden Decking,1,Rated People,1,1
+Delivery Services,Furniture Delivery,1,Airtasker,1,1
+Doors & Door Services,Door Replacement,1,Rated People,1,1
+"Doors, Windows & Glazing",Aluminium Window Repair,1,Checkatrade,1,1
+"Doors, Windows & Glazing",Barn Doors,1,Checkatrade,1,1
+"Doors, Windows & Glazing",Bay Window Repair,1,Checkatrade,1,1
+"Doors, Windows & Glazing",Bespoke External Doors,1,Checkatrade,1,1
+"Doors, Windows & Glazing",Bespoke Interior Doors,1,Checkatrade,1,1
+"Doors, Windows & Glazing",Bespoke Oak Doors,1,Checkatrade,1,1
+"Doors, Windows & Glazing",Bespoke Stable Doors,1,Checkatrade,1,1
+"Doors, Windows & Glazing",Bespoke Windows / Doors,1,Checkatrade,1,1
+"Doors, Windows & Glazing",Bespoke Wooden Front Doors,1,Checkatrade,1,1
+"Doors, Windows & Glazing",Bespoke Wooden Windows,1,Checkatrade,1,1
+"Doors, Windows & Glazing",Board-Up Service,1,Airtasker,1,1
+"Doors, Windows & Glazing",Car Window Replacement,1,Airtasker,1,1
+"Doors, Windows & Glazing",Car Window Tinting,1,Airtasker,1,1
+"Doors, Windows & Glazing",Decorative Glazing,1,Rated People,1,1
+"Doors, Windows & Glazing",Door Canopies,1,Checkatrade,1,1
+"Doors, Windows & Glazing",Door Fitting,1,Checkatrade,1,1
+"Doors, Windows & Glazing",Door Frame Fitting,1,Airtasker,1,1
+"Doors, Windows & Glazing",Door Opening,1,Rated People,1,1
+"Doors, Windows & Glazing",Door Stripping,1,Checkatrade,1,1
+"Doors, Windows & Glazing",Doors Opened / Unlocked,1,Checkatrade,1,1
+"Doors, Windows & Glazing",Doors Supply,1,Checkatrade,1,1
+"Doors, Windows & Glazing",Double Glazed Windows Cost,1,Checkatrade,1,1
+"Doors, Windows & Glazing",Emergency Garage Door Service,1,Checkatrade,1,1
+"Doors, Windows & Glazing",Emergency Glazing,1,Airtasker,1,1
+"Doors, Windows & Glazing",Emergency Windows / Doors / Conservatories Service,1,Checkatrade,1,1
+"Doors, Windows & Glazing",Fix Window Lock,1,Checkatrade,1,1
+"Doors, Windows & Glazing",Flyscreen Installation,1,Airtasker,1,1
+"Doors, Windows & Glazing",Frosted Windows,1,Checkatrade,1,1
+"Doors, Windows & Glazing",Garage Door Supplier,1,Checkatrade,1,1
+"Doors, Windows & Glazing",Glass,1,Checkatrade,1,1
+"Doors, Windows & Glazing",Glass Balustrades,1,Checkatrade,1,1
+"Doors, Windows & Glazing",Glass Cutting,1,Airtasker,1,1
+"Doors, Windows & Glazing",Glass Polishing,1,Checkatrade,1,1
+"Doors, Windows & Glazing",Glass Replacement,1,Checkatrade,1,1
+"Doors, Windows & Glazing",Glass Splashbacks,1,Checkatrade,1,1
+"Doors, Windows & Glazing",Industrial Door Services,1,Checkatrade,1,1
+"Doors, Windows & Glazing",Letterbox Replacement,1,Airtasker,1,1
+"Doors, Windows & Glazing",Loft Window Repair,1,Checkatrade,1,1
+"Doors, Windows & Glazing",Made-to-Measure Doors,1,Checkatrade,1,1
+"Doors, Windows & Glazing",Microsoft Windows Help,1,Airtasker,1,1
+"Doors, Windows & Glazing",Mirror Cutting,1,Airtasker,1,1
+"Doors, Windows & Glazing",Mirror Repair,1,Airtasker,1,1
+"Doors, Windows & Glazing",PVC Windows,1,Airtasker,1,1
+"Doors, Windows & Glazing",Perspex / Protective Screens,1,Rated People,1,1
+"Doors, Windows & Glazing",Replacement Doors and Drawers,1,Checkatrade,1,1
+"Doors, Windows & Glazing",Roller Shutters,1,Checkatrade,1,1
+"Doors, Windows & Glazing",Secondary Glazing,1,Checkatrade,1,1
+"Doors, Windows & Glazing",Security Door Locks,1,Checkatrade,1,1
+"Doors, Windows & Glazing",Stable Doors,1,Checkatrade,1,1
+"Doors, Windows & Glazing",Stained Glass,1,Checkatrade,1,1
+"Doors, Windows & Glazing",Timber Window Repair,1,Checkatrade,1,1
+"Doors, Windows & Glazing",Triple Glazing,1,Airtasker,1,1
+"Doors, Windows & Glazing",Triple Glazing Installation,1,Checkatrade,1,1
+"Doors, Windows & Glazing",Triple Glazing Repair,1,Checkatrade,1,1
+"Doors, Windows & Glazing",Vanity Mirror Installation,1,Airtasker,1,1
+"Doors, Windows & Glazing",Vehicle Window Tinting,1,Checkatrade,1,1
+"Doors, Windows & Glazing",Velux / Skylight Window,1,Rated People,1,1
+"Doors, Windows & Glazing",Weather Stripping,1,Airtasker,1,1
+"Doors, Windows & Glazing",Window Film,1,Checkatrade,1,1
+"Doors, Windows & Glazing",Window Shutters,1,Checkatrade,1,1
+"Doors, Windows & Glazing",Window Supply,1,Checkatrade,1,1
+"Doors, Windows & Glazing",Window Tinting,1,Checkatrade,1,1
+"Doors, Windows & Glazing",Windows / Doors / Conservatories,1,Checkatrade,1,1
+"Doors, Windows & Glazing",Windows Help,1,Airtasker,1,1
+"Doors, Windows & Glazing",Wooden Casement Window,1,Rated People,1,1
+"Doors, Windows & Glazing",Wooden Doors - External,1,Rated People,1,1
+"Doors, Windows & Glazing",Wooden Doors - Internal,1,Rated People,1,1
+"Doors, Windows & Glazing",Wooden Sash Window,1,Rated People,1,1
+"Doors, Windows & Glazing",Wooden Sash Window Repair,1,Checkatrade,1,1
+"Doors, Windows & Glazing",Wooden Shutters,1,Checkatrade,1,1
+"Doors, Windows & Glazing",Worktops - Glass,1,Checkatrade,1,1
+"Doors, Windows & Glazing",bespoke windows,1,Checkatrade,1,1
+"Doors, Windows & Glazing",bespoke wooden doors,1,Checkatrade,1,1
+"Doors, Windows & Glazing",door dipping,1,Checkatrade,1,1
+"Doors, Windows & Glazing",uPVC Window Repair,1,Checkatrade,1,1
+Driveways & Paving,Patio Installation,1,Checkatrade,1,1
+"Driveways, Paving & Surfacing",Bonded Aggregate Surfacing,1,Checkatrade,1,1
+"Driveways, Paving & Surfacing",Driveway / Patio Design,1,Checkatrade,1,1
+"Driveways, Paving & Surfacing",Driveway Sealing,1,Airtasker,1,1
+"Driveways, Paving & Surfacing",Driveway pavers,1,Rated People,1,1
+"Driveways, Paving & Surfacing",Dropped Kerb Installation,1,Checkatrade,1,1
+"Driveways, Paving & Surfacing",Patio Services,1,Airtasker,1,1
+"Driveways, Paving & Surfacing",Resin Bond Surfacing,1,Checkatrade,1,1
+"Driveways, Paving & Surfacing",Resin Bound Surfacing,1,Checkatrade,1,1
+"Driveways, Paving & Surfacing",Resin Driveway,1,Rated People,1,1
+"Driveways, Paving & Surfacing",Road Marking,1,Checkatrade,1,1
+"Driveways, Paving & Surfacing",Slab Laying,1,Airtasker,1,1
+"Driveways, Paving & Surfacing",Tarmac Driveway,1,Rated People,1,1
+"Driveways, Paving & Surfacing",Tarmac Driveways,1,Checkatrade,1,1
+"Driveways, Paving & Surfacing",Tarmac Laying,1,Airtasker,1,1
+Electrical Services,Chandelier Installation,1,Airtasker,1,1
+Electrical Services,EV Charger Installation,1,Checkatrade,1,1
+Electrical Services,EV Charger Installation Only,1,Checkatrade,1,1
+Electrical Services,EV Charger Repair,1,Checkatrade,1,1
+Electrical Services,EV Charger Supply and Install,1,Checkatrade,1,1
+Electrical Services,Electric Car Charging Point Installation,1,Rated People,1,1
+Electrical Services,Electric Cooker Installation and Repair,1,Airtasker,1,1
+Electrical Services,Electric Cooker Installer,1,Checkatrade,1,1
+Electrical Services,Electric Cooker Services,1,Checkatrade,1,1
+Electrical Services,Electric Oven / Hob - Installation,1,Rated People,1,1
+Electrical Services,Electric Radiators,1,Checkatrade,1,1
+Electrical Services,Electric Range Cookers,1,Checkatrade,1,1
+Electrical Services,Electric Scooter Repair,1,Airtasker,1,1
+Electrical Services,Electric Shower Services,1,Checkatrade,1,1
+Electrical Services,Electrical & Lighting,1,Bark,1,1
+Electrical Services,Electrical Contractors,1,Checkatrade,1,1
+Electrical Services,Electrical Fault Finding,1,Checkatrade,1,1
+Electrical Services,Electrical Heater Repair,1,Checkatrade,1,1
+Electrical Services,Electrical Installation,1,Airtasker,1,1
+Electrical Services,Electrical Installation / Testing,1,Rated People,1,1
+Electrical Services,Electrical Repair,1,Airtasker,1,1
+Electrical Services,Electrical Safety Certificate Cost,1,Checkatrade,1,1
+Electrical Services,Electrical Under Floor Heating Installation,1,Checkatrade,1,1
+Electrical Services,Electrical Under Floor Heating Repair,1,Checkatrade,1,1
+Electrical Services,Emergency Lighting,1,Checkatrade,1,1
+Electrical Services,Energy Efficient Lighting,1,Checkatrade,1,1
+Electrical Services,External Lighting,1,Rated People,1,1
+Electrical Services,Extractor Fan Installation,1,Airtasker,1,1
+Electrical Services,Interior Lighting Designers,1,Airtasker,1,1
+Electrical Services,Internal Lighting,1,Rated People,1,1
+Electrical Services,LED Lighting Installation,1,Checkatrade,1,1
+Electrical Services,Landscape Lighting,1,Airtasker,1,1
+Electrical Services,Lighting Design,1,Checkatrade,1,1
+Electrical Services,Lighting Repair,1,Airtasker,1,1
+Electrical Services,Outdoor Lighting Installation,1,Airtasker,1,1
+Electrical Services,Power Point Installation,1,Airtasker,1,1
+Electrical Services,Smart Thermostat Installation,1,Checkatrade,1,1
+Electrical Services,Socket & Switch Installation,1,Airtasker,1,1
+Electrical Services,Socket Services,1,Checkatrade,1,1
+Electrical Services,gas and electric cooker installation,1,Checkatrade,1,1
+Electronics Repair Services,Circuit Board Repair,1,Airtasker,1,1
+Electronics Repair Services,Games Console Repair,1,Airtasker,1,1
+Electronics Repair Services,General Electronics Repair,1,Airtasker,1,1
+Electronics Repair Services,Headphone Repair,1,Airtasker,1,1
+Electronics Repair Services,Hi-Fi Repair,1,Airtasker,1,1
+Electronics Repair Services,Projector Installation,1,Airtasker,1,1
+Electronics Repair Services,Sound System Installation,1,Airtasker,1,1
+Electronics Repair Services,Table Lamp Repair,1,Airtasker,1,1
+Electronics Repair Services,Video / Audio Repair,1,Checkatrade,1,1
+Electronics Repair Services,iPod Repair,1,Airtasker,1,1
+Events & Wedding Services,Bagpiper,1,Airtasker,1,1
+Events & Wedding Services,Balloon Artist,1,Airtasker,1,1
+Events & Wedding Services,Band Hire,1,Airtasker,1,1
+Events & Wedding Services,Belly Dance Entertainment,1,Airtasker,1,1
+Events & Wedding Services,Birthday Grams,1,Airtasker,1,1
+Events & Wedding Services,Bouncy Castle Hire,1,Checkatrade,1,1
+Events & Wedding Services,Clown Entertainment,1,Airtasker,1,1
+Events & Wedding Services,Comedy Entertainment,1,Airtasker,1,1
+Events & Wedding Services,Corporate Filming,1,Checkatrade,1,1
+Events & Wedding Services,Dance Entertainment,1,Airtasker,1,1
+Events & Wedding Services,Event Setup,1,Checkatrade,1,1
+Events & Wedding Services,Event Staffing,1,Airtasker,1,1
+Events & Wedding Services,Florist,1,Airtasker,1,1
+Events & Wedding Services,Flower Arrangements,1,Airtasker,1,1
+Events & Wedding Services,Flower Wall Hire,1,Airtasker,1,1
+Events & Wedding Services,Juggling Entertainment,1,Airtasker,1,1
+Events & Wedding Services,Magician,1,Airtasker,1,1
+Events & Wedding Services,Marquee Hire,1,Checkatrade,1,1
+Events & Wedding Services,Mobile Disco,1,Checkatrade,1,1
+Events & Wedding Services,Music Services,1,Bark,1,1
+Events & Wedding Services,Party Assistance,1,Airtasker,1,1
+Events & Wedding Services,Singer,1,Airtasker,1,1
+Events & Wedding Services,Wait Staff,1,Airtasker,1,1
+Events & Wedding Services,Wedding,1,Airtasker,1,1
+Events & Wedding Services,Wedding Cakes,1,Airtasker,1,1
+Events & Wedding Services,Wedding Car Hire,1,Airtasker,1,1
+Events & Wedding Services,Wedding Celebrant,1,Airtasker,1,1
+Events & Wedding Services,Wedding Dress Alterations,1,Airtasker,1,1
+Events & Wedding Services,Wedding Dress Designer,1,Airtasker,1,1
+Events & Wedding Services,Wedding Entertainment,1,Airtasker,1,1
+Events & Wedding Services,Wedding Floristry,1,Airtasker,1,1
+Events & Wedding Services,Wedding Invitation Designer,1,Airtasker,1,1
+Events & Wedding Services,Wedding Transportation,1,Airtasker,1,1
+"Fabric, Clothing & Specialist Repair",Clothing Repair,1,Airtasker,1,1
+"Fabric, Clothing & Specialist Repair",Costume Maker,1,Airtasker,1,1
+"Fabric, Clothing & Specialist Repair",Embroidery Services,1,Airtasker,1,1
+"Fabric, Clothing & Specialist Repair",Leather Repair,1,Checkatrade,1,1
+"Fabric, Clothing & Specialist Repair",Pattern Cutter,1,Airtasker,1,1
+"Fabric, Clothing & Specialist Repair",Sewing Machine Repair,1,Airtasker,1,1
+"Fabric, Clothing & Specialist Repair",Tent Repair,1,Airtasker,1,1
+Fencing & Gates,Agricultural Fencing,1,Checkatrade,1,1
+"Fencing, Gates & Outdoor Structures",Carport Installation,1,Checkatrade,1,1
+"Fencing, Gates & Outdoor Structures",Electric Gate Installation,1,Checkatrade,1,1
+"Fencing, Gates & Outdoor Structures",Electric Gate Supplier,1,Checkatrade,1,1
+"Fencing, Gates & Outdoor Structures",Electric Gate Wiring,1,Checkatrade,1,1
+"Fencing, Gates & Outdoor Structures",Fence Installation,1,Airtasker,1,1
+"Fencing, Gates & Outdoor Structures",Fence Installation Cost,1,Checkatrade,1,1
+"Fencing, Gates & Outdoor Structures",Fence Staining,1,Airtasker,1,1
+"Fencing, Gates & Outdoor Structures",Gate Automation,1,Checkatrade,1,1
+"Fencing, Gates & Outdoor Structures",Gate Installation,1,Airtasker,1,1
+"Fencing, Gates & Outdoor Structures",Sail Shades,1,Checkatrade,1,1
+"Fencing, Gates & Outdoor Structures",Security Gates & Bollard,1,Rated People,1,1
+"Fencing, Gates & Outdoor Structures",Wooden Gates,1,Checkatrade,1,1
+"Fencing, Gates & Outdoor Structures",custom stair railing,1,Checkatrade,1,1
+"Fencing, Gates & Outdoor Structures",fence spraying,1,Checkatrade,1,1
+Fire & Safety Services,Legionella Assessment,1,Checkatrade,1,1
+Fire & Safety Services,Legionella Control,1,Checkatrade,1,1
+Fire & Safety Services,Legionella Testing,1,Checkatrade,1,1
+Fire & Safety Services,Sprinkler System Installation,1,Airtasker,1,1
+Fire & Safety Services,Sprinkler System Services,1,Rated People,1,1
+Fitness & Sports Coaching,Aerobics Classes,1,Airtasker,1,1
+Fitness & Sports Coaching,At-Home Personal Training,1,Airtasker,1,1
+Fitness & Sports Coaching,Basketball Training,1,Airtasker,1,1
+Fitness & Sports Coaching,Bootcamp Training,1,Airtasker,1,1
+Fitness & Sports Coaching,Boxing Instructor,1,Airtasker,1,1
+Fitness & Sports Coaching,Fitness Equipment Installation,1,Airtasker,1,1
+Fitness & Sports Coaching,Gym Buddy,1,Airtasker,1,1
+Fitness & Sports Coaching,HIIT Training,1,Airtasker,1,1
+Fitness & Sports Coaching,Health & Fitness,1,Booksy,1,1
+Fitness & Sports Coaching,Jiu Jitsu Classes,1,Airtasker,1,1
+Fitness & Sports Coaching,Judo Classes,1,Airtasker,1,1
+Fitness & Sports Coaching,Kickboxing Training,1,Airtasker,1,1
+Fitness & Sports Coaching,MMA Training,1,Airtasker,1,1
+Fitness & Sports Coaching,Martial Arts,1,Airtasker,1,1
+Fitness & Sports Coaching,Pilates Instructor,1,Airtasker,1,1
+Fitness & Sports Coaching,Pregnancy Fitness,1,Airtasker,1,1
+Fitness & Sports Coaching,Sports Coaching,1,Airtasker,1,1
+Fitness & Sports Coaching,Taekwondo Classes,1,Airtasker,1,1
+Fitness & Sports Coaching,Triathlon Training,1,Airtasker,1,1
+Fitness & Sports Coaching,Weight Loss Training,1,Airtasker,1,1
+Fitness & Sports Coaching,Zumba Classes,1,Airtasker,1,1
+Flooring,Floor Repair,1,Airtasker,1,1
+Flooring,Vinyl Flooring,1,Checkatrade,1,1
+Flooring & Tiling Services,Carpet Installation,1,Airtasker,1,1
+Flooring & Tiling Services,Carpet Repair / Stretching,1,Checkatrade,1,1
+Flooring & Tiling Services,Carpet Supply,1,Checkatrade,1,1
+Flooring & Tiling Services,Carpet Supply & Fit,1,Checkatrade,1,1
+Flooring & Tiling Services,Carpet Tiles,1,Checkatrade,1,1
+Flooring & Tiling Services,Epoxy Floor Coating,1,Airtasker,1,1
+Flooring & Tiling Services,Floor Planning,1,Airtasker,1,1
+Flooring & Tiling Services,Floor Sanding & Finishing,1,Rated People,1,1
+Flooring & Tiling Services,Floor Screeding,1,Checkatrade,1,1
+Flooring & Tiling Services,Floor fitters,1,Rated People,1,1
+Flooring & Tiling Services,Hand Made Tiles,1,Checkatrade,1,1
+Flooring & Tiling Services,Heated Floor Installation,1,Airtasker,1,1
+Flooring & Tiling Services,Interlocking Floor Tiles,1,Checkatrade,1,1
+Flooring & Tiling Services,Liquid Screeding,1,Checkatrade,1,1
+Flooring & Tiling Services,Loft Floor Boarding,1,Checkatrade,1,1
+Flooring & Tiling Services,Mosaic Tiling,1,Checkatrade,1,1
+Flooring & Tiling Services,Natural Stone Tiling,1,Checkatrade,1,1
+Flooring & Tiling Services,Plain Tiles,1,Checkatrade,1,1
+Flooring & Tiling Services,Porcelain Tiling,1,Checkatrade,1,1
+Flooring & Tiling Services,Regrouting,1,Airtasker,1,1
+Flooring & Tiling Services,Slate Tiling,1,Checkatrade,1,1
+Flooring & Tiling Services,Stone Floor Restoration,1,Checkatrade,1,1
+Flooring & Tiling Services,Tile Supply,1,Checkatrade,1,1
+Flooring & Tiling Services,Victorian Tiling,1,Checkatrade,1,1
+Flooring & Tiling Services,Wood & Laminate Repair,1,Checkatrade,1,1
+Flooring & Tiling Services,Wooden floor specialist,1,Checkatrade,1,1
+Flooring & Tiling Services,Worktops - Laminate,1,Checkatrade,1,1
+Flooring & Tiling Services,screeding companies,1,Checkatrade,1,1
+"Food, Baking & Personal Chef Services",Artisan Baking,1,Airtasker,1,1
+"Food, Baking & Personal Chef Services",Cafes & Coffee Shops,1,Yell,1,1
+"Food, Baking & Personal Chef Services",Cooking,1,Airtasker,1,1
+"Food, Baking & Personal Chef Services",French Baker,1,Airtasker,1,1
+"Food, Baking & Personal Chef Services",General Baking,1,Airtasker,1,1
+"Food, Baking & Personal Chef Services",Gluten-Free Baking,1,Airtasker,1,1
+"Food, Baking & Personal Chef Services",Greek Baker,1,Airtasker,1,1
+"Food, Baking & Personal Chef Services",Home Chef,1,Airtasker,1,1
+"Food, Baking & Personal Chef Services",Home Cooking,1,Airtasker,1,1
+"Food, Baking & Personal Chef Services",Japanese Baker,1,Airtasker,1,1
+"Food, Baking & Personal Chef Services",Keto Baker,1,Airtasker,1,1
+"Food, Baking & Personal Chef Services",Pastry Chef,1,Airtasker,1,1
+"Food, Baking & Personal Chef Services",Personalised Cupcakes,1,Airtasker,1,1
+"Food, Baking & Personal Chef Services",Pizza Oven,1,Rated People,1,1
+"Food, Baking & Personal Chef Services",Private Chef,1,Airtasker,1,1
+"Food, Baking & Personal Chef Services",Vegan Baking,1,Airtasker,1,1
+"Food, Baking & Personal Chef Services",Wholesale Baking,1,Airtasker,1,1
+"Furniture, Carpentry & Woodwork",Architraves,1,Checkatrade,1,1
+"Furniture, Carpentry & Woodwork",Bed Repair,1,Airtasker,1,1
+"Furniture, Carpentry & Woodwork",Bespoke Alcove Units,1,Checkatrade,1,1
+"Furniture, Carpentry & Woodwork",Bespoke Cupboards,1,Checkatrade,1,1
+"Furniture, Carpentry & Woodwork",Bespoke Dining Tables,1,Checkatrade,1,1
+"Furniture, Carpentry & Woodwork",Bespoke Doors,1,Checkatrade,1,1
+"Furniture, Carpentry & Woodwork",Bespoke Timber Windows,1,Checkatrade,1,1
+"Furniture, Carpentry & Woodwork",Bespoke Under-Stairs Storage,1,Checkatrade,1,1
+"Furniture, Carpentry & Woodwork",Built-In Furniture,1,Rated People,1,1
+"Furniture, Carpentry & Woodwork",Cabinet Design,1,Airtasker,1,1
+"Furniture, Carpentry & Woodwork",Cabinet Installation,1,Airtasker,1,1
+"Furniture, Carpentry & Woodwork",Chair Repair,1,Airtasker,1,1
+"Furniture, Carpentry & Woodwork",Coffee Table Repair,1,Airtasker,1,1
+"Furniture, Carpentry & Woodwork",Custom Shelving,1,Airtasker,1,1
+"Furniture, Carpentry & Woodwork",Dining Chair Repair,1,Airtasker,1,1
+"Furniture, Carpentry & Woodwork",Flatpack wardrobe setup,1,Checkatrade,1,1
+"Furniture, Carpentry & Woodwork",Furniture Disassembly,1,Airtasker,1,1
+"Furniture, Carpentry & Woodwork",Furniture Makers,1,Airtasker,1,1
+"Furniture, Carpentry & Woodwork",Furniture Shops,1,Yell,1,1
+"Furniture, Carpentry & Woodwork",General Fitted Furniture,1,Rated People,1,1
+"Furniture, Carpentry & Woodwork",Lounge Furniture Repair,1,Airtasker,1,1
+"Furniture, Carpentry & Woodwork",Mobility Furniture,1,Checkatrade,1,1
+"Furniture, Carpentry & Woodwork",Office Chair Repair,1,Airtasker,1,1
+"Furniture, Carpentry & Woodwork",Recliner Chair Repair,1,Airtasker,1,1
+"Furniture, Carpentry & Woodwork",Recliner Repair,1,Airtasker,1,1
+"Furniture, Carpentry & Woodwork",Shelving,1,Checkatrade,1,1
+"Furniture, Carpentry & Woodwork",Skirting,1,Checkatrade,1,1
+"Furniture, Carpentry & Woodwork",Skirting Board Installation,1,Rated People,1,1
+"Furniture, Carpentry & Woodwork",Under-Stairs Storage Fitting,1,Checkatrade,1,1
+"Furniture, Carpentry & Woodwork",Upholstery,1,Checkatrade,1,1
+"Furniture, Carpentry & Woodwork",Wardrobe Maker,1,Checkatrade,1,1
+"Furniture, Carpentry & Woodwork",Wardrobe Sliding Doors,1,Checkatrade,1,1
+"Furniture, Carpentry & Woodwork",Wood Repair,1,Airtasker,1,1
+"Furniture, Carpentry & Woodwork",Wooden / Timber Structures,1,Checkatrade,1,1
+"Furniture, Carpentry & Woodwork",Woodworking,1,Checkatrade,1,1
+"Furniture, Carpentry & Woodwork",bed frame repair,1,Checkatrade,1,1
+"Furniture, Carpentry & Woodwork",bespoke bedroom furniture,1,Checkatrade,1,1
+"Furniture, Carpentry & Woodwork",bespoke fitted furniture,1,Checkatrade,1,1
+"Furniture, Carpentry & Woodwork",bespoke home office furniture,1,Checkatrade,1,1
+"Furniture, Carpentry & Woodwork",bespoke living room furniture,1,Checkatrade,1,1
+"Furniture, Carpentry & Woodwork",bespoke oak furniture,1,Checkatrade,1,1
+"Furniture, Carpentry & Woodwork",bespoke pine furniture,1,Checkatrade,1,1
+"Furniture, Carpentry & Woodwork",bookcase makers,1,Checkatrade,1,1
+"Furniture, Carpentry & Woodwork",furniture refinishing,1,Checkatrade,1,1
+"Furniture, Carpentry & Woodwork",furniture refurbishing,1,Checkatrade,1,1
+"Furniture, Carpentry & Woodwork",furniture stripper,1,Checkatrade,1,1
+"Furniture, Carpentry & Woodwork",furniture stripping service,1,Checkatrade,1,1
+"Furniture, Carpentry & Woodwork",skirting installers,1,Checkatrade,1,1
+"Furniture, Carpentry & Woodwork",wardrobe doors made to measure,1,Checkatrade,1,1
+"Furniture, Carpentry & Woodwork",wardrobe repair,1,Checkatrade,1,1
+"Furniture, Carpentry & Woodwork",wardrobe repairs,1,Checkatrade,1,1
+"Furniture, Carpentry & Woodwork",wooden chair repair,1,Checkatrade,1,1
+Gardening & Landscaping,Arborist,1,Airtasker,1,1
+Gardening & Landscaping,Artifical Grass / Astro Turf,1,Rated People,1,1
+Gardening & Landscaping,Artificial Grass,1,Checkatrade,1,1
+Gardening & Landscaping,Equestrian Stables,1,Checkatrade,1,1
+Gardening & Landscaping,Garden Designers,1,Airtasker,1,1
+Gardening & Landscaping,Garden Edging,1,Airtasker,1,1
+Gardening & Landscaping,Garden Lighting,1,Checkatrade,1,1
+Gardening & Landscaping,Garden Logs Supplied / Delivered,1,Checkatrade,1,1
+Gardening & Landscaping,Garden Machinery Repairs,1,Checkatrade,1,1
+Gardening & Landscaping,Garden Machinery Servicing,1,Airtasker,1,1
+Gardening & Landscaping,Garden Planting,1,Airtasker,1,1
+Gardening & Landscaping,Garden Pond Maintenance,1,Airtasker,1,1
+Gardening & Landscaping,Garden Rooms / Annexes,1,Checkatrade,1,1
+Gardening & Landscaping,Garden Seat Installation,1,Airtasker,1,1
+Gardening & Landscaping,Garden Shed / Playhouse,1,Rated People,1,1
+Gardening & Landscaping,Garden Shed Installation & Repair,1,Airtasker,1,1
+Gardening & Landscaping,Garden Shed Suppliers,1,Checkatrade,1,1
+Gardening & Landscaping,Garden Sleepers,1,Checkatrade,1,1
+Gardening & Landscaping,Garden Structures,1,Checkatrade,1,1
+Gardening & Landscaping,Garden Studios,1,Checkatrade,1,1
+Gardening & Landscaping,Garden Tidy Up,1,Airtasker,1,1
+Gardening & Landscaping,Garden Tool Repair,1,Airtasker,1,1
+Gardening & Landscaping,Garden Tool Sharpening,1,Airtasker,1,1
+Gardening & Landscaping,Garden Wall,1,Rated People,1,1
+Gardening & Landscaping,Gazebo Installation & Repair,1,Airtasker,1,1
+Gardening & Landscaping,Grass Trimming,1,Airtasker,1,1
+Gardening & Landscaping,Gritting,1,Checkatrade,1,1
+Gardening & Landscaping,Hedge Planting,1,Airtasker,1,1
+Gardening & Landscaping,Hedge Trimming,1,Checkatrade,1,1
+Gardening & Landscaping,Hedging,1,Airtasker,1,1
+Gardening & Landscaping,Japanese Knotweed Control,1,Checkatrade,1,1
+Gardening & Landscaping,Land Clearing,1,Airtasker,1,1
+Gardening & Landscaping,Landscape Contracting,1,Checkatrade,1,1
+Gardening & Landscaping,Landscape Contractors,1,Airtasker,1,1
+Gardening & Landscaping,Landscape Design,1,Airtasker,1,1
+Gardening & Landscaping,Lawn Fertilisation,1,Airtasker,1,1
+Gardening & Landscaping,Lawn Mower Blade Sharpening,1,Airtasker,1,1
+Gardening & Landscaping,Lawn Mower Repair,1,Airtasker,1,1
+Gardening & Landscaping,Lawn Repair,1,Airtasker,1,1
+Gardening & Landscaping,Lawn Seeding,1,Airtasker,1,1
+Gardening & Landscaping,Planting,1,Rated People,1,1
+Gardening & Landscaping,Polytunnel Services,1,Checkatrade,1,1
+Gardening & Landscaping,Pond & Water Feature,1,Rated People,1,1
+Gardening & Landscaping,Pruning,1,Checkatrade,1,1
+Gardening & Landscaping,Shed Bases,1,Checkatrade,1,1
+Gardening & Landscaping,Shed Installation,1,Airtasker,1,1
+Gardening & Landscaping,Shed Repair,1,Checkatrade,1,1
+Gardening & Landscaping,Shed Services,1,Checkatrade,1,1
+Gardening & Landscaping,Shrub & Bush Trimming,1,Airtasker,1,1
+Gardening & Landscaping,The Range Pergola Installation,1,Airtasker,1,1
+Gardening & Landscaping,Tree House Services,1,Checkatrade,1,1
+Gardening & Landscaping,Trellis Installation,1,Checkatrade,1,1
+Gardening & Landscaping,Turf Laying,1,Airtasker,1,1
+Gardening & Landscaping,Turf Repair,1,Airtasker,1,1
+Gardening & Landscaping,Water Garden Services,1,Checkatrade,1,1
+Gardening & Landscaping,Weed Control,1,Checkatrade,1,1
+Gardening & Landscaping,Yard Work,1,Airtasker,1,1
+Gardening & Landscaping,bespoke pergola,1,Checkatrade,1,1
+Gardening & Landscaping,gazebo installation service,1,Checkatrade,1,1
+Gardening & Landscaping,gazebo installer,1,Checkatrade,1,1
+Gardening & Landscaping,lean to gazebo,1,Checkatrade,1,1
+Gardening & Landscaping,shed fitter,1,Checkatrade,1,1
+Gardening & Landscaping,shed makers,1,Checkatrade,1,1
+Gardening & Landscaping,wood gazebo installation,1,Checkatrade,1,1
+"Groundworks, Excavation & Plant Hire",Backhoe Services,1,Airtasker,1,1
+"Groundworks, Excavation & Plant Hire",Boring Excavation,1,Airtasker,1,1
+"Groundworks, Excavation & Plant Hire",Core Drilling,1,Checkatrade,1,1
+"Groundworks, Excavation & Plant Hire",Crane Hire,1,Checkatrade,1,1
+"Groundworks, Excavation & Plant Hire",Diamond Drilling,1,Checkatrade,1,1
+"Groundworks, Excavation & Plant Hire",Earthmoving,1,Airtasker,1,1
+"Groundworks, Excavation & Plant Hire",Grab Hire,1,Checkatrade,1,1
+"Groundworks, Excavation & Plant Hire",Mini Digger Hire,1,Checkatrade,1,1
+"Groundworks, Excavation & Plant Hire",Plant Hire,1,Checkatrade,1,1
+"Groundworks, Excavation & Plant Hire",Trench Digging,1,Airtasker,1,1
+"Groundworks, Excavation & Plant Hire","Water Mains Specialist (Pipe Replacement, Moling and Lead Pipes)",1,Checkatrade,1,1
+"Groundworks, Excavation & Plant Hire",moling contractors,1,Checkatrade,1,1
+"Groundworks, Excavation & Plant Hire",moling services,1,Checkatrade,1,1
+Hair & Barber Services,Afro Barbering,1,Airtasker,1,1
+Hair & Barber Services,Beard Grooming,1,Airtasker,1,1
+Hair & Barber Services,Blow Dry,1,Airtasker,1,1
+Hair & Barber Services,Curly Hair Services,1,Airtasker,1,1
+Hair & Barber Services,Fade / Buzz Cuts,1,Treatwell,1,1
+Hair & Barber Services,Haircut & Trimming,1,Airtasker,1,1
+Hair & Barber Services,Kids Haircuts,1,Airtasker,1,1
+Hair & Barber Services,Mobile Barbering,1,Airtasker,1,1
+Hair Removal,Threading,1,Airtasker,1,1
+"Handyman, Assembly & Mounting",Assembly,1,Airtasker,1,1
+"Handyman, Assembly & Mounting",BBQ Assembly,1,Airtasker,1,1
+"Handyman, Assembly & Mounting",Basketball Hoop System Assembly,1,Airtasker,1,1
+"Handyman, Assembly & Mounting",Bicycle Assembly,1,Airtasker,1,1
+"Handyman, Assembly & Mounting",Cube Storage Assembly,1,Airtasker,1,1
+"Handyman, Assembly & Mounting",Dyson Wall Mounting,1,Airtasker,1,1
+"Handyman, Assembly & Mounting",Emergency Handyman,1,Checkatrade,1,1
+"Handyman, Assembly & Mounting",Exercise Bike Assembly,1,Airtasker,1,1
+"Handyman, Assembly & Mounting",Home Gym Assembly,1,Airtasker,1,1
+"Handyman, Assembly & Mounting",IKEA Assembly,1,Airtasker,1,1
+"Handyman, Assembly & Mounting",Inversion Table Assembly,1,Airtasker,1,1
+"Handyman, Assembly & Mounting",Kids Bike Assembly,1,Airtasker,1,1
+"Handyman, Assembly & Mounting",Medal Mounting,1,Airtasker,1,1
+"Handyman, Assembly & Mounting",Nordictrack Assembly,1,Airtasker,1,1
+"Handyman, Assembly & Mounting",PC Assembly,1,Airtasker,1,1
+"Handyman, Assembly & Mounting",Pool Table Assembly,1,Airtasker,1,1
+"Handyman, Assembly & Mounting",Shelf Assembly,1,Airtasker,1,1
+"Handyman, Assembly & Mounting",Shelf Hanging,1,Airtasker,1,1
+"Handyman, Assembly & Mounting",Sofa Assembly,1,Airtasker,1,1
+"Handyman, Assembly & Mounting",Swing Set Assembly,1,Airtasker,1,1
+"Handyman, Assembly & Mounting",Table Assembly,1,Airtasker,1,1
+"Handyman, Assembly & Mounting",Table Tennis Table Assembly,1,Airtasker,1,1
+"Handyman, Assembly & Mounting",The Range Hanging & Mounting,1,Airtasker,1,1
+"Handyman, Assembly & Mounting",Toy Assembly,1,Airtasker,1,1
+"Handyman, Assembly & Mounting",Treadmill Assembly,1,Airtasker,1,1
+"Handyman, Assembly & Mounting",Wardrobe Assembly,1,Airtasker,1,1
+"Handyman, Assembly & Mounting",gazebo assembly service,1,Checkatrade,1,1
+Health & Fitness,Personal Training,1,Fresha,1,1
+"Health, Therapy & Wellness",Acupuncture,1,Airtasker,1,1
+"Health, Therapy & Wellness",Dental Services,1,Booksy,1,1
+"Health, Therapy & Wellness",Dentistry,1,Yell,1,1
+"Health, Therapy & Wellness",Dietitian,1,Airtasker,1,1
+"Health, Therapy & Wellness",Doctors (medical Practitioners),1,Yell,1,1
+"Health, Therapy & Wellness",Health and Wellness,1,Bark,1,1
+"Health, Therapy & Wellness",Homeopathy,1,Airtasker,1,1
+"Health, Therapy & Wellness",Mental Health Services,1,Airtasker,1,1
+"Health, Therapy & Wellness",Nutritionist,1,Airtasker,1,1
+"Health, Therapy & Wellness",Pharmacy Services,1,Yell,1,1
+"Health, Therapy & Wellness",Podiatrist,1,Airtasker,1,1
+"Health, Therapy & Wellness",Psychology Services,1,Airtasker,1,1
+"Health, Therapy & Wellness",Wellness & Day Spa,1,Booksy,1,1
+Heating & Boiler Services,Central Heating Repair,1,Checkatrade,1,1
+Heating & Boiler Services,Underfloor Heating Repair,1,Checkatrade,1,1
+"Heating, Boiler & Gas Services",Boiler Fitter,1,Checkatrade,1,1
+"Heating, Boiler & Gas Services",Boiler Leaking Water Issues,1,Checkatrade,1,1
+"Heating, Boiler & Gas Services",Boiler Specialists,1,Checkatrade,1,1
+"Heating, Boiler & Gas Services",Electric Heating,1,Checkatrade,1,1
+"Heating, Boiler & Gas Services",Electric Stove Services,1,Checkatrade,1,1
+"Heating, Boiler & Gas Services",Electric Underfloor Heating,1,Rated People,1,1
+"Heating, Boiler & Gas Services",Emergency Fireplaces / Stove Service,1,Checkatrade,1,1
+"Heating, Boiler & Gas Services",Fireplaces,1,Checkatrade,1,1
+"Heating, Boiler & Gas Services",Fireplaces / Stoves,1,Checkatrade,1,1
+"Heating, Boiler & Gas Services",Flue Services,1,Checkatrade,1,1
+"Heating, Boiler & Gas Services",Gas Boiler Installer,1,Checkatrade,1,1
+"Heating, Boiler & Gas Services",Gas Cooker / Hob - Installation,1,Rated People,1,1
+"Heating, Boiler & Gas Services",Gas Cooker / Hob - Repair,1,Rated People,1,1
+"Heating, Boiler & Gas Services",Gas Cooker Disposal,1,Checkatrade,1,1
+"Heating, Boiler & Gas Services",Gas Cooker Installation,1,Checkatrade,1,1
+"Heating, Boiler & Gas Services",Gas Cooker Repair,1,Checkatrade,1,1
+"Heating, Boiler & Gas Services",Gas Engineering,1,Yell,1,1
+"Heating, Boiler & Gas Services",Gas Fire,1,Rated People,1,1
+"Heating, Boiler & Gas Services",Gas Fire Installation,1,Checkatrade,1,1
+"Heating, Boiler & Gas Services",Gas Fire Servicing / Repair,1,Checkatrade,1,1
+"Heating, Boiler & Gas Services",Gas Fitting,1,Airtasker,1,1
+"Heating, Boiler & Gas Services",Gas Hob Repair,1,Airtasker,1,1
+"Heating, Boiler & Gas Services",Gas Safety Checks - CP12,1,Checkatrade,1,1
+"Heating, Boiler & Gas Services",Gas Stove Installation & Repair,1,Airtasker,1,1
+"Heating, Boiler & Gas Services",Heating & Cooling,1,Airtasker,1,1
+"Heating, Boiler & Gas Services",Hive Heating Installation,1,Checkatrade,1,1
+"Heating, Boiler & Gas Services",Hot Water System Installation & Repair,1,Airtasker,1,1
+"Heating, Boiler & Gas Services",Immersion Heater Installation,1,Checkatrade,1,1
+"Heating, Boiler & Gas Services",Immersion Heater Repair,1,Checkatrade,1,1
+"Heating, Boiler & Gas Services",LPG Engineer,1,Airtasker,1,1
+"Heating, Boiler & Gas Services",Nest Thermostat Installation,1,Airtasker,1,1
+"Heating, Boiler & Gas Services",New Boiler Cost,1,Checkatrade,1,1
+"Heating, Boiler & Gas Services",Oil Tank Emptying Service,1,Checkatrade,1,1
+"Heating, Boiler & Gas Services",Oil Tank Installation,1,Checkatrade,1,1
+"Heating, Boiler & Gas Services",Oil Tank Repair,1,Checkatrade,1,1
+"Heating, Boiler & Gas Services",Oil Tank Servicing,1,Checkatrade,1,1
+"Heating, Boiler & Gas Services",Oil-Fired Boiler,1,Rated People,1,1
+"Heating, Boiler & Gas Services",Radiator,1,Rated People,1,1
+"Heating, Boiler & Gas Services",Radiator Installation,1,Checkatrade,1,1
+"Heating, Boiler & Gas Services",Radiator Thermostat Valve Installation,1,Checkatrade,1,1
+"Heating, Boiler & Gas Services",Radiator Thermostat Valve Repair,1,Checkatrade,1,1
+"Heating, Boiler & Gas Services",Registered Gas Boiler Engineers,1,Checkatrade,1,1
+"Heating, Boiler & Gas Services",Smokeless Fuel Services,1,Checkatrade,1,1
+"Heating, Boiler & Gas Services",Solid Fuel Services,1,Checkatrade,1,1
+"Heating, Boiler & Gas Services",Storage Heating,1,Checkatrade,1,1
+"Heating, Boiler & Gas Services",Stored Gas Services,1,Rated People,1,1
+"Heating, Boiler & Gas Services",Stored Oil Services,1,Rated People,1,1
+"Heating, Boiler & Gas Services",Stove Installation,1,Checkatrade,1,1
+"Heating, Boiler & Gas Services",Tado Installation,1,Checkatrade,1,1
+"Heating, Boiler & Gas Services",Thermostat Installation,1,Airtasker,1,1
+"Heating, Boiler & Gas Services",Underfloor Heating Maintenance,1,Checkatrade,1,1
+"Heating, Boiler & Gas Services",Underfloor Heating Repair,1,Checkatrade,1,1
+"Heating, Boiler & Gas Services",Underfloor Heating Servicing,1,Checkatrade,1,1
+"Heating, Boiler & Gas Services",Underfloor Heating Supply,1,Checkatrade,1,1
+"Heating, Boiler & Gas Services",Water Underfloor Heating,1,Rated People,1,1
+"Heating, Boiler & Gas Services",Wood / Log Burning Stoves,1,Checkatrade,1,1
+"Heating, Boiler & Gas Services",Wood Burner Flue Installation,1,Checkatrade,1,1
+"Heating, Boiler & Gas Services",bespoke radiator covers,1,Checkatrade,1,1
+"Heating, Boiler & Gas Services",google thermostat,1,Checkatrade,1,1
+"Heating, Boiler & Gas Services",hive thermostat,1,Checkatrade,1,1
+"Heating, Boiler & Gas Services",made to measure radiator covers,1,Checkatrade,1,1
+"Heating, Boiler & Gas Services",nest thermostat,1,Checkatrade,1,1
+"Heating, Boiler & Gas Services",radiator fitters,1,Checkatrade,1,1
+"Heating, Boiler & Gas Services",radiator replacement,1,Checkatrade,1,1
+"Heating, Boiler & Gas Services",radiator restoration,1,Checkatrade,1,1
+"Heating, Boiler & Gas Services",radiator service,1,Checkatrade,1,1
+"Heating, Boiler & Gas Services",radiator specialist,1,Checkatrade,1,1
+"Heating, Boiler & Gas Services",radiator supply and fit,1,Checkatrade,1,1
+"Heating, Boiler & Gas Services",underfloor heating installers,1,Checkatrade,1,1
+"Heating, Boiler & Gas Services",underfloor heating specialist,1,Checkatrade,1,1
+Hire & Access Equipment,Cherry Picker,1,Checkatrade,1,1
+Hire & Access Equipment,Emergency Hire Service,1,Checkatrade,1,1
+Hire & Access Equipment,Hire Services,1,Checkatrade,1,1
+Hire & Access Equipment,Mini Bus Hire,1,Checkatrade,1,1
+Hire & Access Equipment,Tool Hire,1,Checkatrade,1,1
+Home Improvement & General Maintenance,Bike Hanging,1,Airtasker,1,1
+Home Improvement & General Maintenance,Disassembly,1,Airtasker,1,1
+Home Improvement & General Maintenance,General Labour,1,Airtasker,1,1
+Home Improvement & General Maintenance,Home Improvements,1,Rated People,1,1
+Home Improvement & General Maintenance,Home Maintenance / Repair,1,Rated People,1,1
+Home Improvement & General Maintenance,Home Services,1,Booksy,1,1
+Home Improvement & General Maintenance,Refinishing,1,Airtasker,1,1
+Home Improvement & General Maintenance,Staining,1,Airtasker,1,1
+Home Improvement & General Maintenance,silicone sealing,1,Checkatrade,1,1
+IT Support & Device Services,Computer Hardware,1,Airtasker,1,1
+IT Support & Device Services,Computer Maintenance,1,Checkatrade,1,1
+IT Support & Device Services,Computer Sales,1,Checkatrade,1,1
+IT Support & Device Services,Computer Support,1,Airtasker,1,1
+IT Support & Device Services,Computer Training,1,Airtasker,1,1
+IT Support & Device Services,Computer Training / Consultancy,1,Checkatrade,1,1
+IT Support & Device Services,Computer Upgrades,1,Airtasker,1,1
+IT Support & Device Services,Computers & IT,1,Airtasker,1,1
+IT Support & Device Services,Data Recovery,1,Airtasker,1,1
+IT Support & Device Services,Data Recovery / Back up,1,Checkatrade,1,1
+IT Support & Device Services,EPOS Services,1,Checkatrade,1,1
+IT Support & Device Services,Email Setup,1,Airtasker,1,1
+IT Support & Device Services,File Conversion,1,Airtasker,1,1
+IT Support & Device Services,Hardware Consultants / Technicians,1,Checkatrade,1,1
+IT Support & Device Services,Internet Help,1,Airtasker,1,1
+IT Support & Device Services,Internet Services,1,Checkatrade,1,1
+IT Support & Device Services,Laptop Repair,1,Airtasker,1,1
+IT Support & Device Services,Laptop Repairs,1,Checkatrade,1,1
+IT Support & Device Services,Microsoft Excel Help,1,Airtasker,1,1
+IT Support & Device Services,Microsoft Help,1,Airtasker,1,1
+IT Support & Device Services,Microsoft PowerPoint Help,1,Airtasker,1,1
+IT Support & Device Services,Microsoft Word Help,1,Airtasker,1,1
+IT Support & Device Services,Netflix Setup,1,Airtasker,1,1
+IT Support & Device Services,Network Installation,1,Checkatrade,1,1
+IT Support & Device Services,Printer Help,1,Airtasker,1,1
+IT Support & Device Services,Printer Repair,1,Checkatrade,1,1
+IT Support & Device Services,Scanner Setup,1,Airtasker,1,1
+IT Support & Device Services,Software Help,1,Airtasker,1,1
+IT Support & Device Services,Tablet Repair,1,Airtasker,1,1
+IT Support & Device Services,Technical Troubleshooting,1,Airtasker,1,1
+IT Support & Device Services,Wix Help,1,Airtasker,1,1
+IT Support & Device Services,WooCommerce Help,1,Airtasker,1,1
+IT Support & Device Services,iCloud Setup,1,Airtasker,1,1
+Interior Design & Fit-Out,Bedroom Design,1,Checkatrade,1,1
+Interior Design & Fit-Out,Coffee Shop Designers,1,Airtasker,1,1
+Interior Design & Fit-Out,Commercial Interior Design,1,Checkatrade,1,1
+Interior Design & Fit-Out,Fitted Bedrooms,1,Rated People,1,1
+Interior Design & Fit-Out,Home Bar Design,1,Airtasker,1,1
+Interior Design & Fit-Out,Home Office Design,1,Checkatrade,1,1
+Interior Design & Fit-Out,Office Fit-Out,1,Airtasker,1,1
+Interior Design & Fit-Out,Office Interior Design,1,Airtasker,1,1
+Interior Design & Fit-Out,Online Interior Design,1,Checkatrade,1,1
+Interior Design & Fit-Out,Restaurant Designers,1,Airtasker,1,1
+Interior Design & Fit-Out,Shop Fitting,1,Checkatrade,1,1
+Interior Design & Fit-Out,Space Planning,1,Airtasker,1,1
+Kitchen Services,Emergency Kitchen Service,1,Checkatrade,1,1
+Kitchen Services,General Worktop Services,1,Checkatrade,1,1
+Kitchen Services,Kitchen Appliance Supplier,1,Checkatrade,1,1
+Kitchen Services,Kitchen Assistant,1,Airtasker,1,1
+Kitchen Services,Kitchen Cupboard Repair,1,Airtasker,1,1
+Kitchen Services,Kitchen Design / Installation,1,Rated People,1,1
+Kitchen Services,Kitchen Drawer Repair,1,Airtasker,1,1
+Kitchen Services,Kitchen Fitters - Installation,1,Checkatrade,1,1
+Kitchen Services,Kitchen Fitters - Supply & Installation,1,Checkatrade,1,1
+Kitchen Services,Kitchen Installation,1,Airtasker,1,1
+Kitchen Services,Kitchen Refurbishments,1,Checkatrade,1,1
+Kitchen Services,Kitchen Showroom,1,Checkatrade,1,1
+Kitchen Services,Kitchen Sink Installation,1,Airtasker,1,1
+Kitchen Services,Kitchen Specialist,1,Rated People,1,1
+Kitchen Services,Kitchen Specialists,1,Rated People,1,1
+Kitchen Services,Kitchen Supplier,1,Checkatrade,1,1
+Kitchen Services,Kitchen Waste Disposal,1,Airtasker,1,1
+Kitchen Services,Kitchen Worktops - Stone,1,Rated People,1,1
+Kitchen Services,Laminate / Wooden Kitchen Worktops,1,Rated People,1,1
+Kitchen Services,Metal Kitchen Worktops,1,Rated People,1,1
+Kitchen Services,Replace kitchen cabinets,1,Checkatrade,1,1
+Kitchen Services,Worktop Installation,1,Airtasker,1,1
+Kitchen Services,Worktop Repair,1,Checkatrade,1,1
+Kitchen Services,bespoke kitchen designers,1,Checkatrade,1,1
+Kitchen Services,bespoke kitchen fitters,1,Checkatrade,1,1
+Kitchen Services,kitchen cupboard repair,1,Checkatrade,1,1
+Kitchen Services,kitchen cupboard repairs,1,Checkatrade,1,1
+Kitchen Services,kitchen sink installation,1,Checkatrade,1,1
+Kitchen Services,kitchen sink repair,1,Checkatrade,1,1
+Kitchen Services,kitchen sprayers,1,Checkatrade,1,1
+Kitchen Services,made to measure kitchen units,1,Checkatrade,1,1
+Landscaping Structures & Outdoor Buildings,Carport Manufacturers,1,Checkatrade,1,1
+Landscaping Structures & Outdoor Buildings,Carport Suppliers,1,Checkatrade,1,1
+Landscaping Structures & Outdoor Buildings,Greenhouse Installation,1,Checkatrade,1,1
+Landscaping Structures & Outdoor Buildings,Greenhouse Supplier,1,Checkatrade,1,1
+Landscaping Structures & Outdoor Buildings,Outbuilding,1,Checkatrade,1,1
+Landscaping Structures & Outdoor Buildings,Play Areas,1,Checkatrade,1,1
+Landscaping Structures & Outdoor Buildings,Summer House Design / Construction,1,Checkatrade,1,1
+Landscaping Structures & Outdoor Buildings,Summerhouse Installers,1,Checkatrade,1,1
+Landscaping Structures & Outdoor Buildings,Summerhouse Repairs,1,Checkatrade,1,1
+Landscaping Structures & Outdoor Buildings,Summerhouse Suppliers,1,Checkatrade,1,1
+Landscaping Structures & Outdoor Buildings,log cabin fitters,1,Checkatrade,1,1
+Landscaping Structures & Outdoor Buildings,log cabin installers,1,Checkatrade,1,1
+Landscaping Structures & Outdoor Buildings,log cabin repair,1,Checkatrade,1,1
+Landscaping Structures & Outdoor Buildings,log cabin suppliers,1,Checkatrade,1,1
+Landscaping Structures & Outdoor Buildings,summer house,1,Checkatrade,1,1
+"Laundry, Housekeeping & Organisation",Home Organisation,1,Airtasker,1,1
+"Laundry, Housekeeping & Organisation",Janitorial Services,1,Airtasker,1,1
+Legal Services,Employment Law,1,Bark,1,1
+Legal Services,General Legal Services,1,Airtasker,1,1
+Legal Services,Solicitor Services,1,Yell,1,1
+Locksmith Services,Lock Repair,1,Checkatrade,1,1
+Locksmith Services,Lock Replacement,1,Airtasker,1,1
+"Locksmith, Keys & Safes",Car Key Repair,1,Airtasker,1,1
+"Locksmith, Keys & Safes",Lock Fitting,1,Checkatrade,1,1
+"Locksmith, Keys & Safes",Lock Fitting / Repair,1,Rated People,1,1
+"Locksmith, Keys & Safes",Lock Installation,1,Airtasker,1,1
+"Locksmith, Keys & Safes",Snap Locks,1,Checkatrade,1,1
+"Locksmith, Keys & Safes",Van Lock Fitting,1,Airtasker,1,1
+"Locksmith, Keys & Safes",Window Lock Fitting,1,Checkatrade,1,1
+"Loft, Attic & Storage Services",Attic Door,1,Checkatrade,1,1
+"Loft, Attic & Storage Services",Loft Ladder Supply,1,Checkatrade,1,1
+"Loft, Attic & Storage Services",Loft Storage,1,Checkatrade,1,1
+"Loft, Attic & Storage Services",Loft Storage Room,1,Checkatrade,1,1
+Marine & Boat Services,Boat Transport,1,Airtasker,1,1
+Marine & Boat Services,boat repairs,1,Checkatrade,1,1
+Marine & Boat Services,boatbuilders,1,Checkatrade,1,1
+Marketing & Creative Services,Adobe Photoshop Designer,1,Airtasker,1,1
+Marketing & Creative Services,Advertising,1,Airtasker,1,1
+Marketing & Creative Services,Advertising and Media Buying,1,Bark,1,1
+Marketing & Creative Services,AutoCAD Designer,1,Airtasker,1,1
+Marketing & Creative Services,Branding Designer,1,Airtasker,1,1
+Marketing & Creative Services,CAD Designer,1,Airtasker,1,1
+Marketing & Creative Services,Content Creation,1,Airtasker,1,1
+Marketing & Creative Services,Digital Design,1,Airtasker,1,1
+Marketing & Creative Services,Flyer Design,1,Airtasker,1,1
+Marketing & Creative Services,Illustrators,1,Airtasker,1,1
+Marketing & Creative Services,Logo Design,1,Airtasker,1,1
+Marketing & Creative Services,Poster Design,1,Airtasker,1,1
+Marketing & Creative Services,Print Design,1,Airtasker,1,1
+Marketing & Creative Services,Product Testing,1,Airtasker,1,1
+Marketing & Creative Services,Production Services,1,Bark,1,1
+Marketing & Creative Services,Video Editing,1,Airtasker,1,1
+Metalwork & Fabrication,Bespoke Metal Fabrication,1,Checkatrade,1,1
+Metalwork & Fabrication,Blacksmith / Metal worker,1,Rated People,1,1
+Metalwork & Fabrication,Blacksmith / Metal workers,1,Rated People,1,1
+Metalwork & Fabrication,Blacksmithing,1,Airtasker,1,1
+Metalwork & Fabrication,Car Welding,1,Airtasker,1,1
+Metalwork & Fabrication,Decorative Metalwork,1,Rated People,1,1
+Metalwork & Fabrication,Emergency Metalwork / Blacksmith Service,1,Checkatrade,1,1
+Metalwork & Fabrication,Metal Fabrication,1,Checkatrade,1,1
+Metalwork & Fabrication,Metalwork / Blacksmith,1,Checkatrade,1,1
+Metalwork & Fabrication,Railings,1,Checkatrade,1,1
+Metalwork & Fabrication,Stainless Steel Laser Cutting,1,Checkatrade,1,1
+Metalwork & Fabrication,Steel Bending,1,Checkatrade,1,1
+Metalwork & Fabrication,Steel Fabrication,1,Checkatrade,1,1
+Metalwork & Fabrication,Steel Fabrication / Structural steelwork,1,Rated People,1,1
+Metalwork & Fabrication,Steelwork Design,1,Checkatrade,1,1
+Metalwork & Fabrication,Welding,1,Checkatrade,1,1
+Metalwork & Fabrication,Welding Fabrication,1,Checkatrade,1,1
+Nail Services,Manicure,1,Airtasker,1,1
+Nail Services,Pedicure,1,Airtasker,1,1
+Other Services / Unclassified,Anti Vandal Coatings,1,Checkatrade,1,1
+Other Services / Unclassified,Appliances,1,Airtasker,1,1
+Other Services / Unclassified,Aviaries,1,Checkatrade,1,1
+Other Services / Unclassified,Awnings / Canopies,1,Checkatrade,1,1
+Other Services / Unclassified,Balustrades,1,Checkatrade,1,1
+Other Services / Unclassified,Balustrading,1,Airtasker,1,1
+Other Services / Unclassified,Bed Repairs,1,Airtasker,1,1
+Other Services / Unclassified,Bedroom Showroom,1,Checkatrade,1,1
+Other Services / Unclassified,Bedroom Supplier / Installer,1,Checkatrade,1,1
+Other Services / Unclassified,Bedrooms,1,Checkatrade,1,1
+Other Services / Unclassified,Bespoke Kitchens - Supply & Installation,1,Checkatrade,1,1
+Other Services / Unclassified,Cake Toppers,1,Airtasker,1,1
+Other Services / Unclassified,Caravan Valeting,1,Checkatrade,1,1
+Other Services / Unclassified,Carbon Monoxide Alarms - Installation,1,Rated People,1,1
+Other Services / Unclassified,Carburetor Tuning,1,Airtasker,1,1
+Other Services / Unclassified,Central Locking Installation,1,Airtasker,1,1
+Other Services / Unclassified,Chainsawing,1,Airtasker,1,1
+Other Services / Unclassified,Chicken Runs,1,Airtasker,1,1
+Other Services / Unclassified,Chinese Takeaways,1,Yell,1,1
+Other Services / Unclassified,Chiropodists and podiatrists,1,Yell,1,1
+Other Services / Unclassified,Clothesline Installation,1,Airtasker,1,1
+Other Services / Unclassified,Clutches,1,Checkatrade,1,1
+Other Services / Unclassified,Couple Photoshoots,1,Airtasker,1,1
+Other Services / Unclassified,Cupboards,1,Checkatrade,1,1
+Other Services / Unclassified,Custom Birthday Cakes,1,Airtasker,1,1
+Other Services / Unclassified,Dash Cam Installation,1,Airtasker,1,1
+Other Services / Unclassified,Decorative Cornicing / Plasterwork,1,Rated People,1,1
+Other Services / Unclassified,Design,1,Airtasker,1,1
+Other Services / Unclassified,Diagnostic Testing,1,Checkatrade,1,1
+Other Services / Unclassified,Downlights Installation,1,Airtasker,1,1
+Other Services / Unclassified,Drainage Investigation,1,Checkatrade,1,1
+Other Services / Unclassified,Drainage Specialist,1,Rated People,1,1
+Other Services / Unclassified,Drainage Specialists,1,Rated People,1,1
+Other Services / Unclassified,Driveways / Patios / Paths,1,Checkatrade,1,1
+Other Services / Unclassified,Driving,1,Airtasker,1,1
+Other Services / Unclassified,Dust / Fume Extraction,1,Checkatrade,1,1
+Other Services / Unclassified,Dusting,1,Airtasker,1,1
+Other Services / Unclassified,EV Services,1,Airtasker,1,1
+Other Services / Unclassified,Emergency Driveways / Patios / Paths Service,1,Checkatrade,1,1
+Other Services / Unclassified,Emergency Miscellaneous Service,1,Checkatrade,1,1
+Other Services / Unclassified,Emergency Pest / Vermin Control Service,1,Checkatrade,1,1
+Other Services / Unclassified,Emergency Telecommunication Service,1,Checkatrade,1,1
+Other Services / Unclassified,Energy Performance Certificate,1,Checkatrade,1,1
+Other Services / Unclassified,Energy Performance Certificate - EPC,1,Checkatrade,1,1
+Other Services / Unclassified,Energy Tariff Broker,1,Checkatrade,1,1
+Other Services / Unclassified,Events,1,Airtasker,1,1
+Other Services / Unclassified,Extensions / Conversions,1,Checkatrade,1,1
+Other Services / Unclassified,Extractor Fans,1,Checkatrade,1,1
+Other Services / Unclassified,Family Photoshoots,1,Airtasker,1,1
+Other Services / Unclassified,Farmers,1,Yell,1,1
+Other Services / Unclassified,Female Personal Training,1,Airtasker,1,1
+Other Services / Unclassified,Fitted Kitchens,1,Rated People,1,1
+Other Services / Unclassified,Flat Ceilings,1,Checkatrade,1,1
+Other Services / Unclassified,Flat Packs,1,Checkatrade,1,1
+Other Services / Unclassified,Floorboards,1,Airtasker,1,1
+Other Services / Unclassified,Florists,1,Yell,1,1
+Other Services / Unclassified,French Polisher,1,Checkatrade,1,1
+Other Services / Unclassified,French Polishing,1,Airtasker,1,1
+Other Services / Unclassified,Fumigation,1,Checkatrade,1,1
+Other Services / Unclassified,Gas Burner Repair,1,Airtasker,1,1
+Other Services / Unclassified,Gates,1,Checkatrade,1,1
+Other Services / Unclassified,General Contractors,1,Airtasker,1,1
+Other Services / Unclassified,Gift Wrapping,1,Airtasker,1,1
+Other Services / Unclassified,Golf / Bowls Greens,1,Checkatrade,1,1
+Other Services / Unclassified,Gravel / Shingle Driveways,1,Checkatrade,1,1
+Other Services / Unclassified,Green Oak Framing,1,Checkatrade,1,1
+Other Services / Unclassified,Handmade Kitchens Designed / Installed,1,Checkatrade,1,1
+Other Services / Unclassified,Handrails,1,Checkatrade,1,1
+Other Services / Unclassified,Heart layers,1,Treatwell,1,1
+Other Services / Unclassified,Home & Lifestyle,1,Airtasker,1,1
+Other Services / Unclassified,Home Networks,1,Checkatrade,1,1
+Other Services / Unclassified,Home Stagers,1,Airtasker,1,1
+Other Services / Unclassified,Hot Tubs / Spas,1,Checkatrade,1,1
+Other Services / Unclassified,House Sitters,1,Airtasker,1,1
+Other Services / Unclassified,Housekeepers,1,Airtasker,1,1
+Other Services / Unclassified,Indian Restaurants,1,Yell,1,1
+Other Services / Unclassified,Insect Screens,1,Checkatrade,1,1
+Other Services / Unclassified,Intruder Alarms,1,Checkatrade,1,1
+Other Services / Unclassified,Jet / Power Washing,1,Rated People,1,1
+Other Services / Unclassified,Kitchens,1,Checkatrade,1,1
+Other Services / Unclassified,LED Lights Installation,1,Airtasker,1,1
+Other Services / Unclassified,Lamp Repairs,1,Airtasker,1,1
+Other Services / Unclassified,Leadworks Installation,1,Checkatrade,1,1
+Other Services / Unclassified,Leadworks Repair,1,Checkatrade,1,1
+Other Services / Unclassified,Leaftlet Distribution,1,Airtasker,1,1
+Other Services / Unclassified,Levelling,1,Airtasker,1,1
+Other Services / Unclassified,Loft Extensions,1,Checkatrade,1,1
+Other Services / Unclassified,Loft Hatches,1,Checkatrade,1,1
+Other Services / Unclassified,Lofts / Loft Ladders,1,Checkatrade,1,1
+Other Services / Unclassified,Log Cabins,1,Checkatrade,1,1
+Other Services / Unclassified,Log Cabins / Timber Framed Building,1,Rated People,1,1
+Other Services / Unclassified,Logs,1,Checkatrade,1,1
+Other Services / Unclassified,MDF Cutting,1,Airtasker,1,1
+Other Services / Unclassified,MDF Installation,1,Airtasker,1,1
+Other Services / Unclassified,Made to Measure Shutters,1,Checkatrade,1,1
+Other Services / Unclassified,Man/Woman with a Van,1,Rated People,1,1
+Other Services / Unclassified,Mastic Sealant,1,Checkatrade,1,1
+Other Services / Unclassified,Member T&C’s apply,1,Checkatrade,1,1
+Other Services / Unclassified,Memorial Gravestones Supplied,1,Checkatrade,1,1
+Other Services / Unclassified,Men's,1,Treatwell,1,1
+Other Services / Unclassified,Men's Tailoring,1,Airtasker,1,1
+Other Services / Unclassified,Mirrors,1,Checkatrade,1,1
+Other Services / Unclassified,Mobile Phone Repairs,1,Checkatrade,1,1
+Other Services / Unclassified,Mobile mechanics,1,Yell,1,1
+Other Services / Unclassified,Models,1,Airtasker,1,1
+Other Services / Unclassified,Mother's Help,1,Airtasker,1,1
+Other Services / Unclassified,Motor Homes,1,Checkatrade,1,1
+Other Services / Unclassified,Move,1,Airtasker,1,1
+Other Services / Unclassified,PC Repairs,1,Checkatrade,1,1
+Other Services / Unclassified,PVC Gutters,1,Airtasker,1,1
+Other Services / Unclassified,Partition Wall,1,Rated People,1,1
+Other Services / Unclassified,Partition Walls,1,Checkatrade,1,1
+Other Services / Unclassified,Pebble Dashing,1,Rated People,1,1
+Other Services / Unclassified,Pebble Dashing / Rough Casting,1,Checkatrade,1,1
+Other Services / Unclassified,Personal Stylist,1,Airtasker,1,1
+Other Services / Unclassified,Pest / Vermin Control,1,Checkatrade,1,1
+Other Services / Unclassified,Photo Manipulations,1,Airtasker,1,1
+Other Services / Unclassified,Photo Restorations,1,Airtasker,1,1
+Other Services / Unclassified,Piling,1,Checkatrade,1,1
+Other Services / Unclassified,Planning / Design,1,Checkatrade,1,1
+Other Services / Unclassified,Planning Consultants,1,Checkatrade,1,1
+Other Services / Unclassified,Plantation Shutters,1,Checkatrade,1,1
+Other Services / Unclassified,Plasterer / Renderer,1,Rated People,1,1
+Other Services / Unclassified,Plasterer / Renderers,1,Rated People,1,1
+Other Services / Unclassified,Plastic Canopies,1,Checkatrade,1,1
+Other Services / Unclassified,Ply Boarding,1,Checkatrade,1,1
+Other Services / Unclassified,Porches Repair,1,Checkatrade,1,1
+Other Services / Unclassified,Presentations Design,1,Airtasker,1,1
+Other Services / Unclassified,Proofreading,1,Airtasker,1,1
+Other Services / Unclassified,Pubs,1,Yell,1,1
+Other Services / Unclassified,Rise & Recline Chairs,1,Checkatrade,1,1
+Other Services / Unclassified,Salvage,1,Checkatrade,1,1
+Other Services / Unclassified,Sauna Installation,1,Airtasker,1,1
+Other Services / Unclassified,Scaffold Alarms,1,Checkatrade,1,1
+Other Services / Unclassified,Scarification,1,Checkatrade,1,1
+Other Services / Unclassified,Scrap Cars,1,Checkatrade,1,1
+Other Services / Unclassified,Scrap Metal,1,Checkatrade,1,1
+Other Services / Unclassified,Sensory Gardens,1,Checkatrade,1,1
+Other Services / Unclassified,Sewing,1,Airtasker,1,1
+Other Services / Unclassified,Single Ply Membrane Roofs Installation,1,Checkatrade,1,1
+Other Services / Unclassified,Single Ply Membrane Roofs Repair,1,Checkatrade,1,1
+Other Services / Unclassified,Smart Repairs,1,Checkatrade,1,1
+Other Services / Unclassified,Smart Thermostats,1,Checkatrade,1,1
+Other Services / Unclassified,Soakaways,1,Checkatrade,1,1
+Other Services / Unclassified,Staffing,1,Airtasker,1,1
+Other Services / Unclassified,Steel Fabricators,1,Checkatrade,1,1
+Other Services / Unclassified,Stone Repairs,1,Checkatrade,1,1
+Other Services / Unclassified,Stretched Ceilings,1,Checkatrade,1,1
+Other Services / Unclassified,Suspended Ceilings,1,Checkatrade,1,1
+Other Services / Unclassified,Telephone Faults,1,Checkatrade,1,1
+Other Services / Unclassified,Telephone Points,1,Checkatrade,1,1
+Other Services / Unclassified,The Range Storage,1,Airtasker,1,1
+Other Services / Unclassified,Thermal Dynamics,1,Checkatrade,1,1
+Other Services / Unclassified,Timber Merchants,1,Checkatrade,1,1
+Other Services / Unclassified,Traditional Craftspersons,1,Rated People,1,1
+Other Services / Unclassified,Turfing,1,Checkatrade,1,1
+Other Services / Unclassified,UPVC Repairs,1,Checkatrade,1,1
+Other Services / Unclassified,Unvented Hot Water Cylinder Installation,1,Checkatrade,1,1
+Other Services / Unclassified,Unvented Hot Water Cylinder Servicing / Repair,1,Checkatrade,1,1
+Other Services / Unclassified,Verandah Installation,1,Airtasker,1,1
+Other Services / Unclassified,Villaboard Installation,1,Airtasker,1,1
+Other Services / Unclassified,Wall Coatings,1,Checkatrade,1,1
+Other Services / Unclassified,Water Heater Repairs and Installation,1,Airtasker,1,1
+Other Services / Unclassified,Weather Coatings,1,Checkatrade,1,1
+Other Services / Unclassified,Women's Tailoring,1,Airtasker,1,1
+Other Services / Unclassified,Wood Merchants,1,Checkatrade,1,1
+Other Services / Unclassified,Wooden / Metal / Wire Fences,1,Rated People,1,1
+Other Services / Unclassified,Worktops - Acrylic,1,Checkatrade,1,1
+Other Services / Unclassified,Worktops - Granite,1,Checkatrade,1,1
+Other Services / Unclassified,Worktops - Marble,1,Checkatrade,1,1
+Other Services / Unclassified,Worktops - Quartz,1,Checkatrade,1,1
+Other Services / Unclassified,Worktops - Solid Wood,1,Checkatrade,1,1
+Other Services / Unclassified,Worktops - Stainless Steel,1,Checkatrade,1,1
+Other Services / Unclassified,bathrub screen,1,Checkatrade,1,1
+Other Services / Unclassified,custom made internal doors,1,Checkatrade,1,1
+Other Services / Unclassified,custom made wooden external doors,1,Checkatrade,1,1
+Other Services / Unclassified,emergency plasterer,1,Checkatrade,1,1
+Other Services / Unclassified,external plasterers,1,Checkatrade,1,1
+Other Services / Unclassified,felt lap vents,1,Checkatrade,1,1
+Other Services / Unclassified,gas meter,1,Checkatrade,1,1
+Other Services / Unclassified,gas pipe fitters,1,Checkatrade,1,1
+Other Services / Unclassified,handmade kitchens,1,Checkatrade,1,1
+Other Services / Unclassified,iPhone Screen Replacement,1,Airtasker,1,1
+Other Services / Unclassified,lime mortar specialists,1,Checkatrade,1,1
+Other Services / Unclassified,lime plasterer,1,Checkatrade,1,1
+Other Services / Unclassified,lintel installation,1,Checkatrade,1,1
+Other Services / Unclassified,lintel repair,1,Checkatrade,1,1
+Other Services / Unclassified,lintel replacement,1,Checkatrade,1,1
+Other Services / Unclassified,media wall fitters,1,Checkatrade,1,1
+Other Services / Unclassified,media wall installation,1,Checkatrade,1,1
+Other Services / Unclassified,media wall specialist,1,Checkatrade,1,1
+Other Services / Unclassified,o2 Sensor Replacement,1,Airtasker,1,1
+Other Services / Unclassified,pebble dashing,1,Checkatrade,1,1
+Other Services / Unclassified,power flush companies,1,Checkatrade,1,1
+Other Services / Unclassified,radiators suppliers,1,Checkatrade,1,1
+Other Services / Unclassified,rolled steel joist installation,1,Checkatrade,1,1
+Other Services / Unclassified,sheetrock contractors,1,Checkatrade,1,1
+Other Services / Unclassified,sheetrock installers,1,Checkatrade,1,1
+Other Services / Unclassified,skylights for flat roofs,1,Checkatrade,1,1
+Other Services / Unclassified,stairs made to measure,1,Checkatrade,1,1
+Other Services / Unclassified,trv,1,Checkatrade,1,1
+Other Services / Unclassified,wood stripper,1,Checkatrade,1,1
+"Painting, Decorating & Wall Finishes",Artexing,1,Checkatrade,1,1
+"Painting, Decorating & Wall Finishes",Cornice Repair,1,Airtasker,1,1
+"Painting, Decorating & Wall Finishes",Drywall Installation,1,Checkatrade,1,1
+"Painting, Decorating & Wall Finishes",Drywall Replacement,1,Checkatrade,1,1
+"Painting, Decorating & Wall Finishes",Drywall Taping,1,Checkatrade,1,1
+"Painting, Decorating & Wall Finishes",K Rend,1,Checkatrade,1,1
+"Painting, Decorating & Wall Finishes",K Rend Installation,1,Checkatrade,1,1
+"Painting, Decorating & Wall Finishes",K Rend Services,1,Checkatrade,1,1
+"Painting, Decorating & Wall Finishes",Lime Rendering,1,Checkatrade,1,1
+"Painting, Decorating & Wall Finishes",Metal Stud Partitioning,1,Checkatrade,1,1
+"Painting, Decorating & Wall Finishes",Monocouche Rendering,1,Checkatrade,1,1
+"Painting, Decorating & Wall Finishes",Pebble Dash Repair,1,Checkatrade,1,1
+"Painting, Decorating & Wall Finishes",Plaster Coving,1,Airtasker,1,1
+"Painting, Decorating & Wall Finishes",Plaster Mouldings,1,Checkatrade,1,1
+"Painting, Decorating & Wall Finishes",Plaster Skimming,1,Rated People,1,1
+"Painting, Decorating & Wall Finishes",Plasterboard Disposal,1,Airtasker,1,1
+"Painting, Decorating & Wall Finishes",Plasterboard Installation,1,Airtasker,1,1
+"Painting, Decorating & Wall Finishes",Polished / Other Plaster Finish,1,Rated People,1,1
+"Painting, Decorating & Wall Finishes",Polished Plaster,1,Airtasker,1,1
+"Painting, Decorating & Wall Finishes",Skim Coating,1,Checkatrade,1,1
+"Painting, Decorating & Wall Finishes",Skimming,1,Checkatrade,1,1
+"Painting, Decorating & Wall Finishes",Stud Partition,1,Checkatrade,1,1
+"Painting, Decorating & Wall Finishes",Stud Wall,1,Checkatrade,1,1
+"Painting, Decorating & Wall Finishes",Tape & Jointing,1,Checkatrade,1,1
+"Painting, Decorating & Wall Finishes",heritage plaster services,1,Checkatrade,1,1
+"Painting, Decorating & Wall Finishes",k rend suppliers,1,Checkatrade,1,1
+"Painting, Decorating & Wall Finishes",lime plaster suppliers,1,Checkatrade,1,1
+"Painting, Decorating & Wall Finishes",pebble dash companies,1,Checkatrade,1,1
+"Painting, Decorating & Wall Finishes",pebble dash render,1,Checkatrade,1,1
+"Painting, Decorating & Wall Finishes",pebble dash suppliers,1,Checkatrade,1,1
+"Painting, Decorating & Wall Finishes",plaster coving,1,Checkatrade,1,1
+"Painting, Decorating & Wall Finishes",plasterboard installers,1,Checkatrade,1,1
+"Painting, Decorating & Wall Finishes",render specialist,1,Checkatrade,1,1
+"Painting, Decorating & Wall Finishes",render supplier,1,Checkatrade,1,1
+"Painting, Decorating & Wall Finishes",spray render companies,1,Checkatrade,1,1
+Pest & Bird Control,Bird Control,1,Airtasker,1,1
+Pest & Bird Control,Bird Restriction Measures,1,Checkatrade,1,1
+Pest Control Services,Bed Bug Treatment,1,Airtasker,1,1
+Pest Control Services,Rodent Control,1,Airtasker,1,1
+Pet & Animal Services,Aquarium Maintenance,1,Airtasker,1,1
+Pet & Animal Services,Aquarium Services,1,Checkatrade,1,1
+Pet & Animal Services,Bird Sitting,1,Airtasker,1,1
+Pet & Animal Services,Cat Boarding,1,Airtasker,1,1
+Pet & Animal Services,Cat Care,1,Airtasker,1,1
+Pet & Animal Services,Cat Flap - Installation,1,Rated People,1,1
+Pet & Animal Services,Cat Flap Fitter,1,Airtasker,1,1
+Pet & Animal Services,Cat Flaps,1,Checkatrade,1,1
+Pet & Animal Services,Cat Grooming,1,Airtasker,1,1
+Pet & Animal Services,Cat Training,1,Airtasker,1,1
+Pet & Animal Services,Dog Care,1,Airtasker,1,1
+Pet & Animal Services,Dog Day Care,1,Airtasker,1,1
+Pet & Animal Services,Dog Flaps,1,Checkatrade,1,1
+Pet & Animal Services,Dog Wash,1,Airtasker,1,1
+Pet & Animal Services,Fish Tank Repair,1,Airtasker,1,1
+Pet & Animal Services,Mobile Dog Wash,1,Airtasker,1,1
+Pet & Animal Services,Mobile Pet Services,1,Airtasker,1,1
+Pet & Animal Services,Pet Care,1,Airtasker,1,1
+Pet & Animal Services,Pet Feeding,1,Airtasker,1,1
+Pet & Animal Services,Pet Services,1,Booksy,1,1
+Pet & Animal Services,Pet Taxi,1,Airtasker,1,1
+Pet & Animal Services,Pet Transport,1,Airtasker,1,1
+Pet & Animal Services,Puppy Training,1,Airtasker,1,1
+Pet & Animal Services,Rabbit Boarding,1,Airtasker,1,1
+Pet & Animal Services,Reptile Boarding,1,Airtasker,1,1
+Pet & Animal Services,Small Animal Boarding,1,Airtasker,1,1
+Pet & Animal Services,Veterinary Services,1,Yell,1,1
+Pet & Animal Services,Wildlife Management,1,Checkatrade,1,1
+Plastering & Rendering,Render Repair,1,Airtasker,1,1
+Plumbing & Drainage Services,Bath / Sink / Shower Trays,1,Checkatrade,1,1
+Plumbing & Drainage Services,Blocked Bath,1,Checkatrade,1,1
+Plumbing & Drainage Services,Blocked Sink,1,Checkatrade,1,1
+Plumbing & Drainage Services,Blocked Toilet,1,Checkatrade,1,1
+Plumbing & Drainage Services,Drain Installation,1,Checkatrade,1,1
+Plumbing & Drainage Services,Drain Relining,1,Checkatrade,1,1
+Plumbing & Drainage Services,Dripping Tap Repair,1,Checkatrade,1,1
+Plumbing & Drainage Services,Electric Shower Installation,1,Airtasker,1,1
+Plumbing & Drainage Services,Glass Shower Screens,1,Checkatrade,1,1
+Plumbing & Drainage Services,Lead Pipe Services,1,Checkatrade,1,1
+Plumbing & Drainage Services,Pipe Fitting,1,Checkatrade,1,1
+Plumbing & Drainage Services,Power Flushing,1,Checkatrade,1,1
+Plumbing & Drainage Services,Power Shower & Pump Services,1,Rated People,1,1
+Plumbing & Drainage Services,Shower Head Installation,1,Airtasker,1,1
+Plumbing & Drainage Services,Shower Installation,1,Checkatrade,1,1
+Plumbing & Drainage Services,Shower Screen Installation,1,Airtasker,1,1
+Plumbing & Drainage Services,Sink Drainage,1,Checkatrade,1,1
+Plumbing & Drainage Services,Sink Installation,1,Airtasker,1,1
+Plumbing & Drainage Services,Sink Repair,1,Checkatrade,1,1
+Plumbing & Drainage Services,Soil Stack Replacement,1,Checkatrade,1,1
+Plumbing & Drainage Services,Toilet / Portable Toilet,1,Checkatrade,1,1
+Plumbing & Drainage Services,Toilet Seat Fitting,1,Airtasker,1,1
+Plumbing & Drainage Services,Toilet seat installation,1,Checkatrade,1,1
+Plumbing & Drainage Services,Water Leak Repair,1,Checkatrade,1,1
+Plumbing & Drainage Services,Water Pipe Replacement,1,Checkatrade,1,1
+Plumbing & Drainage Services,Water Pressure Services,1,Checkatrade,1,1
+Plumbing & Drainage Services,bathrub drain,1,Checkatrade,1,1
+Plumbing & Drainage Services,blocked loo,1,Checkatrade,1,1
+Plumbing & Drainage Services,drain pipe replacement,1,Checkatrade,1,1
+Plumbing & Drainage Services,gas pipework,1,Checkatrade,1,1
+Plumbing & Drainage Services,pipework,1,Checkatrade,1,1
+Plumbing & Drainage Services,pipework connect,1,Checkatrade,1,1
+Plumbing & Drainage Services,replace toilet,1,Checkatrade,1,1
+Plumbing & Drainage Services,shower replacement,1,Checkatrade,1,1
+Plumbing & Drainage Services,tap drip,1,Checkatrade,1,1
+Plumbing & Drainage Services,toilet fitting,1,Checkatrade,1,1
+Plumbing & Drainage Services,toilet flush repair,1,Checkatrade,1,1
+Plumbing & Drainage Services,underground pipework,1,Checkatrade,1,1
+Plumbing & Drainage Services,water main replacement,1,Checkatrade,1,1
+Plumbing Services,Pipe Installation,1,Checkatrade,1,1
+Plumbing Services,Tap Repair,1,Checkatrade,1,1
+Pool & Hot Tub Services,Hot Tub Repair,1,Airtasker,1,1
+Pool & Hot Tub Services,Swimming Pool Cleaning,1,Airtasker,1,1
+Pool & Hot Tub Services,Swimming Pool Installation,1,Rated People,1,1
+"Printing, Signage & Art Services",Craft Services,1,Bark,1,1
+"Printing, Signage & Art Services",Drawing Services,1,Airtasker,1,1
+"Printing, Signage & Art Services",Engraving,1,Airtasker,1,1
+"Printing, Signage & Art Services",Mime Artist,1,Airtasker,1,1
+"Printing, Signage & Art Services",Muralists,1,Airtasker,1,1
+"Printing, Signage & Art Services",Photo Printing Service,1,Airtasker,1,1
+"Printing, Signage & Art Services",Printing,1,Checkatrade,1,1
+"Printing, Signage & Art Services",Printing Services,1,Airtasker,1,1
+"Printing, Signage & Art Services",Signage Designer,1,Airtasker,1,1
+"Printing, Signage & Art Services",Signage Installers,1,Airtasker,1,1
+"Printing, Signage & Art Services",T-Shirt Printing,1,Airtasker,1,1
+"Printing, Signage & Art Services",Traditional Craft Services,1,Rated People,1,1
+"Printing, Signage & Art Services",Wall Hanging & Mounting,1,Airtasker,1,1
+"Printing, Signage & Art Services",Wall Murals,1,Checkatrade,1,1
+"Printing, Signage & Art Services",mural artist,1,Checkatrade,1,1
+Professional Services,SEO Services,1,Airtasker,1,1
+"Property, Landlord & Estate Services",Block Management,1,Checkatrade,1,1
+"Property, Landlord & Estate Services",Emergency Landlord Service,1,Checkatrade,1,1
+"Property, Landlord & Estate Services",Estate Agency,1,Airtasker,1,1
+"Property, Landlord & Estate Services",Flat Management,1,Checkatrade,1,1
+"Property, Landlord & Estate Services",Heritage Property Services,1,Checkatrade,1,1
+"Property, Landlord & Estate Services",HomeBuyer Report,1,Checkatrade,1,1
+"Property, Landlord & Estate Services",Land Appraisal,1,Checkatrade,1,1
+"Property, Landlord & Estate Services",Landlord Inventory,1,Checkatrade,1,1
+"Property, Landlord & Estate Services",Landlord Safety Checks,1,Rated People,1,1
+"Property, Landlord & Estate Services",Landlord Services,1,Checkatrade,1,1
+"Property, Landlord & Estate Services",Mid-Tenancy Inspection,1,Checkatrade,1,1
+"Property, Landlord & Estate Services",RICS Condition Report,1,Checkatrade,1,1
+"Property, Landlord & Estate Services",Tenant Check-In Inventory,1,Checkatrade,1,1
+"Property, Landlord & Estate Services",Tenant Check-Out Inventory,1,Checkatrade,1,1
+Removals & Moving,Man & Van,1,Checkatrade,1,1
+"Removals, Delivery & Courier Services",Chauffeur,1,Checkatrade,1,1
+"Removals, Delivery & Courier Services",Commercial Delivery,1,Checkatrade,1,1
+"Removals, Delivery & Courier Services",Emergency Transport Service,1,Checkatrade,1,1
+"Removals, Delivery & Courier Services",Heavy Lifting,1,Airtasker,1,1
+"Removals, Delivery & Courier Services",Minibus Taxi,1,Checkatrade,1,1
+"Removals, Delivery & Courier Services",Move to Storage,1,Airtasker,1,1
+"Removals, Delivery & Courier Services",Packaging Service,1,Checkatrade,1,1
+"Removals, Delivery & Courier Services",Taxi Services,1,Checkatrade,1,1
+"Removals, Delivery & Courier Services",Taxis & Private Hire Vehicles,1,Yell,1,1
+"Removals, Delivery & Courier Services",Taxis and private hire vehicles,1,Yell,1,1
+Renewable Energy & Insulation,Biomass Energy,1,Checkatrade,1,1
+Renewable Energy & Insulation,Emergency Renewable Energy Service,1,Checkatrade,1,1
+Renewable Energy & Insulation,Renewable Energy,1,Checkatrade,1,1
+Renewable Energy & Insulation,Renewable Energy Specialist,1,Rated People,1,1
+Renewable Energy & Insulation,Renewable Energy Specialists,1,Rated People,1,1
+Renewable Energy & Insulation,Solar Thermal Heating Installation,1,Checkatrade,1,1
+Renewable Energy & Insulation,Solar Thermal Heating Servicing / Repair,1,Checkatrade,1,1
+Renewable Energy & Insulation,Thermodynamic Panels,1,Checkatrade,1,1
+Roofing Services,Car Roof Lining Repair,1,Airtasker,1,1
+Roofing Services,Chimney Repair,1,Checkatrade,1,1
+Roofing Services,Dormer / Roof Windows,1,Checkatrade,1,1
+Roofing Services,Downpipe Installation & Repair,1,Airtasker,1,1
+Roofing Services,Drone Roof Inspection,1,Checkatrade,1,1
+Roofing Services,Dry Ridge Installation,1,Checkatrade,1,1
+Roofing Services,Dry Ridge Repair,1,Checkatrade,1,1
+Roofing Services,Dry Verge Installation,1,Checkatrade,1,1
+Roofing Services,Dry Verge Repair,1,Checkatrade,1,1
+Roofing Services,Fix Roof Windows,1,Checkatrade,1,1
+Roofing Services,Gutter Guard Installation,1,Airtasker,1,1
+Roofing Services,Guttering and Rainwater Pipe,1,Rated People,1,1
+Roofing Services,Lead flashing,1,Checkatrade,1,1
+Roofing Services,Ridged Tiles Installation,1,Checkatrade,1,1
+Roofing Services,Roof Coatings,1,Checkatrade,1,1
+Roofing Services,Roof Gardens,1,Checkatrade,1,1
+Roofing Services,Roof Inspection Report,1,Checkatrade,1,1
+Roofing Services,Roof Lights Installation,1,Checkatrade,1,1
+Roofing Services,Roof Lights Repair,1,Checkatrade,1,1
+Roofing Services,Skylight Installation,1,Checkatrade,1,1
+Roofing Services,Slate & Tiled Roof,1,Rated People,1,1
+Roofing Services,Solar Roof Servicing / Repair,1,Checkatrade,1,1
+Roofing Services,Thatched Roof,1,Rated People,1,1
+Roofing Services,Thatching,1,Checkatrade,1,1
+Roofing Services,Tile Repair,1,Checkatrade,1,1
+Roofing Services,UPVC Guttering,1,Checkatrade,1,1
+Roofing Services,Warm Roof Construction,1,Checkatrade,1,1
+Roofing Services,Zinc / Metal Roof,1,Rated People,1,1
+Roofing Services,custom roof trusses,1,Checkatrade,1,1
+Roofing Services,fibreglass roof specialist,1,Checkatrade,1,1
+Roofing Services,green roof companies,1,Checkatrade,1,1
+Roofing Services,lead flashing repairs,1,Checkatrade,1,1
+Roofing Services,lean to roof,1,Checkatrade,1,1
+Roofing Services,metal roof restoration,1,Checkatrade,1,1
+Roofing Services,ridge tile repairs,1,Checkatrade,1,1
+Roofing Services,roof and gutter repairs,1,Checkatrade,1,1
+Roofing Services,roof inspection and repair,1,Checkatrade,1,1
+Roofing Services,roof maintenance,1,Checkatrade,1,1
+Roofing Services,roof moss treatment,1,Checkatrade,1,1
+Roofing Services,roof slate suppliers,1,Checkatrade,1,1
+Roofing Services,roof tile replacement,1,Checkatrade,1,1
+Roofing Services,roof trusses,1,Checkatrade,1,1
+Roofing Services,shed roof refelting,1,Checkatrade,1,1
+Scaffolding Services,Emergency Scaffolding,1,Checkatrade,1,1
+Scaffolding Services,Scaffolding Hire,1,Checkatrade,1,1
+Security & Alarm Services,Alarm Response,1,Checkatrade,1,1
+Security & Alarm Services,Alarm Servicing,1,Airtasker,1,1
+Security & Alarm Services,Alarms / Security,1,Checkatrade,1,1
+Security & Alarm Services,Biometric Security Systems,1,Checkatrade,1,1
+Security & Alarm Services,Burglar Alarm - Installation,1,Checkatrade,1,1
+Security & Alarm Services,Burglar Alarm - Supply & Installation,1,Checkatrade,1,1
+Security & Alarm Services,Burglar Alarm - Supply Only,1,Checkatrade,1,1
+Security & Alarm Services,Burglar Alarm Installation,1,Airtasker,1,1
+Security & Alarm Services,Burglar Alarm Repair,1,Rated People,1,1
+Security & Alarm Services,Burglar Alarm Servicing,1,Checkatrade,1,1
+Security & Alarm Services,"Burglar, Security & Intruder Alarm Installation",1,Rated People,1,1
+Security & Alarm Services,CCTV - Installation,1,Checkatrade,1,1
+Security & Alarm Services,CCTV - Supply & Installation,1,Checkatrade,1,1
+Security & Alarm Services,CCTV - Supply Only,1,Checkatrade,1,1
+Security & Alarm Services,CCTV / Satellites / Alarms,1,Rated People,1,1
+Security & Alarm Services,CCTV Repair,1,Checkatrade,1,1
+Security & Alarm Services,CCTV Surveys for Drains,1,Checkatrade,1,1
+Security & Alarm Services,Call / Door Entry Systems,1,Checkatrade,1,1
+Security & Alarm Services,Car Alarm System Repair,1,Airtasker,1,1
+Security & Alarm Services,Emergency Alarms / Security Service,1,Checkatrade,1,1
+Security & Alarm Services,Event Security,1,Airtasker,1,1
+Security & Alarm Services,Fire Extinguisher Services,1,Checkatrade,1,1
+Security & Alarm Services,Security Assessment,1,Checkatrade,1,1
+Security & Alarm Services,Security Barriers,1,Checkatrade,1,1
+Security & Alarm Services,Security Grill,1,Rated People,1,1
+Security & Alarm Services,Security Guard Services,1,Bark,1,1
+Security & Alarm Services,Security Shutters / Grilles,1,Checkatrade,1,1
+Security & Alarm Services,Security System Installation,1,Airtasker,1,1
+Security & Alarm Services,Security systems / Alarms,1,Rated People,1,1
+Security & Alarm Services,Smoke Alarm - Installation,1,Rated People,1,1
+Security & Alarm Services,Smoke Alarm Installation,1,Airtasker,1,1
+Security & Alarm Services,Smoke Alarm Services,1,Checkatrade,1,1
+Security & Alarm Services,Van Security Locks,1,Checkatrade,1,1
+"Septic, Sewage & Drainage Infrastructure",Septic Tank Emptying,1,Checkatrade,1,1
+"Septic, Sewage & Drainage Infrastructure",Septic Tank Installation,1,Checkatrade,1,1
+"Septic, Sewage & Drainage Infrastructure",Septic Tank Repair,1,Checkatrade,1,1
+"Septic, Sewage & Drainage Infrastructure",Sewage Pump Installation,1,Checkatrade,1,1
+"Septic, Sewage & Drainage Infrastructure",Sewage Pump Maintenance,1,Checkatrade,1,1
+"Smart Home, Network & Cabling",Home Theatre,1,Airtasker,1,1
+"Smart Home, Network & Cabling",Intercom Entry Systems,1,Checkatrade,1,1
+"Smart Home, Network & Cabling",Smart Heating Installation,1,Checkatrade,1,1
+"Smart Home, Network & Cabling",Smart Thermostat Installation,1,Checkatrade,1,1
+Software & Development Services,Android App Development,1,Airtasker,1,1
+Software & Development Services,Database Services,1,Airtasker,1,1
+Software & Development Services,Java Developer,1,Airtasker,1,1
+Software & Development Services,Magento Developer,1,Airtasker,1,1
+Software & Development Services,Mobile App Development,1,Bark,1,1
+Software & Development Services,PHP Developer,1,Airtasker,1,1
+Software & Development Services,Ruby Developer,1,Airtasker,1,1
+Software & Development Services,SQL / Database Services,1,Airtasker,1,1
+Software & Development Services,Shopify Developer,1,Airtasker,1,1
+Software & Development Services,Software Development,1,Bark,1,1
+Software & Development Services,Software Testing,1,Checkatrade,1,1
+Software & Development Services,Squarespace Developer,1,Airtasker,1,1
+Software & Development Services,Website & App Testing,1,Airtasker,1,1
+Software & Development Services,iOS App Development,1,Airtasker,1,1
+Specialist Repair Services,Clock Repair,1,Airtasker,1,1
+Specialist Repair Services,Pool Table Recovering,1,Airtasker,1,1
+Specialist Repair Services,Sawblade Sharpening,1,Airtasker,1,1
+Specialist Repair Services,Trampoline Repair,1,Airtasker,1,1
+Stone & Masonry Services,Dry Stone Walling,1,Checkatrade,1,1
+Stone & Masonry Services,Flint / Stonework,1,Checkatrade,1,1
+Stone & Masonry Services,Stone Carving,1,Checkatrade,1,1
+Surface Treatment & Specialist Coatings,Blasting Services,1,Checkatrade,1,1
+Surface Treatment & Specialist Coatings,Emergency Surface Repair Service,1,Checkatrade,1,1
+Surface Treatment & Specialist Coatings,Glass Surface Repair,1,Checkatrade,1,1
+Surface Treatment & Specialist Coatings,Powder Coating,1,Checkatrade,1,1
+Surface Treatment & Specialist Coatings,Stain Protection,1,Checkatrade,1,1
+Surface Treatment & Specialist Coatings,Surface Repair,1,Checkatrade,1,1
+"TV, Aerial & Audio Visual Services",Aerial Repair,1,Checkatrade,1,1
+"TV, Aerial & Audio Visual Services",Amplifier Repair,1,Airtasker,1,1
+"TV, Aerial & Audio Visual Services",Antenna Installation,1,Airtasker,1,1
+"TV, Aerial & Audio Visual Services",Apple TV Setup,1,Airtasker,1,1
+"TV, Aerial & Audio Visual Services",Audio / Visual Installation,1,Checkatrade,1,1
+"TV, Aerial & Audio Visual Services",Audio Visual,1,Airtasker,1,1
+"TV, Aerial & Audio Visual Services",Communal Aerial / Satellites,1,Checkatrade,1,1
+"TV, Aerial & Audio Visual Services",Drone Aerial Roof & Building Surveying,1,Checkatrade,1,1
+"TV, Aerial & Audio Visual Services",Emergency TV Aerials / Satellite Service,1,Checkatrade,1,1
+"TV, Aerial & Audio Visual Services",Freesat Installation,1,Checkatrade,1,1
+"TV, Aerial & Audio Visual Services",Freeview Installation,1,Checkatrade,1,1
+"TV, Aerial & Audio Visual Services",Head Unit Installation,1,Airtasker,1,1
+"TV, Aerial & Audio Visual Services",Sonos Speaker Repair,1,Airtasker,1,1
+"TV, Aerial & Audio Visual Services",Sound & Audio Visual Installation,1,Rated People,1,1
+"TV, Aerial & Audio Visual Services",Speaker Repair,1,Airtasker,1,1
+"TV, Aerial & Audio Visual Services",TV Aerials / Satellite Services,1,Checkatrade,1,1
+"TV, Aerial & Audio Visual Services",TV Installation,1,Airtasker,1,1
+"TV, Aerial & Audio Visual Services",Television Points,1,Checkatrade,1,1
+"TV, Aerial & Audio Visual Services",Tv Aerial Fitters,1,Checkatrade,1,1
+Tailoring & Clothing Alterations,Alterations,1,Airtasker,1,1
+Tailoring & Clothing Alterations,Coat Repair,1,Airtasker,1,1
+Tailoring & Clothing Alterations,Dressmakers,1,Airtasker,1,1
+Tailoring & Clothing Alterations,Prom Dressmaker,1,Airtasker,1,1
+Tailoring & Clothing Alterations,Seamstress,1,Airtasker,1,1
+Tailoring & Clothing Alterations,Suit Tailor,1,Airtasker,1,1
+Tailoring & Clothing Alterations,Tailors,1,Airtasker,1,1
+Telecoms & Telephone Services,Cabling Services,1,Checkatrade,1,1
+Telecoms & Telephone Services,Fixed Line Services,1,Checkatrade,1,1
+Telecoms & Telephone Services,Telecommunications,1,Checkatrade,1,1
+Telecoms & Telephone Services,Telephone System Equipment,1,Checkatrade,1,1
+Telecoms & Telephone Services,VoIP Telephony,1,Checkatrade,1,1
+Tiling,Wall & Bathroom Tiling,1,Rated People,1,1
+Training & Instruction,CPR Training,1,Airtasker,1,1
+Training & Instruction,Cyber Security Training,1,Checkatrade,1,1
+Training & Instruction,Cycling Training,1,Airtasker,1,1
+Training & Instruction,Drone Training,1,Airtasker,1,1
+Training & Instruction,First Aid Training,1,Airtasker,1,1
+Training & Instruction,Self Defence Classes,1,Airtasker,1,1
+Training & Instruction,Trailer Towing Training,1,Checkatrade,1,1
+Transport & Transfer Services,Airport Transfers,1,Checkatrade,1,1
+Transport & Transfer Services,Caravan Transport,1,Airtasker,1,1
+Transport & Transfer Services,General Transport Services,1,Bark,1,1
+Transport & Transfer Services,Haulage,1,Checkatrade,1,1
+Transport & Transfer Services,Heavy Vehicle Transport,1,Checkatrade,1,1
+Transport & Transfer Services,Light Vehicle Transport,1,Checkatrade,1,1
+Transport & Transfer Services,Refrigerated Transportation,1,Checkatrade,1,1
+Transport & Transfer Services,Return Loads,1,Airtasker,1,1
+Transport & Transfer Services,Transport Services,1,Checkatrade,1,1
+Tree & Grounds Services,Grounds Maintenance,1,Checkatrade,1,1
+Tree & Grounds Services,Tree Lopper,1,Airtasker,1,1
+Tree & Grounds Services,Tree Planting,1,Checkatrade,1,1
+Tree & Grounds Services,Tree Surgery / Consultancy,1,Rated People,1,1
+Tree & Grounds Services,Wood Chipping & Mulching,1,Airtasker,1,1
+Tutoring & Lessons,Driving Lessons,1,Yell,1,1
+Tutoring & Lessons,English Tutoring,1,Airtasker,1,1
+Tutoring & Lessons,Language Classes,1,Bark,1,1
+Tutoring & Lessons,Maths Tutoring,1,Airtasker,1,1
+Tutoring & Lessons,Music Lessons,1,Airtasker,1,1
+Vehicle Graphics & Signage,Sign Making,1,Checkatrade,1,1
+Vehicle Graphics & Signage,Vehicle Signwriting,1,Checkatrade,1,1
+Vehicle Services,Agricultural Mechanic,1,Checkatrade,1,1
+Vehicle Services,Alternator Repair,1,Airtasker,1,1
+Vehicle Services,Alternator Replacement,1,Airtasker,1,1
+Vehicle Services,Bicycle Service,1,Airtasker,1,1
+Vehicle Services,Brake Pad Replacement,1,Airtasker,1,1
+Vehicle Services,Brake Repair,1,Airtasker,1,1
+Vehicle Services,Breakdown Assistance,1,Checkatrade,1,1
+Vehicle Services,Bumper Repair,1,Airtasker,1,1
+Vehicle Services,Car / Auto Electrics,1,Checkatrade,1,1
+Vehicle Services,Car Alarm Services,1,Checkatrade,1,1
+Vehicle Services,Car Audio,1,Checkatrade,1,1
+Vehicle Services,Car Battery Replacement,1,Airtasker,1,1
+Vehicle Services,Car Bodywork,1,Airtasker,1,1
+Vehicle Services,Car CD Player Installation,1,Airtasker,1,1
+Vehicle Services,Car Dealerships,1,Checkatrade,1,1
+Vehicle Services,Car Ports,1,Checkatrade,1,1
+Vehicle Services,Car Sales / Commercial Sales,1,Checkatrade,1,1
+Vehicle Services,Car Seat Repair,1,Airtasker,1,1
+Vehicle Services,Car Speaker Installation,1,Airtasker,1,1
+Vehicle Services,Car Stereo Installation,1,Airtasker,1,1
+Vehicle Services,Car Upholstery Repair,1,Airtasker,1,1
+Vehicle Services,Car Wash,1,Airtasker,1,1
+Vehicle Services,Clutch Replacement,1,Airtasker,1,1
+Vehicle Services,Emergency Towing / Transportation Service,1,Checkatrade,1,1
+Vehicle Services,Engine Rebuild,1,Airtasker,1,1
+Vehicle Services,Engine Rebuilding,1,Checkatrade,1,1
+Vehicle Services,Engine Replacement,1,Airtasker,1,1
+Vehicle Services,Exhaust Repair,1,Airtasker,1,1
+Vehicle Services,Fan Belt Replacement,1,Airtasker,1,1
+Vehicle Services,Fuel Injection Repair,1,Airtasker,1,1
+Vehicle Services,Fuel Pump Replacement,1,Airtasker,1,1
+Vehicle Services,Garage Services,1,Yell,1,1
+Vehicle Services,Glow Plug Replacement,1,Airtasker,1,1
+Vehicle Services,Head Gasket Repair,1,Airtasker,1,1
+Vehicle Services,Headlight Bulb Replacement,1,Airtasker,1,1
+Vehicle Services,Ignition System Repair,1,Airtasker,1,1
+Vehicle Services,Keyless Entry Installation,1,Airtasker,1,1
+Vehicle Services,Mobile Car Air Conditioning,1,Airtasker,1,1
+Vehicle Services,Mobile Car Battery Replacement,1,Airtasker,1,1
+Vehicle Services,Mobile Motorcycle Mechanic,1,Airtasker,1,1
+Vehicle Services,Moped Repair,1,Airtasker,1,1
+Vehicle Services,Motor Home Sales,1,Checkatrade,1,1
+Vehicle Services,Motorcycle Mechanic,1,Airtasker,1,1
+Vehicle Services,Motorcycle Sales,1,Checkatrade,1,1
+Vehicle Services,Motorcycle Seat Repair,1,Airtasker,1,1
+Vehicle Services,Motorcycle Services,1,Checkatrade,1,1
+Vehicle Services,Motorcycle Transport,1,Airtasker,1,1
+Vehicle Services,Motorhome Servicing,1,Checkatrade,1,1
+Vehicle Services,Oil & Filter Change,1,Airtasker,1,1
+Vehicle Services,Panel Beating,1,Airtasker,1,1
+Vehicle Services,Parking Sensor Replacement,1,Airtasker,1,1
+Vehicle Services,Performance Tuning,1,Checkatrade,1,1
+Vehicle Services,Reversing Camera Installation,1,Airtasker,1,1
+Vehicle Services,Scooter Services,1,Checkatrade,1,1
+Vehicle Services,Solar Battery Storage,1,Checkatrade,1,1
+Vehicle Services,Steering Wheel Repair,1,Airtasker,1,1
+Vehicle Services,Suspension Repair,1,Airtasker,1,1
+Vehicle Services,Timing Belt Replacement,1,Airtasker,1,1
+Vehicle Services,Tow Bar Installation,1,Airtasker,1,1
+Vehicle Services,Towing / Transportation,1,Checkatrade,1,1
+Vehicle Services,Towing Services,1,Checkatrade,1,1
+Vehicle Services,Van / Car Hire,1,Checkatrade,1,1
+Vehicle Services,Van Conversion,1,Checkatrade,1,1
+Vehicle Services,Vehicle Recovery,1,Checkatrade,1,1
+Vehicle Services,Vehicle Respraying,1,Airtasker,1,1
+Vehicle Services,Vehicle Transport,1,Airtasker,1,1
+Vehicle Services,Vehicle Wrapping,1,Airtasker,1,1
+Vehicle Services,Wheel Alignment,1,Airtasker,1,1
+Vehicle Services,Wheel Refurbishment,1,Checkatrade,1,1
+Vehicle Services,Wheel Tracking,1,Airtasker,1,1
+Vehicle Services,Windscreen Replacement,1,Checkatrade,1,1
+Waste Services,Waste Removal,1,Rated People,1,1
+"Waste, Clearance & Recycling",Christmas Tree Disposal,1,Airtasker,1,1
+"Waste, Clearance & Recycling",Data Shredding,1,Checkatrade,1,1
+"Waste, Clearance & Recycling",Food Waste Disposal,1,Airtasker,1,1
+"Waste, Clearance & Recycling",Household Waste Disposal,1,Airtasker,1,1
+"Waste, Clearance & Recycling",Pallet Collection & Disposal,1,Airtasker,1,1
+"Waste, Clearance & Recycling",Recycling,1,Checkatrade,1,1
+"Waste, Clearance & Recycling",Skip Bag Hire,1,Checkatrade,1,1
+"Waste, Clearance & Recycling",Waste Bag Collection,1,Airtasker,1,1
+"Waste, Clearance & Recycling",Waste Water Treatment Plant Installations,1,Checkatrade,1,1
+"Water Treatment, Tanks & Pumps",Rainwater Harvesting,1,Checkatrade,1,1
+"Water Treatment, Tanks & Pumps",Water Coolers Supply / Maintenance,1,Checkatrade,1,1
+"Water Treatment, Tanks & Pumps",Water Filtration,1,Checkatrade,1,1
+"Water Treatment, Tanks & Pumps",Water Pumps Installation,1,Checkatrade,1,1
+"Water Treatment, Tanks & Pumps",Water Pumps Repair,1,Checkatrade,1,1
+"Water Treatment, Tanks & Pumps",Water Purification,1,Checkatrade,1,1
+"Water Treatment, Tanks & Pumps",Water Softener Services,1,Airtasker,1,1
+"Water Treatment, Tanks & Pumps",Water Softeners,1,Checkatrade,1,1
+"Water Treatment, Tanks & Pumps",Water Tanks and Immersion Heater,1,Rated People,1,1
+"Water Treatment, Tanks & Pumps",Well Pump Repair,1,Checkatrade,1,1
+"Water Treatment, Tanks & Pumps",water meter,1,Checkatrade,1,1
+Web & Digital Services,Design & Web,1,Bark,1,1
+Web & Digital Services,Google Analytics,1,Airtasker,1,1
+Web & Digital Services,Web,1,Airtasker,1,1
+Web & Digital Services,Web Hosting,1,Airtasker,1,1
+Web & Digital Services,Website Design,1,Checkatrade,1,1
+"Writing, Translation & Language Services",Article Writing,1,Airtasker,1,1
+"Writing, Translation & Language Services",Blog Writing,1,Airtasker,1,1
+"Writing, Translation & Language Services",CV / Resume Writing,1,Airtasker,1,1
+"Writing, Translation & Language Services",Case Study Writing,1,Airtasker,1,1
+"Writing, Translation & Language Services",Creative Writing,1,Airtasker,1,1
+"Writing, Translation & Language Services",General Writing Services,1,Airtasker,1,1
+"Writing, Translation & Language Services",Ghostwriting,1,Airtasker,1,1
+"Writing, Translation & Language Services",Journalism,1,Airtasker,1,1
+"Writing, Translation & Language Services",LinkedIn Profile Writing,1,Airtasker,1,1
+"Writing, Translation & Language Services",Photo Editing and Retouching,1,Airtasker,1,1
+"Writing, Translation & Language Services",Poetry Writing,1,Airtasker,1,1
+"Writing, Translation & Language Services",Press Release Writing,1,Airtasker,1,1
+"Writing, Translation & Language Services",Proposal Writing,1,Airtasker,1,1
+"Writing, Translation & Language Services",Report Writing,1,Airtasker,1,1
+"Writing, Translation & Language Services",Speech Writing,1,Airtasker,1,1
+"Writing, Translation & Language Services",Technical Drawing,1,Checkatrade,1,1
+"Writing, Translation & Language Services",Technical Writing,1,Airtasker,1,1
+"Writing, Translation & Language Services",Transcription,1,Airtasker,1,1
+"Writing, Translation & Language Services",Travel Writing,1,Airtasker,1,1
+"Writing, Translation & Language Services",White Paper Writing,1,Airtasker,1,1

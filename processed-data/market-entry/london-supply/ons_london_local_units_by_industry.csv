@@ -1,0 +1,562 @@
+borough_code,borough,ons_industry_group,local_unit_count
+E09000002,Barking and Dagenham,"01-03 : Agriculture, forestry & fishing",15
+E09000002,Barking and Dagenham,05-39 : Production,370
+E09000002,Barking and Dagenham,41-43 : Construction,2055
+E09000002,Barking and Dagenham,45 : Motor trades,310
+E09000002,Barking and Dagenham,46 : Wholesale,470
+E09000002,Barking and Dagenham,47 : Retail,960
+E09000002,Barking and Dagenham,49-53 : Transport & Storage (inc. postal),715
+E09000002,Barking and Dagenham,55-56 : Accommodation & food services,505
+E09000002,Barking and Dagenham,58-63 : Information & communication,435
+E09000002,Barking and Dagenham,64-66 : Finance & insurance,70
+E09000002,Barking and Dagenham,68 : Property,250
+E09000002,Barking and Dagenham,"69-75 : Professional, scientific & technical",760
+E09000002,Barking and Dagenham,77-82 : Business administration & support services,840
+E09000002,Barking and Dagenham,84 : Public administration & defence,165
+E09000002,Barking and Dagenham,85 : Education,205
+E09000002,Barking and Dagenham,86-88 : Health,540
+E09000002,Barking and Dagenham,"90-99 : Arts, entertainment, recreation & other services",445
+E09000003,Barnet,"01-03 : Agriculture, forestry & fishing",45
+E09000003,Barnet,05-39 : Production,655
+E09000003,Barnet,41-43 : Construction,3795
+E09000003,Barnet,45 : Motor trades,380
+E09000003,Barnet,46 : Wholesale,1215
+E09000003,Barnet,47 : Retail,2435
+E09000003,Barnet,49-53 : Transport & Storage (inc. postal),710
+E09000003,Barnet,55-56 : Accommodation & food services,1255
+E09000003,Barnet,58-63 : Information & communication,2190
+E09000003,Barnet,64-66 : Finance & insurance,570
+E09000003,Barnet,68 : Property,2715
+E09000003,Barnet,"69-75 : Professional, scientific & technical",4515
+E09000003,Barnet,77-82 : Business administration & support services,2285
+E09000003,Barnet,84 : Public administration & defence,40
+E09000003,Barnet,85 : Education,660
+E09000003,Barnet,86-88 : Health,1475
+E09000003,Barnet,"90-99 : Arts, entertainment, recreation & other services",1825
+E09000004,Bexley,"01-03 : Agriculture, forestry & fishing",10
+E09000004,Bexley,05-39 : Production,415
+E09000004,Bexley,41-43 : Construction,2125
+E09000004,Bexley,45 : Motor trades,260
+E09000004,Bexley,46 : Wholesale,355
+E09000004,Bexley,47 : Retail,830
+E09000004,Bexley,49-53 : Transport & Storage (inc. postal),480
+E09000004,Bexley,55-56 : Accommodation & food services,645
+E09000004,Bexley,58-63 : Information & communication,660
+E09000004,Bexley,64-66 : Finance & insurance,110
+E09000004,Bexley,68 : Property,285
+E09000004,Bexley,"69-75 : Professional, scientific & technical",1155
+E09000004,Bexley,77-82 : Business administration & support services,835
+E09000004,Bexley,84 : Public administration & defence,25
+E09000004,Bexley,85 : Education,250
+E09000004,Bexley,86-88 : Health,540
+E09000004,Bexley,"90-99 : Arts, entertainment, recreation & other services",615
+E09000005,Brent,"01-03 : Agriculture, forestry & fishing",10
+E09000005,Brent,05-39 : Production,575
+E09000005,Brent,41-43 : Construction,2475
+E09000005,Brent,45 : Motor trades,455
+E09000005,Brent,46 : Wholesale,935
+E09000005,Brent,47 : Retail,1890
+E09000005,Brent,49-53 : Transport & Storage (inc. postal),895
+E09000005,Brent,55-56 : Accommodation & food services,1135
+E09000005,Brent,58-63 : Information & communication,1350
+E09000005,Brent,64-66 : Finance & insurance,220
+E09000005,Brent,68 : Property,955
+E09000005,Brent,"69-75 : Professional, scientific & technical",2145
+E09000005,Brent,77-82 : Business administration & support services,1425
+E09000005,Brent,84 : Public administration & defence,35
+E09000005,Brent,85 : Education,380
+E09000005,Brent,86-88 : Health,865
+E09000005,Brent,"90-99 : Arts, entertainment, recreation & other services",1230
+E09000006,Bromley,"01-03 : Agriculture, forestry & fishing",50
+E09000006,Bromley,05-39 : Production,500
+E09000006,Bromley,41-43 : Construction,2605
+E09000006,Bromley,45 : Motor trades,270
+E09000006,Bromley,46 : Wholesale,465
+E09000006,Bromley,47 : Retail,1335
+E09000006,Bromley,49-53 : Transport & Storage (inc. postal),380
+E09000006,Bromley,55-56 : Accommodation & food services,960
+E09000006,Bromley,58-63 : Information & communication,1470
+E09000006,Bromley,64-66 : Finance & insurance,295
+E09000006,Bromley,68 : Property,680
+E09000006,Bromley,"69-75 : Professional, scientific & technical",2790
+E09000006,Bromley,77-82 : Business administration & support services,1545
+E09000006,Bromley,84 : Public administration & defence,20
+E09000006,Bromley,85 : Education,385
+E09000006,Bromley,86-88 : Health,945
+E09000006,Bromley,"90-99 : Arts, entertainment, recreation & other services",1335
+E09000007,Camden,"01-03 : Agriculture, forestry & fishing",50
+E09000007,Camden,05-39 : Production,1095
+E09000007,Camden,41-43 : Construction,2090
+E09000007,Camden,45 : Motor trades,220
+E09000007,Camden,46 : Wholesale,1435
+E09000007,Camden,47 : Retail,3035
+E09000007,Camden,49-53 : Transport & Storage (inc. postal),825
+E09000007,Camden,55-56 : Accommodation & food services,2380
+E09000007,Camden,58-63 : Information & communication,5800
+E09000007,Camden,64-66 : Finance & insurance,1080
+E09000007,Camden,68 : Property,2175
+E09000007,Camden,"69-75 : Professional, scientific & technical",10995
+E09000007,Camden,77-82 : Business administration & support services,3855
+E09000007,Camden,84 : Public administration & defence,85
+E09000007,Camden,85 : Education,890
+E09000007,Camden,86-88 : Health,1490
+E09000007,Camden,"90-99 : Arts, entertainment, recreation & other services",3760
+E09000001,City of London,"01-03 : Agriculture, forestry & fishing",30
+E09000001,City of London,05-39 : Production,920
+E09000001,City of London,41-43 : Construction,905
+E09000001,City of London,45 : Motor trades,30
+E09000001,City of London,46 : Wholesale,705
+E09000001,City of London,47 : Retail,880
+E09000001,City of London,49-53 : Transport & Storage (inc. postal),250
+E09000001,City of London,55-56 : Accommodation & food services,1190
+E09000001,City of London,58-63 : Information & communication,2940
+E09000001,City of London,64-66 : Finance & insurance,4195
+E09000001,City of London,68 : Property,1320
+E09000001,City of London,"69-75 : Professional, scientific & technical",8330
+E09000001,City of London,77-82 : Business administration & support services,3520
+E09000001,City of London,84 : Public administration & defence,35
+E09000001,City of London,85 : Education,290
+E09000001,City of London,86-88 : Health,415
+E09000001,City of London,"90-99 : Arts, entertainment, recreation & other services",1095
+E09000008,Croydon,"01-03 : Agriculture, forestry & fishing",20
+E09000008,Croydon,05-39 : Production,445
+E09000008,Croydon,41-43 : Construction,2420
+E09000008,Croydon,45 : Motor trades,375
+E09000008,Croydon,46 : Wholesale,550
+E09000008,Croydon,47 : Retail,1605
+E09000008,Croydon,49-53 : Transport & Storage (inc. postal),710
+E09000008,Croydon,55-56 : Accommodation & food services,1110
+E09000008,Croydon,58-63 : Information & communication,1485
+E09000008,Croydon,64-66 : Finance & insurance,255
+E09000008,Croydon,68 : Property,690
+E09000008,Croydon,"69-75 : Professional, scientific & technical",2410
+E09000008,Croydon,77-82 : Business administration & support services,1305
+E09000008,Croydon,84 : Public administration & defence,65
+E09000008,Croydon,85 : Education,400
+E09000008,Croydon,86-88 : Health,1175
+E09000008,Croydon,"90-99 : Arts, entertainment, recreation & other services",1180
+E09000009,Ealing,"01-03 : Agriculture, forestry & fishing",15
+E09000009,Ealing,05-39 : Production,765
+E09000009,Ealing,41-43 : Construction,2745
+E09000009,Ealing,45 : Motor trades,465
+E09000009,Ealing,46 : Wholesale,1125
+E09000009,Ealing,47 : Retail,2115
+E09000009,Ealing,49-53 : Transport & Storage (inc. postal),955
+E09000009,Ealing,55-56 : Accommodation & food services,1155
+E09000009,Ealing,58-63 : Information & communication,1790
+E09000009,Ealing,64-66 : Finance & insurance,220
+E09000009,Ealing,68 : Property,1000
+E09000009,Ealing,"69-75 : Professional, scientific & technical",2750
+E09000009,Ealing,77-82 : Business administration & support services,1555
+E09000009,Ealing,84 : Public administration & defence,20
+E09000009,Ealing,85 : Education,425
+E09000009,Ealing,86-88 : Health,925
+E09000009,Ealing,"90-99 : Arts, entertainment, recreation & other services",1350
+E09000010,Enfield,"01-03 : Agriculture, forestry & fishing",30
+E09000010,Enfield,05-39 : Production,600
+E09000010,Enfield,41-43 : Construction,2860
+E09000010,Enfield,45 : Motor trades,415
+E09000010,Enfield,46 : Wholesale,845
+E09000010,Enfield,47 : Retail,1570
+E09000010,Enfield,49-53 : Transport & Storage (inc. postal),760
+E09000010,Enfield,55-56 : Accommodation & food services,970
+E09000010,Enfield,58-63 : Information & communication,1150
+E09000010,Enfield,64-66 : Finance & insurance,205
+E09000010,Enfield,68 : Property,915
+E09000010,Enfield,"69-75 : Professional, scientific & technical",2120
+E09000010,Enfield,77-82 : Business administration & support services,1535
+E09000010,Enfield,84 : Public administration & defence,20
+E09000010,Enfield,85 : Education,405
+E09000010,Enfield,86-88 : Health,860
+E09000010,Enfield,"90-99 : Arts, entertainment, recreation & other services",1160
+E09000011,Greenwich,"01-03 : Agriculture, forestry & fishing",10
+E09000011,Greenwich,05-39 : Production,395
+E09000011,Greenwich,41-43 : Construction,1495
+E09000011,Greenwich,45 : Motor trades,180
+E09000011,Greenwich,46 : Wholesale,390
+E09000011,Greenwich,47 : Retail,1205
+E09000011,Greenwich,49-53 : Transport & Storage (inc. postal),445
+E09000011,Greenwich,55-56 : Accommodation & food services,855
+E09000011,Greenwich,58-63 : Information & communication,1090
+E09000011,Greenwich,64-66 : Finance & insurance,100
+E09000011,Greenwich,68 : Property,395
+E09000011,Greenwich,"69-75 : Professional, scientific & technical",1670
+E09000011,Greenwich,77-82 : Business administration & support services,1025
+E09000011,Greenwich,84 : Public administration & defence,35
+E09000011,Greenwich,85 : Education,355
+E09000011,Greenwich,86-88 : Health,785
+E09000011,Greenwich,"90-99 : Arts, entertainment, recreation & other services",980
+E09000012,Hackney,"01-03 : Agriculture, forestry & fishing",30
+E09000012,Hackney,05-39 : Production,820
+E09000012,Hackney,41-43 : Construction,1730
+E09000012,Hackney,45 : Motor trades,170
+E09000012,Hackney,46 : Wholesale,810
+E09000012,Hackney,47 : Retail,2140
+E09000012,Hackney,49-53 : Transport & Storage (inc. postal),490
+E09000012,Hackney,55-56 : Accommodation & food services,1380
+E09000012,Hackney,58-63 : Information & communication,4795
+E09000012,Hackney,64-66 : Finance & insurance,385
+E09000012,Hackney,68 : Property,2115
+E09000012,Hackney,"69-75 : Professional, scientific & technical",6150
+E09000012,Hackney,77-82 : Business administration & support services,2445
+E09000012,Hackney,84 : Public administration & defence,30
+E09000012,Hackney,85 : Education,600
+E09000012,Hackney,86-88 : Health,990
+E09000012,Hackney,"90-99 : Arts, entertainment, recreation & other services",2055
+E09000013,Hammersmith and Fulham,"01-03 : Agriculture, forestry & fishing",25
+E09000013,Hammersmith and Fulham,05-39 : Production,380
+E09000013,Hammersmith and Fulham,41-43 : Construction,845
+E09000013,Hammersmith and Fulham,45 : Motor trades,120
+E09000013,Hammersmith and Fulham,46 : Wholesale,565
+E09000013,Hammersmith and Fulham,47 : Retail,1445
+E09000013,Hammersmith and Fulham,49-53 : Transport & Storage (inc. postal),260
+E09000013,Hammersmith and Fulham,55-56 : Accommodation & food services,975
+E09000013,Hammersmith and Fulham,58-63 : Information & communication,1580
+E09000013,Hammersmith and Fulham,64-66 : Finance & insurance,390
+E09000013,Hammersmith and Fulham,68 : Property,735
+E09000013,Hammersmith and Fulham,"69-75 : Professional, scientific & technical",2865
+E09000013,Hammersmith and Fulham,77-82 : Business administration & support services,1485
+E09000013,Hammersmith and Fulham,84 : Public administration & defence,95
+E09000013,Hammersmith and Fulham,85 : Education,350
+E09000013,Hammersmith and Fulham,86-88 : Health,610
+E09000013,Hammersmith and Fulham,"90-99 : Arts, entertainment, recreation & other services",1265
+E09000014,Haringey,"01-03 : Agriculture, forestry & fishing",15
+E09000014,Haringey,05-39 : Production,530
+E09000014,Haringey,41-43 : Construction,1545
+E09000014,Haringey,45 : Motor trades,190
+E09000014,Haringey,46 : Wholesale,580
+E09000014,Haringey,47 : Retail,1430
+E09000014,Haringey,49-53 : Transport & Storage (inc. postal),405
+E09000014,Haringey,55-56 : Accommodation & food services,950
+E09000014,Haringey,58-63 : Information & communication,1380
+E09000014,Haringey,64-66 : Finance & insurance,130
+E09000014,Haringey,68 : Property,805
+E09000014,Haringey,"69-75 : Professional, scientific & technical",2320
+E09000014,Haringey,77-82 : Business administration & support services,1125
+E09000014,Haringey,84 : Public administration & defence,25
+E09000014,Haringey,85 : Education,335
+E09000014,Haringey,86-88 : Health,655
+E09000014,Haringey,"90-99 : Arts, entertainment, recreation & other services",1450
+E09000015,Harrow,"01-03 : Agriculture, forestry & fishing",20
+E09000015,Harrow,05-39 : Production,325
+E09000015,Harrow,41-43 : Construction,2550
+E09000015,Harrow,45 : Motor trades,355
+E09000015,Harrow,46 : Wholesale,720
+E09000015,Harrow,47 : Retail,1475
+E09000015,Harrow,49-53 : Transport & Storage (inc. postal),630
+E09000015,Harrow,55-56 : Accommodation & food services,755
+E09000015,Harrow,58-63 : Information & communication,1595
+E09000015,Harrow,64-66 : Finance & insurance,320
+E09000015,Harrow,68 : Property,1170
+E09000015,Harrow,"69-75 : Professional, scientific & technical",2750
+E09000015,Harrow,77-82 : Business administration & support services,1250
+E09000015,Harrow,84 : Public administration & defence,10
+E09000015,Harrow,85 : Education,320
+E09000015,Harrow,86-88 : Health,960
+E09000015,Harrow,"90-99 : Arts, entertainment, recreation & other services",865
+E09000016,Havering,"01-03 : Agriculture, forestry & fishing",35
+E09000016,Havering,05-39 : Production,435
+E09000016,Havering,41-43 : Construction,3020
+E09000016,Havering,45 : Motor trades,390
+E09000016,Havering,46 : Wholesale,435
+E09000016,Havering,47 : Retail,1050
+E09000016,Havering,49-53 : Transport & Storage (inc. postal),610
+E09000016,Havering,55-56 : Accommodation & food services,710
+E09000016,Havering,58-63 : Information & communication,615
+E09000016,Havering,64-66 : Finance & insurance,175
+E09000016,Havering,68 : Property,415
+E09000016,Havering,"69-75 : Professional, scientific & technical",1265
+E09000016,Havering,77-82 : Business administration & support services,1080
+E09000016,Havering,84 : Public administration & defence,25
+E09000016,Havering,85 : Education,270
+E09000016,Havering,86-88 : Health,665
+E09000016,Havering,"90-99 : Arts, entertainment, recreation & other services",735
+E09000017,Hillingdon,"01-03 : Agriculture, forestry & fishing",30
+E09000017,Hillingdon,05-39 : Production,625
+E09000017,Hillingdon,41-43 : Construction,2815
+E09000017,Hillingdon,45 : Motor trades,480
+E09000017,Hillingdon,46 : Wholesale,775
+E09000017,Hillingdon,47 : Retail,1750
+E09000017,Hillingdon,49-53 : Transport & Storage (inc. postal),1330
+E09000017,Hillingdon,55-56 : Accommodation & food services,1025
+E09000017,Hillingdon,58-63 : Information & communication,1335
+E09000017,Hillingdon,64-66 : Finance & insurance,290
+E09000017,Hillingdon,68 : Property,745
+E09000017,Hillingdon,"69-75 : Professional, scientific & technical",1975
+E09000017,Hillingdon,77-82 : Business administration & support services,1435
+E09000017,Hillingdon,84 : Public administration & defence,55
+E09000017,Hillingdon,85 : Education,340
+E09000017,Hillingdon,86-88 : Health,765
+E09000017,Hillingdon,"90-99 : Arts, entertainment, recreation & other services",950
+E09000018,Hounslow,"01-03 : Agriculture, forestry & fishing",30
+E09000018,Hounslow,05-39 : Production,430
+E09000018,Hounslow,41-43 : Construction,1775
+E09000018,Hounslow,45 : Motor trades,355
+E09000018,Hounslow,46 : Wholesale,715
+E09000018,Hounslow,47 : Retail,1550
+E09000018,Hounslow,49-53 : Transport & Storage (inc. postal),1055
+E09000018,Hounslow,55-56 : Accommodation & food services,925
+E09000018,Hounslow,58-63 : Information & communication,1785
+E09000018,Hounslow,64-66 : Finance & insurance,205
+E09000018,Hounslow,68 : Property,680
+E09000018,Hounslow,"69-75 : Professional, scientific & technical",2005
+E09000018,Hounslow,77-82 : Business administration & support services,1305
+E09000018,Hounslow,84 : Public administration & defence,30
+E09000018,Hounslow,85 : Education,320
+E09000018,Hounslow,86-88 : Health,645
+E09000018,Hounslow,"90-99 : Arts, entertainment, recreation & other services",965
+E09000019,Islington,"01-03 : Agriculture, forestry & fishing",30
+E09000019,Islington,05-39 : Production,785
+E09000019,Islington,41-43 : Construction,1530
+E09000019,Islington,45 : Motor trades,160
+E09000019,Islington,46 : Wholesale,900
+E09000019,Islington,47 : Retail,2115
+E09000019,Islington,49-53 : Transport & Storage (inc. postal),470
+E09000019,Islington,55-56 : Accommodation & food services,1525
+E09000019,Islington,58-63 : Information & communication,4160
+E09000019,Islington,64-66 : Finance & insurance,685
+E09000019,Islington,68 : Property,1120
+E09000019,Islington,"69-75 : Professional, scientific & technical",5740
+E09000019,Islington,77-82 : Business administration & support services,2490
+E09000019,Islington,84 : Public administration & defence,50
+E09000019,Islington,85 : Education,575
+E09000019,Islington,86-88 : Health,995
+E09000019,Islington,"90-99 : Arts, entertainment, recreation & other services",2150
+E09000020,Kensington and Chelsea,"01-03 : Agriculture, forestry & fishing",50
+E09000020,Kensington and Chelsea,05-39 : Production,310
+E09000020,Kensington and Chelsea,41-43 : Construction,835
+E09000020,Kensington and Chelsea,45 : Motor trades,90
+E09000020,Kensington and Chelsea,46 : Wholesale,545
+E09000020,Kensington and Chelsea,47 : Retail,1870
+E09000020,Kensington and Chelsea,49-53 : Transport & Storage (inc. postal),180
+E09000020,Kensington and Chelsea,55-56 : Accommodation & food services,1110
+E09000020,Kensington and Chelsea,58-63 : Information & communication,1160
+E09000020,Kensington and Chelsea,64-66 : Finance & insurance,505
+E09000020,Kensington and Chelsea,68 : Property,1155
+E09000020,Kensington and Chelsea,"69-75 : Professional, scientific & technical",3100
+E09000020,Kensington and Chelsea,77-82 : Business administration & support services,1590
+E09000020,Kensington and Chelsea,84 : Public administration & defence,35
+E09000020,Kensington and Chelsea,85 : Education,320
+E09000020,Kensington and Chelsea,86-88 : Health,670
+E09000020,Kensington and Chelsea,"90-99 : Arts, entertainment, recreation & other services",1400
+E09000021,Kingston upon Thames,"01-03 : Agriculture, forestry & fishing",15
+E09000021,Kingston upon Thames,05-39 : Production,295
+E09000021,Kingston upon Thames,41-43 : Construction,1060
+E09000021,Kingston upon Thames,45 : Motor trades,155
+E09000021,Kingston upon Thames,46 : Wholesale,385
+E09000021,Kingston upon Thames,47 : Retail,1100
+E09000021,Kingston upon Thames,49-53 : Transport & Storage (inc. postal),250
+E09000021,Kingston upon Thames,55-56 : Accommodation & food services,605
+E09000021,Kingston upon Thames,58-63 : Information & communication,955
+E09000021,Kingston upon Thames,64-66 : Finance & insurance,115
+E09000021,Kingston upon Thames,68 : Property,385
+E09000021,Kingston upon Thames,"69-75 : Professional, scientific & technical",1745
+E09000021,Kingston upon Thames,77-82 : Business administration & support services,825
+E09000021,Kingston upon Thames,84 : Public administration & defence,70
+E09000021,Kingston upon Thames,85 : Education,230
+E09000021,Kingston upon Thames,86-88 : Health,525
+E09000021,Kingston upon Thames,"90-99 : Arts, entertainment, recreation & other services",670
+E09000022,Lambeth,"01-03 : Agriculture, forestry & fishing",15
+E09000022,Lambeth,05-39 : Production,420
+E09000022,Lambeth,41-43 : Construction,1090
+E09000022,Lambeth,45 : Motor trades,140
+E09000022,Lambeth,46 : Wholesale,430
+E09000022,Lambeth,47 : Retail,1300
+E09000022,Lambeth,49-53 : Transport & Storage (inc. postal),365
+E09000022,Lambeth,55-56 : Accommodation & food services,1310
+E09000022,Lambeth,58-63 : Information & communication,1675
+E09000022,Lambeth,64-66 : Finance & insurance,220
+E09000022,Lambeth,68 : Property,740
+E09000022,Lambeth,"69-75 : Professional, scientific & technical",2925
+E09000022,Lambeth,77-82 : Business administration & support services,1555
+E09000022,Lambeth,84 : Public administration & defence,60
+E09000022,Lambeth,85 : Education,385
+E09000022,Lambeth,86-88 : Health,955
+E09000022,Lambeth,"90-99 : Arts, entertainment, recreation & other services",1480
+E09000023,Lewisham,"01-03 : Agriculture, forestry & fishing",15
+E09000023,Lewisham,05-39 : Production,295
+E09000023,Lewisham,41-43 : Construction,1080
+E09000023,Lewisham,45 : Motor trades,140
+E09000023,Lewisham,46 : Wholesale,285
+E09000023,Lewisham,47 : Retail,1110
+E09000023,Lewisham,49-53 : Transport & Storage (inc. postal),375
+E09000023,Lewisham,55-56 : Accommodation & food services,920
+E09000023,Lewisham,58-63 : Information & communication,1215
+E09000023,Lewisham,64-66 : Finance & insurance,100
+E09000023,Lewisham,68 : Property,350
+E09000023,Lewisham,"69-75 : Professional, scientific & technical",1825
+E09000023,Lewisham,77-82 : Business administration & support services,885
+E09000023,Lewisham,84 : Public administration & defence,35
+E09000023,Lewisham,85 : Education,285
+E09000023,Lewisham,86-88 : Health,710
+E09000023,Lewisham,"90-99 : Arts, entertainment, recreation & other services",1175
+E09000024,Merton,"01-03 : Agriculture, forestry & fishing",20
+E09000024,Merton,05-39 : Production,375
+E09000024,Merton,41-43 : Construction,1675
+E09000024,Merton,45 : Motor trades,260
+E09000024,Merton,46 : Wholesale,470
+E09000024,Merton,47 : Retail,1045
+E09000024,Merton,49-53 : Transport & Storage (inc. postal),615
+E09000024,Merton,55-56 : Accommodation & food services,675
+E09000024,Merton,58-63 : Information & communication,1130
+E09000024,Merton,64-66 : Finance & insurance,185
+E09000024,Merton,68 : Property,570
+E09000024,Merton,"69-75 : Professional, scientific & technical",2170
+E09000024,Merton,77-82 : Business administration & support services,1215
+E09000024,Merton,84 : Public administration & defence,20
+E09000024,Merton,85 : Education,310
+E09000024,Merton,86-88 : Health,670
+E09000024,Merton,"90-99 : Arts, entertainment, recreation & other services",825
+E09000025,Newham,"01-03 : Agriculture, forestry & fishing",10
+E09000025,Newham,05-39 : Production,475
+E09000025,Newham,41-43 : Construction,2325
+E09000025,Newham,45 : Motor trades,240
+E09000025,Newham,46 : Wholesale,660
+E09000025,Newham,47 : Retail,2175
+E09000025,Newham,49-53 : Transport & Storage (inc. postal),845
+E09000025,Newham,55-56 : Accommodation & food services,1165
+E09000025,Newham,58-63 : Information & communication,1290
+E09000025,Newham,64-66 : Finance & insurance,145
+E09000025,Newham,68 : Property,625
+E09000025,Newham,"69-75 : Professional, scientific & technical",1690
+E09000025,Newham,77-82 : Business administration & support services,1450
+E09000025,Newham,84 : Public administration & defence,55
+E09000025,Newham,85 : Education,460
+E09000025,Newham,86-88 : Health,735
+E09000025,Newham,"90-99 : Arts, entertainment, recreation & other services",975
+E09000026,Redbridge,"01-03 : Agriculture, forestry & fishing",15
+E09000026,Redbridge,05-39 : Production,420
+E09000026,Redbridge,41-43 : Construction,2735
+E09000026,Redbridge,45 : Motor trades,360
+E09000026,Redbridge,46 : Wholesale,635
+E09000026,Redbridge,47 : Retail,1625
+E09000026,Redbridge,49-53 : Transport & Storage (inc. postal),725
+E09000026,Redbridge,55-56 : Accommodation & food services,970
+E09000026,Redbridge,58-63 : Information & communication,1405
+E09000026,Redbridge,64-66 : Finance & insurance,180
+E09000026,Redbridge,68 : Property,1015
+E09000026,Redbridge,"69-75 : Professional, scientific & technical",2165
+E09000026,Redbridge,77-82 : Business administration & support services,1445
+E09000026,Redbridge,84 : Public administration & defence,55
+E09000026,Redbridge,85 : Education,420
+E09000026,Redbridge,86-88 : Health,985
+E09000026,Redbridge,"90-99 : Arts, entertainment, recreation & other services",895
+E09000027,Richmond upon Thames,"01-03 : Agriculture, forestry & fishing",25
+E09000027,Richmond upon Thames,05-39 : Production,295
+E09000027,Richmond upon Thames,41-43 : Construction,960
+E09000027,Richmond upon Thames,45 : Motor trades,125
+E09000027,Richmond upon Thames,46 : Wholesale,410
+E09000027,Richmond upon Thames,47 : Retail,1075
+E09000027,Richmond upon Thames,49-53 : Transport & Storage (inc. postal),230
+E09000027,Richmond upon Thames,55-56 : Accommodation & food services,760
+E09000027,Richmond upon Thames,58-63 : Information & communication,1725
+E09000027,Richmond upon Thames,64-66 : Finance & insurance,205
+E09000027,Richmond upon Thames,68 : Property,660
+E09000027,Richmond upon Thames,"69-75 : Professional, scientific & technical",3350
+E09000027,Richmond upon Thames,77-82 : Business administration & support services,1185
+E09000027,Richmond upon Thames,84 : Public administration & defence,30
+E09000027,Richmond upon Thames,85 : Education,355
+E09000027,Richmond upon Thames,86-88 : Health,705
+E09000027,Richmond upon Thames,"90-99 : Arts, entertainment, recreation & other services",1255
+E09000028,Southwark,"01-03 : Agriculture, forestry & fishing",25
+E09000028,Southwark,05-39 : Production,630
+E09000028,Southwark,41-43 : Construction,1050
+E09000028,Southwark,45 : Motor trades,115
+E09000028,Southwark,46 : Wholesale,505
+E09000028,Southwark,47 : Retail,1620
+E09000028,Southwark,49-53 : Transport & Storage (inc. postal),390
+E09000028,Southwark,55-56 : Accommodation & food services,1500
+E09000028,Southwark,58-63 : Information & communication,2285
+E09000028,Southwark,64-66 : Finance & insurance,490
+E09000028,Southwark,68 : Property,765
+E09000028,Southwark,"69-75 : Professional, scientific & technical",3960
+E09000028,Southwark,77-82 : Business administration & support services,1815
+E09000028,Southwark,84 : Public administration & defence,55
+E09000028,Southwark,85 : Education,440
+E09000028,Southwark,86-88 : Health,920
+E09000028,Southwark,"90-99 : Arts, entertainment, recreation & other services",1685
+E09000029,Sutton,"01-03 : Agriculture, forestry & fishing",25
+E09000029,Sutton,05-39 : Production,285
+E09000029,Sutton,41-43 : Construction,1820
+E09000029,Sutton,45 : Motor trades,205
+E09000029,Sutton,46 : Wholesale,315
+E09000029,Sutton,47 : Retail,780
+E09000029,Sutton,49-53 : Transport & Storage (inc. postal),300
+E09000029,Sutton,55-56 : Accommodation & food services,570
+E09000029,Sutton,58-63 : Information & communication,990
+E09000029,Sutton,64-66 : Finance & insurance,125
+E09000029,Sutton,68 : Property,310
+E09000029,Sutton,"69-75 : Professional, scientific & technical",1270
+E09000029,Sutton,77-82 : Business administration & support services,800
+E09000029,Sutton,84 : Public administration & defence,20
+E09000029,Sutton,85 : Education,220
+E09000029,Sutton,86-88 : Health,570
+E09000029,Sutton,"90-99 : Arts, entertainment, recreation & other services",620
+E09000030,Tower Hamlets,"01-03 : Agriculture, forestry & fishing",20
+E09000030,Tower Hamlets,05-39 : Production,570
+E09000030,Tower Hamlets,41-43 : Construction,1095
+E09000030,Tower Hamlets,45 : Motor trades,180
+E09000030,Tower Hamlets,46 : Wholesale,910
+E09000030,Tower Hamlets,47 : Retail,1810
+E09000030,Tower Hamlets,49-53 : Transport & Storage (inc. postal),510
+E09000030,Tower Hamlets,55-56 : Accommodation & food services,1620
+E09000030,Tower Hamlets,58-63 : Information & communication,2570
+E09000030,Tower Hamlets,64-66 : Finance & insurance,660
+E09000030,Tower Hamlets,68 : Property,1195
+E09000030,Tower Hamlets,"69-75 : Professional, scientific & technical",3425
+E09000030,Tower Hamlets,77-82 : Business administration & support services,1950
+E09000030,Tower Hamlets,84 : Public administration & defence,70
+E09000030,Tower Hamlets,85 : Education,615
+E09000030,Tower Hamlets,86-88 : Health,825
+E09000030,Tower Hamlets,"90-99 : Arts, entertainment, recreation & other services",1500
+E09000031,Waltham Forest,"01-03 : Agriculture, forestry & fishing",15
+E09000031,Waltham Forest,05-39 : Production,520
+E09000031,Waltham Forest,41-43 : Construction,2245
+E09000031,Waltham Forest,45 : Motor trades,230
+E09000031,Waltham Forest,46 : Wholesale,545
+E09000031,Waltham Forest,47 : Retail,1315
+E09000031,Waltham Forest,49-53 : Transport & Storage (inc. postal),565
+E09000031,Waltham Forest,55-56 : Accommodation & food services,840
+E09000031,Waltham Forest,58-63 : Information & communication,1180
+E09000031,Waltham Forest,64-66 : Finance & insurance,110
+E09000031,Waltham Forest,68 : Property,445
+E09000031,Waltham Forest,"69-75 : Professional, scientific & technical",1910
+E09000031,Waltham Forest,77-82 : Business administration & support services,1085
+E09000031,Waltham Forest,84 : Public administration & defence,20
+E09000031,Waltham Forest,85 : Education,280
+E09000031,Waltham Forest,86-88 : Health,580
+E09000031,Waltham Forest,"90-99 : Arts, entertainment, recreation & other services",1070
+E09000032,Wandsworth,"01-03 : Agriculture, forestry & fishing",25
+E09000032,Wandsworth,05-39 : Production,445
+E09000032,Wandsworth,41-43 : Construction,1205
+E09000032,Wandsworth,45 : Motor trades,155
+E09000032,Wandsworth,46 : Wholesale,645
+E09000032,Wandsworth,47 : Retail,1590
+E09000032,Wandsworth,49-53 : Transport & Storage (inc. postal),355
+E09000032,Wandsworth,55-56 : Accommodation & food services,1245
+E09000032,Wandsworth,58-63 : Information & communication,1690
+E09000032,Wandsworth,64-66 : Finance & insurance,265
+E09000032,Wandsworth,68 : Property,905
+E09000032,Wandsworth,"69-75 : Professional, scientific & technical",3755
+E09000032,Wandsworth,77-82 : Business administration & support services,1670
+E09000032,Wandsworth,84 : Public administration & defence,40
+E09000032,Wandsworth,85 : Education,435
+E09000032,Wandsworth,86-88 : Health,900
+E09000032,Wandsworth,"90-99 : Arts, entertainment, recreation & other services",1575
+E09000033,Westminster,"01-03 : Agriculture, forestry & fishing",110
+E09000033,Westminster,05-39 : Production,1785
+E09000033,Westminster,41-43 : Construction,3325
+E09000033,Westminster,45 : Motor trades,160
+E09000033,Westminster,46 : Wholesale,1910
+E09000033,Westminster,47 : Retail,4650
+E09000033,Westminster,49-53 : Transport & Storage (inc. postal),805
+E09000033,Westminster,55-56 : Accommodation & food services,4155
+E09000033,Westminster,58-63 : Information & communication,6455
+E09000033,Westminster,64-66 : Finance & insurance,4795
+E09000033,Westminster,68 : Property,5810
+E09000033,Westminster,"69-75 : Professional, scientific & technical",12860
+E09000033,Westminster,77-82 : Business administration & support services,6975
+E09000033,Westminster,84 : Public administration & defence,265
+E09000033,Westminster,85 : Education,835
+E09000033,Westminster,86-88 : Health,2020
+E09000033,Westminster,"90-99 : Arts, entertainment, recreation & other services",5495
